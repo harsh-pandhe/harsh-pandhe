@@ -1,43 +1,114 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Harsh Pandhe
-====================================================================================================================================
+<h1 align="center">Hi there<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">, I'm Harsh Pandhe</h1>
+<h3 align="center">🚀 Future-Ready Student | B.Tech @ SIT Lonavala | Quantum, Blockchain, AI, Cloud, Web & Cybersecurity Explorer</h3>
 
-Crafting the Web's Next Generation of Digital Experiences
----------------------------------------------------------
-
-Dedicated to designing immersive digital experiences, I'm an enthusiastic learner in the ever-evolving landscape of web development. With a keen eye for innovation and a commitment to excellence, I strive to craft sophisticated and impactful solutions. Let's shape the future of the web together! 🌐👨‍💻
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [harshpandhehome@gmail.com](mailto:harshpandhehome@gmail.com)
-* 🧠  I'm learning Rust.
-* 🤝  I'm open to collaborating on Rust projects for high-performance solutions.
-* ⚡  I'm secretly called Emoji.
-
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+<p align="center">
+  <a href="https://github.com/harsh-pandhe">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=30AADD&center=true&vCenter=true&width=450&lines=Quantum+Builder+%E2%9C%A8;Blockchain+Innovator+%F0%9F%92%B8;AI%2FML+Enthusiast+%F0%9F%A4%96;Web+%2B+Cloud+Coder+%F0%9F%92%BB;Cybersecurity+Learner+%F0%9F%A7%AA;BTech+%40+SIT+Lonavala+%F0%9F%8F%AB" alt="Typing SVG" />
+  </a>
 </p>
 
+---
 
-### Socials
+## 👨‍💻 About Me
 
-<p align="left"> <a href="https://www.codepen.io/harsh_pandhe" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> <a href="https://www.dev.to/harshpandhe" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.dribbble.com/HarshPandhe" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/harsh-pandhe" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/harsh_pandhe/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/harsh-pandhe-853a9121a/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@harshpandhehome" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/HarshPandhe" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+- 🎓 BTech student | Computer Engineering @ SIT Lonavala (from Navi Mumbai)
+- 🔭 Currently on a year-long mission to deep-dive into **Quantum Computing, AI/ML, Blockchain, Web, Cloud & Ethical Hacking**
+- 🧠 GATE 2026 aspirant, committed to interdisciplinary learning and impact
+- 🌱 Building hands-on projects and sharing my tech journey via GitHub & LinkedIn
+- 💡 Focused on: Quantum algorithms (Qiskit), Smart Contracts (Solidity), Full Stack cloud apps, ML models (TensorFlow/PyTorch), Security scripts, and more
+- 🤝 Open to collaborations, hackathons, and knowledge exchange
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 🛠️ Tech Stack 
 
-<a href="http://www.github.com/harsh-pandhe"><img src="https://github-readme-stats.vercel.app/api?username=harsh-pandhe&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=6366f1&icon_color=ef4444&bg_color=171717&hide_border=true&show_icons=true" alt="harsh-pandhe's GitHub stats" /></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,html,css,tailwind,bootstrap,mongodb,firebase,git,github,figma,rust,docker,aws,gcp,solidity,linux" />
+</p>
 
-<a href="http://www.github.com/harsh-pandhe"><img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-pandhe&stroke=6366f1&background=171717&ring=84cc16&fire=84cc16&currStreakNum=6366f1&currStreakLabel=84cc16&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
+| Area           | Tools & Skills                                 |
+|----------------|------------------------------------------------|
+| Quantum        | Qiskit, Python, Quantum Circuits               |
+| Blockchain     | Ethereum, Solidity, Metamask                   |
+| AI/ML          | Python, TensorFlow, PyTorch, NLP, LLMs         |
+| Web            | React, Next.js, Node.js, HTML/CSS, Tailwind    |
+| Cloud/DevOps   | AWS, GCP, Docker, Kubernetes                   |
+| Security       | Kali Linux, OWASP, CTF scripting               |
 
-<a href="https://github.com/harsh-pandhe" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-pandhe&langs_count=10&title_color=84cc16&text_color=6366f1&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
-### Support Me
+## 🚀 Current Focus & Learning Roadmap
 
-<ul style="list-style-type: none; margin: 0;">
+- **Quantum Computing:** Qiskit projects, quantum gate experimentation, sharing notebook walk-throughs
+- **Blockchain:** Solidity smart contracts, campus DApps, Ethereum experiments
+- **AI/ML:** Model deployment, NLP/LLM explorations, open datasets
+- **Web Development:** Full-stack cloud apps, UI/UX best practices
+- **Cloud & DevOps:** Multi-cloud deployments, CI/CD for student projects
+- **Ethical Hacking:** CTF challenges, pen-testing learning, automation scripts
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/harsh_pandhe"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+---
 
-</ul>
+## 📚 Projects & Achievements
+
+- 🧑‍🔬 **Grover’s Search Qiskit Demo** – Quantum algorithm implementation and dev log
+- 🔗 **SmartVote** – Blockchain-based voting for secure campus elections
+- 🤖 **SentimentSense** – ML/NLP-powered sentiment analysis toolkit
+- ☁️ **Cloudfolio** – Personal portfolio with containerized deployment on AWS/GCP
+- 🛡️ **HackScript** – Automated pen-test/CTF scripting repository
+
+_More on my GitHub: pinned and organized by domain._
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh-pandhe&show_icons=true&theme=tokyonight&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=harsh-pandhe&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harsh-pandhe&theme=tokyonight&row=1&column=7" />
+</p>
+
+---
+
+## 📫 How to Reach Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/harsh-pandhe-853a9121a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/harsh-pandhe" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge" />
+  </a>
+  <a href="http://www.instagram.com/harsh_pandhe/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge" />
+  </a>
+  <a href="http://www.medium.com/@harshpandhehome" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&style=for-the-badge" />
+  </a>
+  <a href="https://www.x.com/HarshPandhe" target="_blank">
+    <img src="https://img.shields.io/badge/X-black?logo=x&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 🧠 Fun Fact
+
+> I do my learning in dark mode — new ideas prefer the night! 🌙💡
+
+---
+
+## ✨ Support My Journey
+
+If you find my work useful, please star ⭐️ my projects — it keeps me motivated and sharing more!
+
+---
+
+_Always building, learning, and sharing across quantum, blockchain, AI/ML, cloud, web and cybersecurity. Let’s connect and code the future together!_
