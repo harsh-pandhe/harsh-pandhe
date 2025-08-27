@@ -50,11 +50,8 @@
 
 ## 📚 Projects & Achievements
 
-- 🧑‍🔬 **Grover’s Search Qiskit Demo** – Quantum algorithm implementation and dev log
-- 🔗 **SmartVote** – Blockchain-based voting for secure campus elections
-- 🤖 **SentimentSense** – ML/NLP-powered sentiment analysis toolkit
-- ☁️ **Cloudfolio** – Personal portfolio with containerized deployment on AWS/GCP
-- 🛡️ **HackScript** – Automated pen-test/CTF scripting repository
+- 🧑‍🔬 **Quantum Powered Blockchain** – Quantum algorithm implementation with Custom Blockchain
+- 🔗 **Collaborative Code Editor** – Real-time Collaboration plateform for Coding
 
 _More on my GitHub: pinned and organized by domain._
 
