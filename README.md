@@ -52,6 +52,7 @@
 
 - 🧑‍🔬 **Quantum Powered Blockchain** – Quantum algorithm implementation with Custom Blockchain
 - 🔗 **Collaborative Code Editor** – Real-time Collaboration plateform for Coding
+- 🚚 **MapFleet** – Effortless fleet management, real-time tracking, and seamless deliveries—all in one powerful platform.
 
 _More on my GitHub: pinned and organized by domain._
 
