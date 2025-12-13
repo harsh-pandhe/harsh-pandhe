@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/harsh-pandhe">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=30AADD&center=true&vCenter=true&width=450&lines=Quantum+Builder+%E2%9C%A8;Blockchain+Innovator+%F0%9F%92%B8;AI%2FML+Enthusiast+%F0%9F%A4%96;Web+%2B+Cloud+Coder+%F0%9F%92%BB;Cybersecurity+Learner+%F0%9F%A7%AA;BTech+%40+SIT+Lonavala+%F0%9F%8F%AB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=30AADD&center=true&vCenter=true&width=450&lines=SIH+2025+Winner+🏆;Quantum+Builder+✨;Blockchain+Innovator+💸;AI%2FML+Enthusiast+🤖;Web+%2B+Cloud+Coder+💻;Cybersecurity+Learner+🧪;BTech+%40+SIT+Lonavala+🏫" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,6 +12,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 BTech student | Computer Engineering @ SIT Lonavala (from Navi Mumbai)
+- 🏆 **Winner – Smart India Hackathon (SIH) 2025** | Team: *Algo Sapiens*
 - 🔭 Currently on a year-long mission to deep-dive into **Quantum Computing, AI/ML, Blockchain, Web, Cloud & Ethical Hacking**
 - 🧠 GATE 2026 aspirant, committed to interdisciplinary learning and impact
 - 🌱 Building hands-on projects and sharing my tech journey via GitHub & LinkedIn
@@ -50,9 +51,12 @@
 
 ## 📚 Projects & Achievements
 
+- 🥇 **Smart India Hackathon (SIH) 2025 Winner** – National-level hackathon victory with Team *Algo Sapiens* (Dec 2025)
+- 🎯 **Project Morpheus 2026 (Organizer)** – Managing website development, registration systems & volunteer coordination for a national hackathon (Feb 2026)
+- 🌳 **Kalpataru** – Evolved from a competition platform into a broader initiative with advanced web architecture, **Three.js integration**, and a parallel robotics component
 - 🧑‍🔬 **Quantum Powered Blockchain** – Quantum algorithm implementation with Custom Blockchain
-- 🔗 **Collaborative Code Editor** – Real-time Collaboration plateform for Coding
-- 🚚 **MapFleet** – Effortless fleet management, real-time tracking, and seamless deliveries—all in one powerful platform.
+- 🔗 **Collaborative Code Editor** – Real-time Collaboration platform for Coding
+- 🚚 **MapFleet** – Effortless fleet management, real-time tracking, and seamless deliveries—all in one powerful platform
 
 _More on my GitHub: pinned and organized by domain._
 
