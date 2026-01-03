@@ -17,6 +17,7 @@ jobs:
           github_user_name: harsh-pandhe
           outputs: |
             dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output

@@ -7,8 +7,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=30AADD&center=true&vCenter=true&width=500&lines=National+Hackathon+Winner+%F0%9F%8F%86;Full-Stack+Developer+%F0%9F%92%BB;Blockchain+Innovator+%F0%9F%92%B8;AI%2FML+Specialist+%F0%9F%A4%96;Quantum+Computing+%E2%9A%9B;Web3+Enthusiast+%F0%9F%8C%90" alt="Typing SVG" />
 </p>
 
+<div align="center">
+  <a href="https://harshpandhe.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Full_Portfolio-harshpandhe.com-blue?style=for-the-badge" />
+  </a>
+</div>
+
 <p align="center">
-  <a href="https://harshpandhe.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-harshpandhe.com-blue?style=flat-square&logo=globe" /></a>
   <a href="tel:+917208783332"><img src="https://img.shields.io/badge/Phone-%2B91%207208783332-green?style=flat-square&logo=phone" /></a>
   <a href="mailto:harshpandhehome@gmail.com"><img src="https://img.shields.io/badge/Email-harshpandhehome%40gmail.com-red?style=flat-square&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/harshpandhe/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Harsh%20Pandhe-0A66C2?style=flat-square&logo=linkedin" /></a>
@@ -187,7 +192,9 @@ Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Sta
 
 ## 👾 Pacman Contribution Graph
 
-![Pacman contribution graph](https://github.com/harsh-pandhe/harsh-pandhe/blob/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  <img src="https://pacman.abozanona.me?username=harsh-pandhe&platform=github" alt="pacman contribution graph" width="100%"/>
+</div>
 
 ---
 
@@ -201,7 +208,7 @@ Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Sta
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="50" alt="Twitter" style="margin: 0 10px;" />
   </a>
   <a href="https://github.com/harsh-pandhe" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="50" height="50" alt="GitHub" style="margin: 0 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" style="margin: 0 10px;" />
   </a>
   <a href="https://instagram.com/harsh_pandhe" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="50" alt="Instagram" style="margin: 0 10px;" />
