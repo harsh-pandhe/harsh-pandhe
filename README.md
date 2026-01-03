@@ -189,11 +189,15 @@ Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Sta
 
 ## 👾 Contribution Graph (Pacman)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harsh-pandhe/harsh-pandhe/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harsh-pandhe/harsh-pandhe/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/harsh-pandhe/harsh-pandhe/output/pacman-contribution-graph.svg" width="100%" />
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harsh-pandhe/harsh-pandhe/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harsh-pandhe/harsh-pandhe/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/harsh-pandhe/harsh-pandhe/output/pacman-contribution-graph.svg" width="100%" />
+  </picture>
+</div>
+
+> 💡 *Enable the `pacman.yml` workflow and run it to generate this graph*
 
 ---
 
