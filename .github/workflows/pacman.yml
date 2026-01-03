@@ -2,7 +2,7 @@ name: Generate Pacman Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 1 * * *"
   workflow_dispatch:
 
 permissions:
@@ -13,20 +13,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
       
-      - name: Generate Pacman Graph
+      - name: Generate Pacman SVG
         uses: Platane/snk@v3
         with:
           github_user_name: harsh-pandhe
           outputs: |
             dist/pacman.svg
+            dist/pacman-dark.svg
+          palette: github-dark
       
-      - name: Push to output branch
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

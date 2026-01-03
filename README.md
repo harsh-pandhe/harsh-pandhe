@@ -184,7 +184,6 @@ Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Sta
 </div>
 
 ---
-
 ## 👾 Pacman Contribution Graph
 
 <div align="center">
@@ -192,8 +191,7 @@ Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Sta
 </div>
 
 ---
-
-## 💬 Let's Connect
+##  Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/harshpandhe/" target="_blank">
