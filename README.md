@@ -183,21 +183,7 @@ Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Sta
   <img src="https://raw.githubusercontent.com/harsh-pandhe/harsh-pandhe/output/snake.svg" alt="Snake animation contribution graph" width="100%" />
 </div>
 
-> 💡 **Workflow Status**: Runs daily at midnight UTC. If you see a broken image, the workflow is generating it—refresh in a few minutes!
-
----
-
-## 👾 Contribution Graph (Pacman)
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harsh-pandhe/harsh-pandhe/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harsh-pandhe/harsh-pandhe/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/harsh-pandhe/harsh-pandhe/output/pacman-contribution-graph.svg" width="100%" />
-  </picture>
-</div>
-
-> 💡 *Enable the `pacman.yml` workflow and run it to generate this graph*
+> 💡 **Workflow Status**: Runs daily at midnight UTC. The snake visualization shows your GitHub contributions over time!
 
 ---
 
