@@ -16,15 +16,12 @@ jobs:
         with:
           fetch-depth: 0
       
-      - name: Generate Graph
+      - name: Generate Pacman Graph
         uses: Platane/snk@v3
         with:
           github_user_name: harsh-pandhe
           outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            dist/pacman.svg
       
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3

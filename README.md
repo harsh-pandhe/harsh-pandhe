@@ -180,18 +180,16 @@ Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Sta
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/harsh-pandhe/harsh-pandhe/output/snake.svg" alt="Snake animation contribution graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/harsh-pandhe/harsh-pandhe/output/snake.svg" alt="Snake animation contribution graph" width="100%"/>
 </div>
 
 ---
 
 ## 👾 Pacman Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harsh-pandhe/harsh-pandhe/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harsh-pandhe/harsh-pandhe/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/harsh-pandhe/harsh-pandhe/output/pacman-contribution-graph.svg" width="100%" />
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/harsh-pandhe/harsh-pandhe/output/pacman.svg" alt="Pacman contribution graph" width="100%"/>
+</div>
 
 ---
 
