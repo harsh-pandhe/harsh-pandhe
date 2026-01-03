@@ -184,13 +184,13 @@ Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Sta
 </div>
 
 ---
+
 ## 👾 Pacman Contribution Graph
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/harsh-pandhe/harsh-pandhe/output/pacman.svg" alt="Pacman contribution graph" width="100%"/>
-</div>
+![Pacman contribution graph](https://github.com/harsh-pandhe/harsh-pandhe/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
+
 ##  Let's Connect
 
 <div align="center">
