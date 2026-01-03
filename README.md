@@ -33,6 +33,28 @@ Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Sta
 
 ---
 
+## 🔥 Current Focus
+
+- 📖 **GATE 2026 Preparation** – Distributed Systems, Database Design, Theory of Computation
+- 🛠️ **Scaling Telhan Sathi** – Real-world deployment & user feedback iteration
+- 🔬 **Quantum Computing Research** – Post-quantum cryptography & algorithm optimization
+- 🎓 **Technical Leadership** – Mentoring 70+ junior developers at IIC-SIT
+
+---
+
+## 📊 By The Numbers
+
+| Metric | Value |
+|--------|-------|
+| 🏆 **Competitions Won** | 1 National (SIH 2025), Top 40 Rankings |
+| 👥 **Developers Mentored** | 70+ junior developers |
+| 📚 **Open Source** | 76+ repositories, 817 contributions (YTD) |
+| 🔬 **Published Research** | 1 peer-reviewed paper (IRJMETS) |
+| 💼 **Teams Led** | 6 (SIH), 200+ (hackathon coordination) |
+| ⚡ **Performance** | 100,000 orders/sec, 50+ concurrent users, 1000+ req/sec |
+
+---
+
 ## 🚀 Leadership & Experience
 
 ### 🏆 **SIH 2025 National Winner** – Team Lead & Full Stack Developer
@@ -54,20 +76,24 @@ Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Sta
 
 ---
 
-## 🛠️ Technical Skills & Stack
+## 🛠️ Technical Expertise
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,js,ts,python,java,cpp,solidity,react,nextjs,nodejs,express,django,mongodb,postgres,redis,firebase,docker,aws,gcp,linux,git,github,figma&perline=8" />
 </p>
 
-| Category | Skills |
-|----------|--------|
-| **Languages** | Rust, JavaScript/TypeScript, Python, Java, Solidity, C++, SQL, Bash |
-| **Frontend** | React.js, Next.js, Tailwind CSS, Framer, shadcn/ui, Radix UI, Three.js, Monaco Editor |
-| **Backend** | Node.js, Express.js, Django, WebSockets, GraphQL, Firebase, Docker, Kubernetes |
-| **Blockchain & Web3** | Ethereum, Solidity, Smart Contracts, Hyperledger Fabric, Ganache, IPFS, EthersJs |
-| **Databases & DevOps** | MongoDB, PostgreSQL, MySQL, Redis, CI/CD, Agile/Scrum, System Design |
-| **Emerging Tech** | Quantum Computing (Qiskit), AI/ML (TensorFlow, PyTorch), Post-Quantum Cryptography |
+### **Core Competencies** (Strongest Areas)
+- **Full-Stack**: Next.js, Node.js, React, TypeScript, MongoDB, PostgreSQL
+- **Blockchain & Web3**: Solidity, Ethereum, Smart Contracts, Hyperledger Fabric, IPFS
+- **System Design**: Microservices, Distributed Systems, High-Performance APIs, Docker, Kubernetes
+
+### **Advanced Skills**
+- **Backend**: Express.js, Django, GraphQL, WebSockets, Firebase
+- **Emerging Tech**: Quantum Computing (Qiskit), Post-Quantum Cryptography, AI/ML (TensorFlow, PyTorch)
+- **DevOps & Cloud**: AWS, GCP, CI/CD, Linux, Git/GitHub
+
+### **Languages**
+Rust, JavaScript/TypeScript, Python, Java, Solidity, C++, SQL, Bash
 
 ---
 
@@ -79,34 +105,34 @@ Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Sta
 - AI-powered platform for oilseed farming with predictive crop advisories
 - Integrated government schemes (NMEO-OS) with real-time market insights
 - Deployed with real-time soil moisture monitoring & procurement guidance
+- **Impact**: Targeting 500+ farmers by Q2 2026
 
 ### 🔗 **Codex** – Real-Time Collaborative Code Editor
 **Status**: Live | **Link**: [collabcodex.vercel.app](https://collabcodex.vercel.app)
 - **Tech Stack**: Next.js, Monaco Editor, Liveblocks, Convex, TypeScript
 - Engineered collaborative coding platform supporting **50+ concurrent users** with sub-50ms state propagation
-- Published research paper in **IRJMETS** (International Research Journal of Modernization in Engineering Technology and Science, Jan 2024)
+- **Recognition**: Published research paper in **IRJMETS** (Jan 2024)
+- **What I Learned**: Real-time conflict resolution & CRDT implementation
 
 ### 🏙️ **CityConnect** – Decentralized Civic Engagement Platform
 **Status**: Live | **Infotsav'25 Presentation**
 - **Tech Stack**: Next.js, Django, Custom Blockchain (Solidity), MongoDB
 - Civic reporting platform where users earn blockchain-based **EcoCoins** for resolving infrastructure issues
 - Optimized Django REST API for **1000+ concurrent requests** using Redis caching
-- Implemented on-chain governance with Solidity smart contracts
+- **What I Learned**: On-chain governance & smart contract security
 
 ### 📊 **Kalpataru 2025** – Event Management System
 **Status**: Production | **Participants**: 200+
 - **Tech Stack**: Node.js, MongoDB, React.js, Tailwind CSS, Docker
-- Enterprise-grade registration platform with real-time team formation module
+- Enterprise-grade registration platform I architected as Head of Cybersecurity
 - Secure payment gateway integration & deployed on Vercel with MongoDB Atlas
 
-### ⚡ **High-Performance Trading Engine**
-**Status**: Completed | **Performance**: 100,000+ orders/sec
-- **Tech Stack**: Rust, Zero-copy message passing
-- Matching engine handling ultra-high-frequency trades with minimal latency
+### Other Notable Projects
 
-### 🚚 **MapFleet Logistics** – Fleet Management System
-- **Tech Stack**: Next.js, Firebase, Google Maps API
-- Real-time tracking with role-based access control & route optimization
+| Project | Tech Stack | Highlight |
+|---------|------------|-----------|
+| ⚡ **High-Performance Trading Engine** | Rust, Zero-copy message passing | 100,000+ orders/sec |
+| 🚚 **MapFleet Logistics** | Next.js, Firebase, Google Maps API | Real-time fleet tracking |
 
 ---
 
@@ -125,6 +151,16 @@ Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Sta
 
 ### **ICSE – Class 10 (Science & Computer Applications)**
 **Presentation Convent School, Nerul** | Grade: 89%
+
+---
+
+## 🎓 GATE 2026 Preparation
+
+**Target Rank**: Top 500  
+**Focus Areas**: Distributed Systems, Database Design, Theory of Computation, Computer Networks  
+**Study Resources**: Operating Systems (Silberschatz), DBMS (Navathe), Discrete Math (Rosen)
+
+*Balancing full-time projects with structured exam prep*
 
 ---
 
@@ -149,30 +185,24 @@ Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Sta
 
 ---
 
-## 📊 GitHub Activity
+## 🎤 Public Speaking & Content
 
-**Recent Contributions**: 817 contributions in the last year across 76+ repositories spanning blockchain, web development, quantum computing, and emerging tech ecosystems
+- 📝 **LinkedIn Creator** – Technical insights & mentoring junior developers
+- 🎓 **Workshop Leader** – CODE2LAUNCH (React, Node.js, JavaScript) – 70+ attendees
+- 🏅 **Published Researcher** – "Collaborative Real-Time Code Editing Systems," IRJMETS, Jan 2024
+- 🎙️ **Speaker** – Infotsav'25 (CityConnect presentation)
 
 ---
 
 ## 🌐 Languages & Interests
 
-### **Languages**
-- 🇮🇳 **Marathi**: Native/Bilingual Proficiency
-- 🇬🇧 **English**: Professional Working Proficiency  
-- 🇮🇳 **Hindi**: Professional Working Proficiency
-- 🇪🇸 **Spanish**: Elementary Proficiency
+**Languages**: 🇮🇳 Marathi (Native) | 🇬🇧 English (Professional) | 🇮🇳 Hindi (Professional) | 🇪🇸 Spanish (Elementary)
 
-### **Interests & Passion Areas**
-- 🔬 **Deep Tech**: Quantum algorithms (Qiskit), Post-Quantum Cryptography, DeSci (Decentralized Science), LLM Security
-- 📚 **Academic**: GATE 2026 preparation (Distributed Systems, Database Design, Theory of Computation)
-- 💪 **Sports & Fitness**: Regular gym training, strength conditioning, performance optimization
-- 🤝 **Community**: Active on LinkedIn sharing technical insights & mentoring junior developers
-- 🎯 **Hobbies**: Coding challenges, GitHub contributions, IoT projects, drone robotics
+**Interests**: Quantum algorithms (Qiskit), Post-Quantum Cryptography, DeSci, LLM Security, Gym & Fitness, Drone Robotics
 
 ---
 
-## 🎧 Recently Played on Spotify
+## 🎧 Spotify
 
 <div align="center">
   <a href="https://open.spotify.com/user/31xnn7cpwjeforao35r4rxlrgk4m">
@@ -213,13 +243,29 @@ Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Sta
   <a href="https://instagram.com/harsh_pandhe" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="50" alt="Instagram" style="margin: 0 10px;" />
   </a>
-  <a href="https://discord.gg/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="50" alt="Discord" style="margin: 0 10px;" />
-  </a>
-  <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="50" height="50" alt="YouTube" style="margin: 0 10px;" />
-  </a>
 </div>
+
+---
+
+## 🤝 Open to Collaboration
+
+- 🔗 **Open Source**: Contributing to blockchain & distributed systems projects
+- 💼 **Consulting**: Available for blockchain architecture & system design discussions
+- 📧 **Reach Out**: harshpandhehome@gmail.com
+
+**Particularly interested in**: Web3 infrastructure, Distributed Systems, Quantum-ready Cryptography
+
+---
+
+## 🚀 What's Next?
+
+- [ ] Scaling Telhan Sathi to production (targeting 500+ farmers by Q2 2026)
+- [ ] Open-sourcing Codex collaborative editor
+- [ ] Quantum cryptography research paper
+- [ ] Building decentralized talent marketplace on blockchain
+- [ ] Speaking at hackathons & tech conferences post-GATE
+
+*Follow my journey on [LinkedIn](https://linkedin.com/in/harshpandhe) & [GitHub](https://github.com/harsh-pandhe)*
 
 ---
 
