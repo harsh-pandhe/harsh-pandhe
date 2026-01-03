@@ -4,9 +4,7 @@
 <h3 align="center">Full-Stack Developer | Blockchain Architect | Distributed Systems Engineer</h3>
 
 <p align="center">
-  <a href="https://github.com/harsh-pandhe">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=30AADD&center=true&vCenter=true&width=500&lines=National+Hackathon+Winner+%F0%9F%8F%86;Full-Stack+Developer+%F0%9F%92%BB;Blockchain+Innovator+%F0%9F%92%B8;AI%2FML+Specialist+%F0%9F%A4%96;Quantum+Computing+%E2%9A%9B;Web3+Enthusiast+%F0%9F%8C�" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=30AADD&center=true&vCenter=true&width=500&lines=National+Hackathon+Winner+%F0%9F%8F%86;Full-Stack+Developer+%F0%9F%92%BB;Blockchain+Innovator+%F0%9F%92%B8;AI%2FML+Specialist+%F0%9F%A4%96;Quantum+Computing+%E2%9A%9B;Web3+Enthusiast+%F0%9F%8C%90" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -189,43 +187,53 @@ Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Sta
 
 ---
 
+## 👾 Contribution Graph (Pacman)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harsh-pandhe/harsh-pandhe/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harsh-pandhe/harsh-pandhe/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/harsh-pandhe/harsh-pandhe/output/pacman-contribution-graph.svg" width="100%" />
+</picture>
+
+---
+
 ## 💬 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/harshpandhe/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="50" alt="LinkedIn" style="margin: 0 10px;" />
   </a>
   <a href="https://x.com/HarshPandhe" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="40" alt="Twitter" />
-  </a>
-  <a href="https://discord.gg/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="Discord" />
-  </a>
-  <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="40" alt="YouTube" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="50" alt="Twitter" style="margin: 0 10px;" />
   </a>
   <a href="https://github.com/harsh-pandhe" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="40" height="40" alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="50" height="50" alt="GitHub" style="margin: 0 10px;" />
   </a>
   <a href="https://instagram.com/harsh_pandhe" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="Instagram" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="50" alt="Instagram" style="margin: 0 10px;" />
+  </a>
+  <a href="https://discord.gg/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="50" alt="Discord" style="margin: 0 10px;" />
+  </a>
+  <a href="https://www.youtube.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="50" height="50" alt="YouTube" style="margin: 0 10px;" />
   </a>
 </div>
 
 ---
 
 <p align="center">
-  <strong>💡 "Always building, learning, and sharing across blockchain, AI/ML, cloud, web, and cybersecurity. Let's code the future together!"</strong>
+  <em>"Always building, learning, and sharing across blockchain, AI/ML, cloud, web, and cybersecurity."</em>
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=60&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" width="100%"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=harsh-pandhe.harsh-pandhe&theme=dark" alt="Visitor Badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=harsh-pandhe.harsh-pandhe&theme=dark&color=0891b2" alt="Visitor Badge" />
 </div>
 
 <p align="center">
