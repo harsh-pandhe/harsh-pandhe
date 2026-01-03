@@ -146,14 +146,9 @@ Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Sta
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh-pandhe&show_icons=true&theme=tokyonight&count_private=true&hide=stars" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-pandhe&theme=tokyonight" width="48%"/>
-</p>
-
-**Recent Contributions**: 817 contributions in the last year across 76+ repositories
+**Recent Contributions**: 817 contributions in the last year across 76+ repositories spanning blockchain, web development, quantum computing, and emerging tech ecosystems
 
 ---
 
@@ -186,7 +181,11 @@ Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Sta
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/harsh-pandhe/harsh-pandhe/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/harsh-pandhe/harsh-pandhe/output/snake.svg" alt="Snake animation contribution graph" width="100%" />
+</div>
+
+> 💡 **Workflow Status**: Runs daily at midnight UTC. If you see a broken image, the workflow is generating it—refresh in a few minutes!
 
 ---
 
