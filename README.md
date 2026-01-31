@@ -274,7 +274,11 @@ Rust, JavaScript/TypeScript, Python, Java, Solidity, C++, SQL, Bash
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=60&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 </div>
 
 ---
