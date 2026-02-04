@@ -1,10 +1,10 @@
 <h1 align="center">Hi there<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40">, I'm Harsh Pandhe</h1>
 
-<h3 align="center">🏆 SIH 2025 National Winner | Head of Cybersecurity & Blockchain @ IIC-SIT</h3>
-<h3 align="center">Full-Stack Developer | Blockchain Architect | Distributed Systems Engineer</h3>
+<h3 align="center">🏆 SIH 2025 National Winner | RoboRashtra 2026 Runner-Up | Head of Cybersecurity & Blockchain @ IIC-SIT</h3>
+<h3 align="center">Full-Stack Developer | Embedded AI Engineer | Robotics Innovator | Blockchain Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=30AADD&center=true&vCenter=true&width=500&lines=National+Hackathon+Winner+%F0%9F%8F%86;Full-Stack+Developer+%F0%9F%92%BB;Blockchain+Innovator+%F0%9F%92%B8;AI%2FML+Specialist+%F0%9F%A4%96;Quantum+Computing+%E2%9A%9B;Web3+Enthusiast+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=30AADD&center=true&vCenter=true&width=500&lines=National+Hackathon+Winner+%F0%9F%8F%86;Robotics+Innovation+Leader+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Embedded+AI+Engineer+%F0%9F%A7%A0;Blockchain+Architect+%F0%9F%92%B8;Web3+Enthusiast+%F0%9F%8C%90" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -23,13 +23,14 @@
 
 ## 🎯 Professional Summary
 
-Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Stack Software Development**, **Blockchain Architecture**, and **Distributed Systems**. **SIH 2025 National Winner** leading the first team from SIT Lonavala to secure national victory. Published researcher in collaborative systems with demonstrated expertise in:
+Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Stack Software Development**, **Embedded AI Systems**, **Robotics Engineering**, and **Blockchain Architecture**. **SIH 2025 National Winner** and **RoboRashtra 2026 Runner-Up (1st)** with expertise in neural network inference, real-time systems, and autonomous navigation. Published researcher in collaborative systems with demonstrated expertise in:
 
-- 🔹 High-Performance System Design & Microservices
+- 🔹 Embedded AI & Real-Time Neural Network Inference on Microcontrollers
+- 🔹 High-Performance System Design & Microservices Architecture
+- 🔹 Precision Motor Control & Encoder-Based Odometry
 - 🔹 Security Hardening & Cryptographic Systems  
 - 🔹 Scalable Backend Engineering & IoT Integration
 - 🔹 Web3 & Blockchain Architecture
-- 🔹 AI/ML Model Deployment
 
 ---
 
@@ -46,12 +47,13 @@ Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Sta
 
 | Metric | Value |
 |--------|-------|
-| 🏆 **Competitions Won** | 1 National (SIH 2025), Top 40 Rankings |
+| 🏆 **Competitions Won** | 1 National (SIH 2025), 1 Runner-Up (RoboRashtra 2026), Top 40 Rankings |
+| 🤖 **Robotics Achievements** | 1st Runner-Up (Chakravyuh), ₹10,000 prize, Featured in Maval Maza |
 | 👥 **Developers Mentored** | 70+ junior developers |
 | 📚 **Open Source** | 76+ repositories, 817 contributions (YTD) |
 | 🔬 **Published Research** | 1 peer-reviewed paper (IRJMETS) |
-| 💼 **Teams Led** | 6 (SIH), 200+ (hackathon coordination) |
-| ⚡ **Performance** | 100,000 orders/sec, 50+ concurrent users, 1000+ req/sec |
+| 💼 **Teams Led** | 6 (SIH), 4 (RoboRashtra), 200+ (hackathon coordination) |
+| ⚡ **Performance** | 100,000 orders/sec, 50+ concurrent users, 1000+ req/sec, Real-time NN inference (sub-ms latency) |
 
 ---
 
@@ -83,13 +85,15 @@ Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Sta
 </p>
 
 ### **Core Competencies** (Strongest Areas)
+- **Embedded AI & Robotics**: Teensy 4.1 microcontroller, Real-time neural network inference, Motor control, Encoder odometry, Sensor fusion
 - **Full-Stack**: Next.js, Node.js, React, TypeScript, MongoDB, PostgreSQL
 - **Blockchain & Web3**: Solidity, Ethereum, Smart Contracts, Hyperledger Fabric, IPFS
-- **System Design**: Microservices, Distributed Systems, High-Performance APIs, Docker, Kubernetes
+- **System Design**: Microservices, Distributed Systems, High-Performance APIs, Docker, Kubernetes, Real-time systems
 
 ### **Advanced Skills**
 - **Backend**: Express.js, Django, GraphQL, WebSockets, Firebase
-- **Emerging Tech**: Quantum Computing (Qiskit), Post-Quantum Cryptography, AI/ML (TensorFlow, PyTorch)
+- **Emerging Tech**: Quantum Computing (Qiskit), Post-Quantum Cryptography, AI/ML (TensorFlow, PyTorch), Embedded AI
+- **Robotics & Hardware**: PID Control, Signal Processing, Motor Encoders, Analog Multiplexing, Real-time Systems
 - **DevOps & Cloud**: AWS, GCP, CI/CD, Linux, Git/GitHub
 
 ### **Languages**
@@ -98,6 +102,20 @@ Rust, JavaScript/TypeScript, Python, Java, Solidity, C++, SQL, Bash
 ---
 
 ## 📚 Featured Projects
+
+### 🤖 **Team Imposters – RoboRashtra 2026 Chakravyuh** – 1st Runner-Up 🏆
+**Status**: Competition Winner | **Prize**: ₹10,000 | **Feature**: Maval Maza Newspaper
+- **Tech Stack**: Teensy 4.1, Neural Networks, Motor Encoders, CD74HC4067 Multiplexer, C++
+- **Role**: Team Leader – Architected Neural Network maze-solving algorithm & precision encoder-based motor control
+- **Achievement**: Engineered a hybrid autonomous robot combining real-time NN inference with high-speed line-following in a continuous 16-hour coding marathon
+- **Key Innovations**: 
+  - Trained & deployed neural network for spatial reasoning on embedded microcontroller (sub-millisecond inference latency)
+  - Integrated high-resolution motor encoders to eliminate drift, achieving mathematically perfect 90° turns
+  - Implemented 16-channel analog multiplexer (CD74HC4067) for advanced sensor fusion from 16 IR distance channels
+  - Developed Auto-Hybrid Mode logic enabling seamless switching between deterministic line-following and AI maze-solving
+  - Built Safety Supervisor architecture to prevent collisions while maintaining autonomous operation
+- **Team**: Manas Kale, Yash Kamble (Hardware/Wiring), Harsh Pandhe (AI/Encoders/Leadership), Saurabh Kadam
+- **What I Learned**: Embedded AI deployment, real-time control systems, signal processing for sensor smoothing, autonomous navigation algorithms
 
 ### 🌾 **Telhan Sathi** – Smart India Hackathon 2025 Winner
 **Status**: National Winner | **Live**: [telhan-sathi.vercel.app](#)
@@ -168,6 +186,8 @@ Rust, JavaScript/TypeScript, Python, Java, Solidity, C++, SQL, Bash
 
 ### 🏆 **Key Achievements**
 - **National Winner**: Smart India Hackathon 2025 – First team from SIT Lonavala to win nationally
+- **Robotics Runner-Up**: RoboRashtra 2026 – 1st Runner-Up in Chakravyuh (Maze & Line Solving), ₹10,000 Prize
+- **Press Feature**: Maval Maza Newspaper – State-level coverage for technical innovation
 - **Published Researcher**: Research paper on Collaborative Code Editor (IRJMETS, Jan 2024)
 - **National Finalist**: SIH 2025 National Finals
 - **Top 40**: PCU Ideathon 2.0 (500+ teams)
@@ -182,6 +202,7 @@ Rust, JavaScript/TypeScript, Python, Java, Solidity, C++, SQL, Bash
 - ✅ **Responsive Web Design** (freeCodeCamp) – CSS, Flexbox, Mobile-first Design
 - ✅ **Git & GitHub Mastery** (Udemy) – Version Control, Collaborative Workflows
 - ✅ **Advanced DSA** (Codedamn) – Algorithm Optimization
+- ✅ **Embedded Systems & Microcontroller Programming** (Hands-on at RoboRashtra 2026)
 
 ---
 
@@ -198,7 +219,7 @@ Rust, JavaScript/TypeScript, Python, Java, Solidity, C++, SQL, Bash
 
 **Languages**: 🇮🇳 Marathi (Native) | 🇬🇧 English (Professional) | 🇮🇳 Hindi (Professional) | 🇪🇸 Spanish (Elementary)
 
-**Interests**: Quantum algorithms (Qiskit), Post-Quantum Cryptography, DeSci, LLM Security, Gym & Fitness, Drone Robotics
+**Interests**: Quantum algorithms (Qiskit), Post-Quantum Cryptography, DeSci, LLM Security, Autonomous Navigation, Robotics Engineering, Embedded AI, Drone Robotics, Gym & Fitness
 
 ---
 
@@ -208,14 +229,6 @@ Rust, JavaScript/TypeScript, Python, Java, Solidity, C++, SQL, Bash
   <a href="https://open.spotify.com/user/31xnn7cpwjeforao35r4rxlrgk4m">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xnn7cpwjeforao35r4rxlrgk4m&count=5" alt="Spotify recently played" />
   </a>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/harsh-pandhe/harsh-pandhe/output/snake.svg" alt="Snake animation contribution graph" width="100%"/>
 </div>
 
 ---
@@ -260,9 +273,12 @@ Rust, JavaScript/TypeScript, Python, Java, Solidity, C++, SQL, Bash
 ## 🚀 What's Next?
 
 - [ ] Scaling Telhan Sathi to production (targeting 500+ farmers by Q2 2026)
+- [ ] Publishing RoboRashtra technical deep-dive on neural network inference in embedded systems
+- [ ] Open-sourcing the Maze Solver Neural Network training pipeline & firmware
 - [ ] Open-sourcing Codex collaborative editor
 - [ ] Quantum cryptography research paper
 - [ ] Building decentralized talent marketplace on blockchain
+- [ ] Advancing robotics research in sensor fusion & autonomous navigation
 - [ ] Speaking at hackathons & tech conferences post-GATE
 
 *Follow my journey on [LinkedIn](https://linkedin.com/in/harshpandhe) & [GitHub](https://github.com/harsh-pandhe)*
