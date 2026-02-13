@@ -158,7 +158,11 @@ Rust, JavaScript/TypeScript, Python, Java, Solidity, C++, SQL, Bash
 
 ### **Bachelor of Engineering (B.Tech) – Computer Science**
 **Sinhgad Institute of Technology (SIT), Lonavala** | Sep 2024 – Aug 2027
-- **CGPA**: 7.18/10.0
+- **CGPA**: 7.18/10.0 | **Sem 5 SGPA**: 8.05 (21/21 Credits Cleared ✅)
+- **5th Semester Highlights**:
+  - 🏅 **O Grade (10/10)**: Laboratory Practice I, CN & Security Lab, Seminar & Technical Communication
+  - 🔗 **Blockchain Honours**: O (Practical) + A (Theory) – aligns with IIC Cybersecurity & Blockchain leadership
+  - ⚡ **A+ in Distributed Systems** | **A in Systems Programming & OS**
 - **Relevant Coursework**: Data Structures & Algorithms, Operating Systems, DBMS, Theory of Computation, Distributed Systems, Computer Networks
 - **Leadership**: Head of Cybersecurity & Blockchain (IIC-SIT)
 
