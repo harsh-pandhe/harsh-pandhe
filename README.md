@@ -36,7 +36,9 @@ Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Sta
 
 ## 🔥 Current Focus
 
-- 📖 **GATE 2026 Preparation** – Distributed Systems, Database Design, Theory of Computation
+- 🚀 **Co-Founding ASCEND** – High-Tech Industrial Surveying & Digital Twins (LiDAR/Thermal)
+- 🚁 **Project ASCEND** (ISRO Robotics Challenge) – Lead Navigation Engineer (ROS 2, Nav2)
+- 📖 **GATE 2027 Preparation** – Appeared for GATE 2026 as a trial run; now targeting a serious rank in 2027
 - 🛠️ **Scaling Telhan Sathi** – Real-world deployment & user feedback iteration
 - 🔬 **Quantum Computing Research** – Post-quantum cryptography & algorithm optimization
 - 🎓 **Technical Leadership** – Mentoring 70+ junior developers at IIC-SIT
@@ -71,7 +73,7 @@ Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Sta
 **Institution's Innovation Council, SIT Lonavala** | Oct 2025 – Present
 
 • Spearheading **campus-wide technical initiatives** for 500+ students across 8 departments
-• **Pioneered Project Morpheus 2026** – national-level hackathon managing 200+ participants
+• **Pioneered Project Morpheus 2026** – Lead Organizer architecting technical infrastructure for national-level hackathon (200+ participants)
 • **Co-architected Kalpataru 2025** – 10-week innovation competition with secure registration system
 • **Mentored 70+ developers** in CODE2LAUNCH workshop (React, Node.js, JavaScript)
 • Evaluated 50+ technical projects providing architecture & security feedback
@@ -101,7 +103,39 @@ Rust, JavaScript/TypeScript, Python, Java, Solidity, C++, SQL, Bash
 
 ---
 
+## 🚁 Advanced Autonomous Ecosystem
+
+Architecting a high-tier autonomous stack for **ASCEND (Company) & ISRO Robotics Challenge**, moving beyond basic drone builds into **Advanced Aerial Robotics**.
+
+### 🛠️ The Autonomous Hardware Stack
+Integrating a "Pro-Level" sensory suite on a custom quad (920KV motors, 9075 props):
+- 🧠 **The Brain**: **Raspberry Pi 5 (16GB)** – Companion computer handling heavy SLAM & AI processing
+- 🎮 **The Reflexes**: **Pixhawk 6c** – Flight stability & MAVLink execution
+- 👁️ **The Eyes (3D)**: **Livox Mid-360 LiDAR** – 360° spatial awareness & mapping via Fast-LIO
+- 🌡️ **The Eyes (AI/Thermal)**: AI Camera + Thermal Camera – Object detection & heat signatures (Coral TPU)
+- 📍 **Indoor GPS**: **Optical Flow (MicoAir/Holybro)** – Rock-solid altitude hold in GPS-denied environments
+
+### 🎯 Immediate Technical Goals
+- **GPS-Denied Navigation**: Seamless Pi 5 ↔ Pixhawk bridging via GPIO for complex indoor autonomy
+- **Altitude Hold**: EKF2 calibration to trust LiDAR/Optical Flow over barometer
+- **Dashboard**: Real-time visualization of 3D LiDAR point clouds & thermal feeds
+
+### 🔮 Future Vision
+- **Digital Twin**: Real-time 3D thermal mapping for Search & Rescue
+- **Advanced Simulation**: Stress-testing algorithms in **Isaac Sim / Gazebo** before deployment
+
+---
+
 ## 📚 Featured Projects
+
+### 🚁 **ASCEND** – Autonomous Industrial Surveying & Digital Twins
+**Status**: Co-Founder & CTO | **Live**: [drone-nine-lemon.vercel.app](https://drone-nine-lemon.vercel.app/)
+- **Mission**: Creating "Digital Twins" of physical landscapes (construction, mines, infrastructure) using precision drone data.
+- **Key Services**:
+  - 📏 **LiDAR Mapping**: Penetrating vegetation for ground topology (+/- 2cm accuracy).
+  - 📸 **Photogrammetry**: High-res 2D maps & 3D meshes for site planning.
+  - 🔥 **Thermal Inspection**: Detecting defects in solar panels & utility lines via heat signatures.
+- **Vibe**: "Industrial Sci-Fi" – Robotic, data-heavy, precision-focused brand covering 1200+ acres/day.
 
 ### 🤖 **Team Imposters – RoboRashtra 2026 Chakravyuh** – 1st Runner-Up 🏆
 **Status**: Competition Winner | **Prize**: ₹10,000 | **Feature**: Maval Maza Newspaper
@@ -176,13 +210,19 @@ Rust, JavaScript/TypeScript, Python, Java, Solidity, C++, SQL, Bash
 
 ---
 
-## 🎓 GATE 2026 Preparation
+## 🎓 GATE Journey
 
+### 📝 GATE 2026 – Trial Run (Feb 2026)
+- Appeared with minimal preparation to gauge the exam firsthand
+- **Key Takeaway**: The paper was doable — solved C pointers, Networking logic & Aptitude from core college knowledge alone
+- **Reality Check**: Realized focused prep of even ~1 month could have made a real difference
+
+### 🎯 GATE 2027 – Going for the Rank
 **Target Rank**: Top 500  
 **Focus Areas**: Distributed Systems, Database Design, Theory of Computation, Computer Networks  
-**Study Resources**: Operating Systems (Silberschatz), DBMS (Navathe), Discrete Math (Rosen)
+**Study Resources**: Operating Systems (Silberschatz), DBMS (Navathe), Discrete Math (Rosen), Physics Wallah  
 
-*Balancing full-time projects with structured exam prep*
+*Trial run is over. Next time, I'm not going for the "experience" — I'm going for the rank.* 🔥
 
 ---
 
@@ -283,7 +323,8 @@ Rust, JavaScript/TypeScript, Python, Java, Solidity, C++, SQL, Bash
 - [ ] Quantum cryptography research paper
 - [ ] Building decentralized talent marketplace on blockchain
 - [ ] Advancing robotics research in sensor fusion & autonomous navigation
-- [ ] Speaking at hackathons & tech conferences post-GATE
+- [ ] Cracking GATE 2027 with a top-500 rank 🎯
+- [ ] Speaking at hackathons & tech conferences
 
 *Follow my journey on [LinkedIn](https://linkedin.com/in/harshpandhe) & [GitHub](https://github.com/harsh-pandhe)*
 
