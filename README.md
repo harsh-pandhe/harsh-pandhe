@@ -1,6 +1,6 @@
 <h1 align="center">Hi there<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40">, I'm Harsh Pandhe</h1>
 
-<h3 align="center">🏆 SIH 2025 National Winner | RoboRashtra 2026 Runner-Up | Software Dev Intern @ Doppelmayr | Technical Head @ IIC-SIT</h3>
+<h3 align="center">🏆 SIH 2025 National Winner | RoboRashtra 2026 Runner-Up | Software Dev Intern @ Doppelmayr | Web, Cybersecurity & Blockchain Head @ IIC-SIT</h3>
 <h3 align="center">Full-Stack Developer | Embedded AI Engineer | Robotics Innovator | Blockchain Architect</h3>
 
 <p align="center">
