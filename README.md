@@ -4,7 +4,7 @@
 <h3 align="center">Full-Stack Developer | Embedded AI Engineer | Robotics Innovator | Blockchain Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=30AADD&center=true&vCenter=true&width=560&lines=National+Hackathon+Winner+%F0%9F%8F%86;Software+Dev+Intern+%40+Doppelmayr+%F0%9F%9A%80;Robotics+Innovation+Leader+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Embedded+AI+Engineer+%F0%9F%A7%A0;Blockchain+Architect+%F0%9F%92%B8;Web3+Enthusiast+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=30AADD&center=true&vCenter=true&width=720&height=40&lines=SIH+2025+National+Winner+%F0%9F%8F%86;IRoC-U+2026+Shortlisted+Finalist+%F0%9F%9B%B0%EF%B8%8F;Software+Dev+Intern+%40+Doppelmayr+%F0%9F%9A%80;Robotics+%26+Embedded+AI+Engineer+%F0%9F%A4%96;Full-Stack+%2B+Blockchain+Architect+%F0%9F%92%BB;Building+the+%272+AM%27+software+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
 <p align="center">
