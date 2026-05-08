@@ -51,17 +51,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/harsh-pandhe">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=harsh-pandhe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Harsh's GitHub stats" />
-  </a>
-  <a href="https://github.com/harsh-pandhe">
-    <img height="165" src="https://streak-stats.demolab.com?user=harsh-pandhe&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub streak" />
-  </a>
+  <img src="https://img.shields.io/github/followers/harsh-pandhe?style=for-the-badge&logo=github&color=0891b2&labelColor=1f2937" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/harsh-pandhe?style=for-the-badge&logo=github&color=f59e0b&labelColor=1f2937" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=harsh-pandhe&style=for-the-badge&color=8b5cf6&labelColor=1f2937&label=Profile+Views" alt="Profile views" />
 </div>
 
 <div align="center">
   <a href="https://github.com/harsh-pandhe">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-pandhe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages" />
+    <img height="165" src="https://streak-stats.demolab.com?user=harsh-pandhe&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub streak" />
   </a>
 </div>
 
@@ -70,8 +67,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=harsh-pandhe&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
   </a>
 </div>
-
-<sub>📊 *Stats cards may take a moment to cold-start from Vercel — refresh if not visible.*</sub>
 
 ---
 
