@@ -1,16 +1,20 @@
 <h1 align="center">Hi there<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40">, I'm Harsh Pandhe</h1>
 
-<h3 align="center">🏆 SIH 2025 National Winner | RoboRashtra 2026 Runner-Up | Head of Cybersecurity & Blockchain @ IIC-SIT</h3>
+<h3 align="center">🏆 SIH 2025 National Winner | RoboRashtra 2026 Runner-Up | Software Dev Intern @ Doppelmayr | Technical Head @ IIC-SIT</h3>
 <h3 align="center">Full-Stack Developer | Embedded AI Engineer | Robotics Innovator | Blockchain Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=30AADD&center=true&vCenter=true&width=500&lines=National+Hackathon+Winner+%F0%9F%8F%86;Robotics+Innovation+Leader+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Embedded+AI+Engineer+%F0%9F%A7%A0;Blockchain+Architect+%F0%9F%92%B8;Web3+Enthusiast+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=30AADD&center=true&vCenter=true&width=560&lines=National+Hackathon+Winner+%F0%9F%8F%86;Software+Dev+Intern+%40+Doppelmayr+%F0%9F%9A%80;Robotics+Innovation+Leader+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Embedded+AI+Engineer+%F0%9F%A7%A0;Blockchain+Architect+%F0%9F%92%B8;Web3+Enthusiast+%F0%9F%8C%90" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <em>"Whether it's preventing double-bookings with <strong>atomic MongoDB transactions</strong> or navigating drones in <strong>GPS-denied environments</strong>, I build software that solves the '2 AM' problems."</em>
 </p>
 
 <div align="center">
-  <a href="https://harshpandhe.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Full_Portfolio-harshpandhe.com-blue?style=for-the-badge" />
-  </a>
+  <a href="https://harshpandhe.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-harshpandhe.com-0891b2?style=for-the-badge" /></a>
+  <img src="https://img.shields.io/badge/Open_to-Collaborate-22c55e?style=for-the-badge&logo=handshake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Interning_%40_Doppelmayr-f97316?style=for-the-badge&logo=briefcase&logoColor=white" />
 </div>
 
 <p align="center">
@@ -21,9 +25,50 @@
 
 ---
 
+## ⚡ TL;DR
+
+> 🛠️ **What I do** · Full-stack + Embedded AI + Autonomous Robotics. Ship production systems end-to-end.<br>
+> 🏆 **What I won** · SIH 2025 National Winner · RoboRashtra 2026 Runner-Up · IRoC-U 2026 Shortlisted Finalist<br>
+> 🚀 **What I'm building** · Autonomous UAV ecosystem for ISRO · DoppelDash @ Doppelmayr · RAG-powered AI workspaces
+
+<sub>📑 <strong>Quick Nav</strong> · <a href="#currently">Currently</a> · <a href="#stats">GitHub Stats</a> · <a href="#flagship">Flagship Projects</a> · <a href="#stack">Tech Stack</a> · <a href="#experience">Experience</a> · <a href="#awards">Awards</a> · <a href="#connect">Connect</a></sub>
+
+---
+
+<a name="currently"></a>
+## 🟢 Currently
+
+- 💼 Building **DoppelDash** @ Doppelmayr (Austria)
+- 🛰️ Prepping for **IRoC-U 2026 Finals** — autonomous UAV + custom docking station
+- 🤖 Shipping **Ather Co-Pilot v2** — RAG over PDFs/URLs with Gemini 2.5 + Genkit
+- 📖 Grinding for **GATE 2027** (Top 500 target)
+
+<sub>↻ Updated monthly</sub>
+
+---
+
+<a name="stats"></a>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harsh-pandhe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=harsh-pandhe&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-pandhe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harsh-pandhe&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+</div>
+
+---
+
+<a name="summary"></a>
 ## 🎯 Professional Summary
 
-Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Stack Software Development**, **Embedded AI Systems**, **Robotics Engineering**, and **Blockchain Architecture**. **SIH 2025 National Winner** and **RoboRashtra 2026 Runner-Up (1st)** with expertise in neural network inference, real-time systems, and autonomous navigation. Published researcher in collaborative systems with demonstrated expertise in:
+Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Stack Software Development**, **Embedded AI Systems**, **Robotics Engineering**, and **Blockchain Architecture**. **SIH 2025 National Winner**, **RoboRashtra 2026 Runner-Up (1st)**, and **IRoC-U 2026 Shortlisted Finalist** with expertise in neural network inference, real-time systems, and autonomous navigation. Published researcher in collaborative systems with demonstrated expertise in:
 
 - 🔹 Embedded AI & Real-Time Neural Network Inference on Microcontrollers
 - 🔹 High-Performance System Design & Microservices Architecture
@@ -34,11 +79,9 @@ Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Sta
 
 ---
 
-## 🔥 Current Focus
+## 🔥 Long-Form Focus *(beyond the TL;DR above)*
 
 - 🚀 **Co-Founding ASCEND** – High-Tech Industrial Surveying & Digital Twins (LiDAR/Thermal)
-- 🚁 **Project ASCEND** (ISRO Robotics Challenge) – Lead Navigation Engineer (ROS 2, Nav2)
-- 📖 **GATE 2027 Preparation** – Appeared for GATE 2026 as a trial run; now targeting a serious rank in 2027
 - 🛠️ **Scaling Telhan Sathi** – Real-world deployment & user feedback iteration
 - 🔬 **Quantum Computing Research** – Post-quantum cryptography & algorithm optimization
 - 🎓 **Technical Leadership** – Mentoring 70+ junior developers at IIC-SIT
@@ -47,19 +90,34 @@ Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Sta
 
 ## 📊 By The Numbers
 
-| Metric | Value |
-|--------|-------|
-| 🏆 **Competitions Won** | 1 National (SIH 2025), 1 Runner-Up (RoboRashtra 2026), Top 40 Rankings |
-| 🤖 **Robotics Achievements** | 1st Runner-Up (Chakravyuh), ₹10,000 prize, Featured in Maval Maza |
-| 👥 **Developers Mentored** | 70+ junior developers |
-| 📚 **Open Source** | 76+ repositories, 817 contributions (YTD) |
-| 🔬 **Published Research** | 1 peer-reviewed paper (IRJMETS) |
-| 💼 **Teams Led** | 6 (SIH), 4 (RoboRashtra), 200+ (hackathon coordination) |
-| ⚡ **Performance** | 100,000 orders/sec, 50+ concurrent users, 1000+ req/sec, Real-time NN inference (sub-ms latency) |
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆_National_Wins-1_(SIH_2025)-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🛰️_ISRO-IRoC--U_2026_Finalist-0B3D91?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖_Robotics-RoboRashtra_Runner--Up-E53935?style=for-the-badge" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/👥_Mentored-70%2B_devs-22c55e?style=flat-square" />
+  <img src="https://img.shields.io/badge/📚_Repos-76%2B-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/🔄_Contributions-817_YTD-2ea44f?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/🔬_Papers-1_(IRJMETS)-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/💼_Teams_Led-6_/_4_/_200%2B-7c3aed?style=flat-square" />
+  <img src="https://img.shields.io/badge/⚡_Trading_Engine-100k_orders/sec-f97316?style=flat-square" />
+  <img src="https://img.shields.io/badge/🧠_NN_Inference-sub--ms_latency-ec4899?style=flat-square" />
+</p>
 
 ---
 
+<a name="experience"></a>
 ## 🚀 Leadership & Experience
+
+### 💼 **Software Development Intern** – Doppelmayr (Austria)
+**Doppelmayr** | Apr 2026 – Present
+
+• Building **DoppelDash** – a professional-grade internal platform for operational workflows
+• Applying full-stack architecture (TypeScript, React, Node.js) in an enterprise environment
+• Working within a global engineering team on ropeway & transport automation systems
+• Equipped with a high-performance **RTX 4060 GPU workstation** by the company to drive **physics-based simulations, LLM workflows, and intelligent AI systems for enterprise automation**
+• 📰 **Featured in [Maval Maza](https://www.mavalmaza.com/news/SIT-lonavala-student-selected-for-prestigious-internship-in-austria-after-national-robotics-and-hackathon-success)** – State-level press coverage of the Austria internship selection
 
 ### 🏆 **SIH 2025 National Winner** – Team Lead & Full Stack Developer
 **Team Algo Sapiens | Smart India Hackathon 2025** | Dec 2025
@@ -69,33 +127,94 @@ Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Sta
 • Developed **Progressive Web App** for crop suitability guidance with real-time farm monitoring dashboards
 • **Historic Achievement**: First team from SIT Lonavala to reach nationals and win 🎉
 
-### 🛡️ **Head of Cybersecurity & Blockchain** – IIC-SIT
+### 🛡️ **Technical Head** – IIC-SIT *(Web, Cybersecurity & Blockchain)*
 **Institution's Innovation Council, SIT Lonavala** | Oct 2025 – Present
 
-• Spearheading **campus-wide technical initiatives** for 500+ students across 8 departments
-• **Pioneered Project Morpheus 2026** – Lead Organizer architecting technical infrastructure for national-level hackathon (200+ participants)
+• Overseeing **Web, Cybersecurity, and Blockchain** domains across campus-wide technical initiatives for 500+ students
+• **Lead Organizer – Project Morpheus 2026** – Architected infrastructure for national-level **24-hour hackathon** (200+ participants)
 • **Co-architected Kalpataru 2025** – 10-week innovation competition with secure registration system
 • **Mentored 70+ developers** in CODE2LAUNCH workshop (React, Node.js, JavaScript)
 • Evaluated 50+ technical projects providing architecture & security feedback
 
 ---
 
+<a name="stack"></a>
 ## 🛠️ Technical Expertise
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,js,ts,python,java,cpp,solidity,react,nextjs,nodejs,express,django,mongodb,postgres,redis,firebase,docker,aws,gcp,linux,git,github,figma&perline=8" />
-</p>
+**Languages**
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**AI / ML / RAG**
+
+![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Genkit](https://img.shields.io/badge/Google_Genkit-4285F4?style=flat-square&logo=google&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
+
+**Robotics & Autonomous Systems**
+
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
+![PX4](https://img.shields.io/badge/PX4_SITL-013243?style=flat-square&logo=px4&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-FF6B00?style=flat-square&logo=gazebo&logoColor=white)
+![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Pixhawk](https://img.shields.io/badge/Pixhawk_6c-1A1A1A?style=flat-square&logoColor=white)
+![LiDAR](https://img.shields.io/badge/LiDAR_(Livox)-E53935?style=flat-square)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi_5-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB_(Tx)-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Blockchain / Web3**
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Smart_Contracts-363636?style=flat-square&logo=solidity&logoColor=white)
+![Hyperledger](https://img.shields.io/badge/Hyperledger_Fabric-2F3134?style=flat-square&logo=hyperledger&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ### **Core Competencies** (Strongest Areas)
+- **AI Engineering**: Google Genkit, Gemini 2.5 Flash, RAG pipelines, LLM tool-use, Embedding stores, Custom auth-to-DB token bridges (Clerk → Firebase)
 - **Embedded AI & Robotics**: Teensy 4.1 microcontroller, Real-time neural network inference, Motor control, Encoder odometry, Sensor fusion
-- **Full-Stack**: Next.js, Node.js, React, TypeScript, MongoDB, PostgreSQL
+- **Autonomous Systems**: ROS 2, Nav2, Isaac Sim, Gazebo, PX4 SITL, Rviz, Pixhawk flight controllers, LiDAR integration (Livox Mid-360)
+- **Full-Stack**: Next.js 15, Node.js, React, TypeScript, MongoDB (Transactions/atomic ops), PostgreSQL
 - **Blockchain & Web3**: Solidity, Ethereum, Smart Contracts, Hyperledger Fabric, IPFS
 - **System Design**: Microservices, Distributed Systems, High-Performance APIs, Docker, Kubernetes, Real-time systems
 
 ### **Advanced Skills**
-- **Backend**: Express.js, Django, GraphQL, WebSockets, Firebase
-- **Emerging Tech**: Quantum Computing (Qiskit), Post-Quantum Cryptography, AI/ML (TensorFlow, PyTorch), Embedded AI
-- **Robotics & Hardware**: PID Control, Signal Processing, Motor Encoders, Analog Multiplexing, Real-time Systems
+- **Backend**: Express.js, Django, GraphQL, WebSockets, Firebase, Razorpay payment integration
+- **Emerging Tech**: Quantum Computing (Qiskit), Post-Quantum Cryptography, AI/ML (TensorFlow, PyTorch, Google GenAI), Embedded AI
+- **Robotics & Hardware**: ROS 2, Pixhawk 6c, LiDAR (Livox Mid-360), PID Control, Signal Processing, Motor Encoders, Analog Multiplexing
+- **Simulation**: Isaac Sim, Gazebo, **PX4 SITL (Software-In-The-Loop)**, Rviz point-cloud visualization, Digital Twin platforms
 - **DevOps & Cloud**: AWS, GCP, CI/CD, Linux, Git/GitHub
 
 ### **Languages**
@@ -105,7 +224,7 @@ Rust, JavaScript/TypeScript, Python, Java, Solidity, C++, SQL, Bash
 
 ## 🚁 Advanced Autonomous Ecosystem
 
-Architecting a high-tier autonomous stack for **ASCEND (Company) & ISRO Robotics Challenge**, moving beyond basic drone builds into **Advanced Aerial Robotics**.
+Architecting a high-tier autonomous stack for **ASCEND (Company) & ISRO Robotics Challenge (IRoC-U 2026 Shortlisted Finalist – Team ID 10144)**, moving beyond basic drone builds into **Advanced Aerial Robotics**. Mission: a fully autonomous **"Space Robot"** UAV ecosystem with custom docking & charging base station.
 
 ### 🛠️ The Autonomous Hardware Stack
 Integrating a "Pro-Level" sensory suite on a custom quad (920KV motors, 9075 props):
@@ -120,71 +239,81 @@ Integrating a "Pro-Level" sensory suite on a custom quad (920KV motors, 9075 pro
 - **Altitude Hold**: EKF2 calibration to trust LiDAR/Optical Flow over barometer
 - **Dashboard**: Real-time visualization of 3D LiDAR point clouds & thermal feeds
 
+### 🧪 Simulation & Testing Stack
+- **PX4 SITL (Software-In-The-Loop)**: Validating MAVLink command logic & failsafe behavior pre-flight
+- **Gazebo + Rviz**: Visualizing live LiDAR point clouds for GPS-denied SLAM validation
+- **Isaac Sim**: Photorealistic environments for vision-model training & sim-to-real transfer
+
 ### 🔮 Future Vision
 - **Digital Twin**: Real-time 3D thermal mapping for Search & Rescue
-- **Advanced Simulation**: Stress-testing algorithms in **Isaac Sim / Gazebo** before deployment
+- **Custom Docking Station**: Autonomous landing + wireless charging for persistent UAV missions
 
 ---
 
-## 📚 Featured Projects
+<a name="flagship"></a>
+## 🚀 Flagship Projects
 
-### 🚁 **ASCEND** – Autonomous Industrial Surveying & Digital Twins
-**Status**: Co-Founder & CTO | **Live**: [drone-nine-lemon.vercel.app](https://drone-nine-lemon.vercel.app/)
-- **Mission**: Creating "Digital Twins" of physical landscapes (construction, mines, infrastructure) using precision drone data.
-- **Key Services**:
-  - 📏 **LiDAR Mapping**: Penetrating vegetation for ground topology (+/- 2cm accuracy).
-  - 📸 **Photogrammetry**: High-res 2D maps & 3D meshes for site planning.
-  - 🔥 **Thermal Inspection**: Detecting defects in solar panels & utility lines via heat signatures.
-- **Vibe**: "Industrial Sci-Fi" – Robotic, data-heavy, precision-focused brand covering 1200+ acres/day.
+### 🛰️ **IRoC-U 2026 — Autonomous "Space Robot" UAV** *(In Development)*
+> 🇮🇳 **ISRO Robotics Challenge 2026 — Shortlisted Finalist (Team ID 10144)**
+> Building a fully autonomous UAV ecosystem with custom docking & wireless-charging base station.
 
-### 🤖 **Team Imposters – RoboRashtra 2026 Chakravyuh** – 1st Runner-Up 🏆
-**Status**: Competition Winner | **Prize**: ₹10,000 | **Feature**: Maval Maza Newspaper
-- **Tech Stack**: Teensy 4.1, Neural Networks, Motor Encoders, CD74HC4067 Multiplexer, C++
-- **Role**: Team Leader – Architected Neural Network maze-solving algorithm & precision encoder-based motor control
-- **Achievement**: Engineered a hybrid autonomous robot combining real-time NN inference with high-speed line-following in a continuous 16-hour coding marathon
-- **Key Innovations**: 
-  - Trained & deployed neural network for spatial reasoning on embedded microcontroller (sub-millisecond inference latency)
-  - Integrated high-resolution motor encoders to eliminate drift, achieving mathematically perfect 90° turns
-  - Implemented 16-channel analog multiplexer (CD74HC4067) for advanced sensor fusion from 16 IR distance channels
-  - Developed Auto-Hybrid Mode logic enabling seamless switching between deterministic line-following and AI maze-solving
-  - Built Safety Supervisor architecture to prevent collisions while maintaining autonomous operation
-- **Team**: Manas Kale, Yash Kamble (Hardware/Wiring), Harsh Pandhe (AI/Encoders/Leadership), Saurabh Kadam
-- **What I Learned**: Embedded AI deployment, real-time control systems, signal processing for sensor smoothing, autonomous navigation algorithms
+<p align="center">
+  <!-- TODO: record drone-nav canvas as 5-10s GIF, save to docs/drone-sim.gif, then this image renders. Until then, this will show a broken-image icon. -->
+  <img src="docs/drone-sim.gif" alt="Drone navigation simulation (canvas → GIF)" width="640" />
+</p>
 
-### 🌾 **Telhan Sathi** – Smart India Hackathon 2025 Winner
-**Status**: National Winner | **Live**: [telhan-sathi.vercel.app](#)
-- **Tech Stack**: Python, IoT, Django, Mobile App, Real-time Dashboards
-- AI-powered platform for oilseed farming with predictive crop advisories
-- Integrated government schemes (NMEO-OS) with real-time market insights
-- Deployed with real-time soil moisture monitoring & procurement guidance
-- **Impact**: Targeting 500+ farmers by Q2 2026
+**Stack** · ROS 2 · Nav2 · PX4 SITL · Gazebo · Rviz · Pixhawk 6c · Livox Mid-360 LiDAR · Raspberry Pi 5 · Coral TPU
+**Engineering highlights**
+- **GPS-denied navigation** via Fast-LIO over Livox Mid-360 + EKF2 fusion w/ optical flow
+- **Custom docking base station** — autonomous landing + wireless charging for persistent missions
+- **Sim-to-real pipeline** — algorithms hardened in Isaac Sim & PX4 SITL before flight
+- **Companion-compute split** — Pi 5 handles SLAM/AI, Pixhawk owns flight control via MAVLink
 
-### 🔗 **Codex** – Real-Time Collaborative Code Editor
-**Status**: Live | **Link**: [collabcodex.vercel.app](https://collabcodex.vercel.app)
-- **Tech Stack**: Next.js, Monaco Editor, Liveblocks, Convex, TypeScript
-- Engineered collaborative coding platform supporting **50+ concurrent users** with sub-50ms state propagation
-- **Recognition**: Published research paper in **IRJMETS** (Jan 2024)
-- **What I Learned**: Real-time conflict resolution & CRDT implementation
+> 🎮 *Live drone-nav demo (canvas) — [view interactive version](#) · GIF preview above*
 
-### 🏙️ **CityConnect** – Decentralized Civic Engagement Platform
-**Status**: Live | **Infotsav'25 Presentation**
-- **Tech Stack**: Next.js, Django, Custom Blockchain (Solidity), MongoDB
-- Civic reporting platform where users earn blockchain-based **EcoCoins** for resolving infrastructure issues
-- Optimized Django REST API for **1000+ concurrent requests** using Redis caching
-- **What I Learned**: On-chain governance & smart contract security
+---
 
-### 📊 **Kalpataru 2025** – Event Management System
-**Status**: Production | **Participants**: 200+
-- **Tech Stack**: Node.js, MongoDB, React.js, Tailwind CSS, Docker
-- Enterprise-grade registration platform I architected as Head of Cybersecurity
-- Secure payment gateway integration & deployed on Vercel with MongoDB Atlas
+### 🤖 **Ather Co-Pilot — Unified AI Workspace**
+> RAG-powered AI workspace for real-time **PDF & URL** analysis.
 
-### Other Notable Projects
+**Stack** · Next.js 15 · Gemini 2.5 Flash · Google Genkit · Clerk · Firebase · TypeScript
+**Engineering highlights**
+- **RAG over multi-document context** — embedding store + streaming responses
+- **Clerk → Firebase token-minting bridge** for secure auth-to-DB identity propagation
+- Persistent chat memory + prompt-driven UX patterns
+- *Tracking: [N] PDFs analyzed · [N] active users — metric coming soon*
 
-| Project | Tech Stack | Highlight |
-|---------|------------|-----------|
-| ⚡ **High-Performance Trading Engine** | Rust, Zero-copy message passing | 100,000+ orders/sec |
-| 🚚 **MapFleet Logistics** | Next.js, Firebase, Google Maps API | Real-time fleet tracking |
+---
+
+### 🎯 **Morpheus Management System — Hackathon Logistics Engine**
+> Production system that replaced manual spreadsheets at a **24-hour, 500+ participant** national hackathon.
+
+**Stack** · Next.js · MongoDB (Transactions) · Node.js · TypeScript
+**Engineering highlights**
+- **Rule-driven allocation engine** for room/team/track assignment
+- **Atomic MongoDB transactions** prevent double-booking under concurrent registration load
+- Real-time organizer dashboards + self-service participant flows
+- Idempotent APIs + transactional consistency under load
+
+---
+
+## 📚 More Projects
+
+| Project | What it is | Stack | Status |
+|---|---|---|---|
+| 🌱 **AgriTrace** | Circular-economy SaaS — AI waste classification + Razorpay traceability ledger | Next.js · Google GenAI · Razorpay · MongoDB | Active |
+| 🚉 **PodFlow Command Nexus** | Web-based digital-twin simulator for pod-transit networks | React · TypeScript · Three.js · WebSockets | Launched Mar 2026 |
+| 🚁 **ASCEND** | Industrial drone surveying + digital twins (LiDAR/photogrammetry/thermal) — covers 1200+ acres/day | LiDAR · Photogrammetry · Thermal | [Live](https://drone-nine-lemon.vercel.app/) — Co-Founder & CTO |
+| 🤖 **Team Imposters — Chakravyuh Bot** | NN maze-solver + line-follower on Teensy 4.1; **RoboRashtra 2026 Runner-Up** (₹10k) | Teensy 4.1 · Neural Networks · Motor Encoders · C++ | Competition Winner |
+| 🌾 **Telhan Sathi** | AI oilseed-farming advisory — **SIH 2025 National Winner** (PS 25273) | Python · Django · IoT · PWA | National Winner — *targeting 500+ farmers Q2 2026* |
+| 🔗 **Codex (CollabCodex)** | Real-time collab editor — 50+ concurrent users, sub-50ms sync; published in IRJMETS | Next.js · Monaco · Liveblocks · Convex | [Live](https://collabcodex.vercel.app) |
+| 🏙️ **CityConnect** | Civic reporting + on-chain EcoCoin rewards — 1000+ req/s w/ Redis caching | Next.js · Django · Solidity · MongoDB | Live · Infotsav'25 |
+| 📊 **Kalpataru 2025** | Enterprise registration platform — 200+ participants, secure payments | Node.js · MongoDB · React · Docker | Production |
+| ⚡ **HFT Trading Engine** | Zero-copy message-passing engine — 100,000+ orders/sec | Rust | Research build |
+| 🚚 **MapFleet Logistics** | Real-time fleet tracking | Next.js · Firebase · Google Maps API | Live |
+
+> 💬 **What teammates say** *(testimonials coming — drop a line if you've worked with me)*
+> > *"Add a 1-line quote here from Manas Kale / mentor / professor"* — Name, Role
 
 ---
 
@@ -198,7 +327,7 @@ Integrating a "Pro-Level" sensory suite on a custom quad (920KV motors, 9075 pro
   - 🔗 **Blockchain Honours**: O (Practical) + A (Theory) – aligns with IIC Cybersecurity & Blockchain leadership
   - ⚡ **A+ in Distributed Systems** | **A in Systems Programming & OS**
 - **Relevant Coursework**: Data Structures & Algorithms, Operating Systems, DBMS, Theory of Computation, Distributed Systems, Computer Networks
-- **Leadership**: Head of Cybersecurity & Blockchain (IIC-SIT)
+- **Leadership**: Technical Head – Web, Cybersecurity & Blockchain (IIC-SIT)
 
 ### **Diploma in Computer Engineering (First Class with Distinction)**
 **SPM Polytechnic College, Solapur** | Apr 2021 – Mar 2024
@@ -226,12 +355,16 @@ Integrating a "Pro-Level" sensory suite on a custom quad (920KV motors, 9075 pro
 
 ---
 
+<a name="awards"></a>
 ## 🏅 Certifications & Awards
 
-### 🏆 **Key Achievements**
-- **National Winner**: Smart India Hackathon 2025 – First team from SIT Lonavala to win nationally
+### 🏆 **Key Achievements** *(receipts attached where available)*
+- **National Winner**: Smart India Hackathon 2025 – First team from SIT Lonavala to win nationally · [`📄 proof`](#) *(add SIH winners-list URL or certificate)*
+- **🛰️ ISRO Robotics Challenge (IRoC-U 2026) – Shortlisted Finalist** (Team ID 10144) · [`📄 proof`](#) *(add ISRO shortlist page or shortlist email screenshot)*
 - **Robotics Runner-Up**: RoboRashtra 2026 – 1st Runner-Up in Chakravyuh (Maze & Line Solving), ₹10,000 Prize
-- **Press Feature**: Maval Maza Newspaper – State-level coverage for technical innovation
+- **AICTE & MIC Recognition**: Selected for **Phase II of the IDE Bootcamp** (Ministry of Education) · [`📄 proof`](#)
+- **Industry Exposure**: Participant – **Bentley Systems Illuminate 2026** (Digital Twin / MicroStation / OpenFlows summit)
+- **Press Feature**: [Maval Maza Newspaper](https://www.mavalmaza.com/news/SIT-lonavala-student-selected-for-prestigious-internship-in-austria-after-national-robotics-and-hackathon-success) – State-level coverage for technical innovation
 - **Published Researcher**: Research paper on Collaborative Code Editor (IRJMETS, Jan 2024)
 - **National Finalist**: SIH 2025 National Finals
 - **Top 40**: PCU Ideathon 2.0 (500+ teams)
@@ -259,6 +392,15 @@ Integrating a "Pro-Level" sensory suite on a custom quad (920KV motors, 9075 pro
 
 ---
 
+## 📖 Currently Reading / Learning
+
+- 📕 *Designing Data-Intensive Applications* — Martin Kleppmann (distributed-systems patterns for IRoC + Doppelmayr)
+- 📗 *Probabilistic Robotics* — Thrun, Burgard & Fox (sensor fusion, Bayesian SLAM)
+- 📘 *Building LLM-Powered Applications* — RAG architectures + Genkit deep-dives
+- 🎓 NPTEL — *Quantum Computing & Algorithms* (post-quantum crypto research thread)
+
+---
+
 ## 🌐 Languages & Interests
 
 **Languages**: 🇮🇳 Marathi (Native) | 🇬🇧 English (Professional) | 🇮🇳 Hindi (Professional) | 🇪🇸 Spanish (Elementary)
@@ -267,50 +409,49 @@ Integrating a "Pro-Level" sensory suite on a custom quad (920KV motors, 9075 pro
 
 ---
 
-## 🎧 Spotify
+<a name="connect"></a>
+## 🤝 Let's Connect
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/harshpandhe/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Harsh%20Pandhe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/HarshPandhe" target="_blank"><img src="https://img.shields.io/badge/X_(Twitter)-@HarshPandhe-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://github.com/harsh-pandhe" target="_blank"><img src="https://img.shields.io/badge/GitHub-harsh--pandhe-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://instagram.com/harsh_pandhe" target="_blank"><img src="https://img.shields.io/badge/Instagram-harsh__pandhe-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</div>
+
+<p align="center">
+  <a href="https://cal.com/harshpandhe" target="_blank"><img src="https://img.shields.io/badge/📅_Book_a_15--min_chat-Cal.com-7c3aed?style=for-the-badge" /></a>
+  <a href="mailto:harshpandhehome@gmail.com"><img src="https://img.shields.io/badge/📧_Email_me-harshpandhehome@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<sub>📅 *Replace `cal.com/harshpandhe` with your actual Cal.com / Calendly URL once set up.*</sub>
+
+**Open to**: Open-source contributions (blockchain & distributed systems) · Consulting (blockchain architecture & system design) · Speaking gigs · Research collaborations.
+**Particularly interested in**: Web3 infrastructure · Distributed Systems · Quantum-ready Cryptography · Autonomous Robotics.
+
+---
+
+<details>
+<summary>🎧 More — Spotify · Pacman · Visitors</summary>
+
+### 🎧 Spotify (Recently Played)
 <div align="center">
   <a href="https://open.spotify.com/user/31xnn7cpwjeforao35r4rxlrgk4m">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xnn7cpwjeforao35r4rxlrgk4m&count=5" alt="Spotify recently played" />
   </a>
 </div>
 
----
-
-## 👾 Pacman Contribution Graph
-
+### 👾 Pacman Contribution Graph
 <div align="center">
   <img src="https://pacman.abozanona.me?username=harsh-pandhe&platform=github" alt="pacman contribution graph" width="100%"/>
 </div>
 
----
-
-##  Let's Connect
-
+### 👀 Visitors
 <div align="center">
-  <a href="https://www.linkedin.com/in/harshpandhe/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="50" alt="LinkedIn" style="margin: 0 10px;" />
-  </a>
-  <a href="https://x.com/HarshPandhe" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="50" alt="Twitter" style="margin: 0 10px;" />
-  </a>
-  <a href="https://github.com/harsh-pandhe" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" style="margin: 0 10px;" />
-  </a>
-  <a href="https://instagram.com/harsh_pandhe" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="50" alt="Instagram" style="margin: 0 10px;" />
-  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=harsh-pandhe.harsh-pandhe&theme=dark&color=0891b2" alt="Visitor Badge" />
 </div>
 
----
-
-## 🤝 Open to Collaboration
-
-- 🔗 **Open Source**: Contributing to blockchain & distributed systems projects
-- 💼 **Consulting**: Available for blockchain architecture & system design discussions
-- 📧 **Reach Out**: harshpandhehome@gmail.com
-
-**Particularly interested in**: Web3 infrastructure, Distributed Systems, Quantum-ready Cryptography
+</details>
 
 ---
 
@@ -336,17 +477,13 @@ Integrating a "Pro-Level" sensory suite on a custom quad (920KV motors, 9075 pro
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harsh-pandhe/harsh-pandhe/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harsh-pandhe/harsh-pandhe/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/harsh-pandhe/harsh-pandhe/output/github-snake.svg" />
 </picture>
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=harsh-pandhe.harsh-pandhe&theme=dark&color=0891b2" alt="Visitor Badge" />
-</div>
 
 <p align="center">
   <sub>
