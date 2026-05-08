@@ -51,17 +51,27 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harsh-pandhe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=harsh-pandhe&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/harsh-pandhe">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=harsh-pandhe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Harsh's GitHub stats" />
+  </a>
+  <a href="https://github.com/harsh-pandhe">
+    <img height="165" src="https://streak-stats.demolab.com?user=harsh-pandhe&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub streak" />
+  </a>
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-pandhe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <a href="https://github.com/harsh-pandhe">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-pandhe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harsh-pandhe&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=harsh-pandhe&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
+  </a>
 </div>
+
+<sub>📊 *Stats cards may take a moment to cold-start from Vercel — refresh if not visible.*</sub>
 
 ---
 
@@ -131,8 +141,8 @@ Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Sta
 **Institution's Innovation Council, SIT Lonavala** | Oct 2025 – Present
 
 • Overseeing **Web, Cybersecurity, and Blockchain** domains across campus-wide technical initiatives for 500+ students
-• **Lead Organizer – Project Morpheus 2026** – Architected infrastructure for national-level **24-hour hackathon** (200+ participants)
-• **Co-architected Kalpataru 2025** – 10-week innovation competition with secure registration system
+• **Lead Organizer – [Project Morpheus 2026](https://www.projectmorpheus.in/)** – Architected infrastructure for national-level **24-hour hackathon** (200+ participants)
+• **Co-architected [Kalpataru 2025](https://www.thekalpataru.com/)** – 10-week innovation competition with secure registration system
 • **Mentored 70+ developers** in CODE2LAUNCH workshop (React, Node.js, JavaScript)
 • Evaluated 50+ technical projects providing architecture & security feedback
 
@@ -257,10 +267,12 @@ Integrating a "Pro-Level" sensory suite on a custom quad (920KV motors, 9075 pro
 > 🇮🇳 **ISRO Robotics Challenge 2026 — Shortlisted Finalist (Team ID 10144)**
 > Building a fully autonomous UAV ecosystem with custom docking & wireless-charging base station.
 
+<!-- 🎬 Demo GIF placeholder — drop docs/drone-sim.gif (5-10s loop of drone-nav canvas) here, then uncomment block below. -->
+<!--
 <p align="center">
-  <!-- TODO: record drone-nav canvas as 5-10s GIF, save to docs/drone-sim.gif, then this image renders. Until then, this will show a broken-image icon. -->
-  <img src="docs/drone-sim.gif" alt="Drone navigation simulation (canvas → GIF)" width="640" />
+  <img src="docs/drone-sim.gif" alt="Drone navigation simulation" width="640" />
 </p>
+-->
 
 **Stack** · ROS 2 · Nav2 · PX4 SITL · Gazebo · Rviz · Pixhawk 6c · Livox Mid-360 LiDAR · Raspberry Pi 5 · Coral TPU
 **Engineering highlights**
@@ -269,7 +281,6 @@ Integrating a "Pro-Level" sensory suite on a custom quad (920KV motors, 9075 pro
 - **Sim-to-real pipeline** — algorithms hardened in Isaac Sim & PX4 SITL before flight
 - **Companion-compute split** — Pi 5 handles SLAM/AI, Pixhawk owns flight control via MAVLink
 
-> 🎮 *Live drone-nav demo (canvas) — [view interactive version](#) · GIF preview above*
 
 ---
 
@@ -281,12 +292,12 @@ Integrating a "Pro-Level" sensory suite on a custom quad (920KV motors, 9075 pro
 - **RAG over multi-document context** — embedding store + streaming responses
 - **Clerk → Firebase token-minting bridge** for secure auth-to-DB identity propagation
 - Persistent chat memory + prompt-driven UX patterns
-- *Tracking: [N] PDFs analyzed · [N] active users — metric coming soon*
 
 ---
 
 ### 🎯 **Morpheus Management System — Hackathon Logistics Engine**
 > Production system that replaced manual spreadsheets at a **24-hour, 500+ participant** national hackathon.
+> 🌐 **Live**: [projectmorpheus.in](https://www.projectmorpheus.in/)
 
 **Stack** · Next.js · MongoDB (Transactions) · Node.js · TypeScript
 **Engineering highlights**
@@ -308,12 +319,10 @@ Integrating a "Pro-Level" sensory suite on a custom quad (920KV motors, 9075 pro
 | 🌾 **Telhan Sathi** | AI oilseed-farming advisory — **SIH 2025 National Winner** (PS 25273) | Python · Django · IoT · PWA | National Winner — *targeting 500+ farmers Q2 2026* |
 | 🔗 **Codex (CollabCodex)** | Real-time collab editor — 50+ concurrent users, sub-50ms sync; published in IRJMETS | Next.js · Monaco · Liveblocks · Convex | [Live](https://collabcodex.vercel.app) |
 | 🏙️ **CityConnect** | Civic reporting + on-chain EcoCoin rewards — 1000+ req/s w/ Redis caching | Next.js · Django · Solidity · MongoDB | Live · Infotsav'25 |
-| 📊 **Kalpataru 2025** | Enterprise registration platform — 200+ participants, secure payments | Node.js · MongoDB · React · Docker | Production |
+| 📊 **Kalpataru 2025** | Enterprise registration platform — 200+ participants, secure payments | Node.js · MongoDB · React · Docker | [Live](https://www.thekalpataru.com/) |
 | ⚡ **HFT Trading Engine** | Zero-copy message-passing engine — 100,000+ orders/sec | Rust | Research build |
 | 🚚 **MapFleet Logistics** | Real-time fleet tracking | Next.js · Firebase · Google Maps API | Live |
 
-> 💬 **What teammates say** *(testimonials coming — drop a line if you've worked with me)*
-> > *"Add a 1-line quote here from Manas Kale / mentor / professor"* — Name, Role
 
 ---
 
@@ -359,10 +368,10 @@ Integrating a "Pro-Level" sensory suite on a custom quad (920KV motors, 9075 pro
 ## 🏅 Certifications & Awards
 
 ### 🏆 **Key Achievements** *(receipts attached where available)*
-- **National Winner**: Smart India Hackathon 2025 – First team from SIT Lonavala to win nationally · [`📄 proof`](#) *(add SIH winners-list URL or certificate)*
-- **🛰️ ISRO Robotics Challenge (IRoC-U 2026) – Shortlisted Finalist** (Team ID 10144) · [`📄 proof`](#) *(add ISRO shortlist page or shortlist email screenshot)*
+- **National Winner**: Smart India Hackathon 2025 – First team from SIT Lonavala to win nationally · [`📄 certificate`](docs/proofs/sih-2025.jpeg) · [`💼 LinkedIn`](https://www.linkedin.com/feed/update/urn:li:activity:7404855242137276416/)
+- **🛰️ ISRO Robotics Challenge (IRoC-U 2026) – Shortlisted Finalist** (Team ID 10144) · [`📄 proof`](https://www.ursc.gov.in/IRoC-U2026/Shortlisted_for_EliminationRound.pdf)
 - **Robotics Runner-Up**: RoboRashtra 2026 – 1st Runner-Up in Chakravyuh (Maze & Line Solving), ₹10,000 Prize
-- **AICTE & MIC Recognition**: Selected for **Phase II of the IDE Bootcamp** (Ministry of Education) · [`📄 proof`](#)
+- **AICTE & MIC Recognition**: Selected for **Phase II of the IDE Bootcamp** (Ministry of Education) · [`📄 certificate`](docs/proofs/aicte-ide.jpeg) · [`💼 LinkedIn`](https://www.linkedin.com/feed/update/urn:li:activity:7453476751269281792/)
 - **Industry Exposure**: Participant – **Bentley Systems Illuminate 2026** (Digital Twin / MicroStation / OpenFlows summit)
 - **Press Feature**: [Maval Maza Newspaper](https://www.mavalmaza.com/news/SIT-lonavala-student-selected-for-prestigious-internship-in-austria-after-national-robotics-and-hackathon-success) – State-level coverage for technical innovation
 - **Published Researcher**: Research paper on Collaborative Code Editor (IRJMETS, Jan 2024)
@@ -424,30 +433,27 @@ Integrating a "Pro-Level" sensory suite on a custom quad (920KV motors, 9075 pro
   <a href="mailto:harshpandhehome@gmail.com"><img src="https://img.shields.io/badge/📧_Email_me-harshpandhehome@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<sub>📅 *Replace `cal.com/harshpandhe` with your actual Cal.com / Calendly URL once set up.*</sub>
-
 **Open to**: Open-source contributions (blockchain & distributed systems) · Consulting (blockchain architecture & system design) · Speaking gigs · Research collaborations.
 **Particularly interested in**: Web3 infrastructure · Distributed Systems · Quantum-ready Cryptography · Autonomous Robotics.
 
 ---
 
-<details>
-<summary>🎧 More — Spotify · Pacman · Visitors</summary>
+## 👾 Pacman Contribution Graph
 
-### 🎧 Spotify (Recently Played)
-<div align="center">
-  <a href="https://open.spotify.com/user/31xnn7cpwjeforao35r4rxlrgk4m">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xnn7cpwjeforao35r4rxlrgk4m&count=5" alt="Spotify recently played" />
-  </a>
-</div>
-
-### 👾 Pacman Contribution Graph
 <div align="center">
   <img src="https://pacman.abozanona.me?username=harsh-pandhe&platform=github" alt="pacman contribution graph" width="100%"/>
 </div>
 
-### 👀 Visitors
+---
+
+<details>
+<summary>🎧 Spotify (Recently Played) · 👀 Visitor Count</summary>
+
 <div align="center">
+  <a href="https://open.spotify.com/user/31xnn7cpwjeforao35r4rxlrgk4m">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xnn7cpwjeforao35r4rxlrgk4m&count=5" alt="Spotify recently played" />
+  </a>
+  <br><br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=harsh-pandhe.harsh-pandhe&theme=dark&color=0891b2" alt="Visitor Badge" />
 </div>
 
