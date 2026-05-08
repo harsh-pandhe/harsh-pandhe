@@ -118,28 +118,28 @@ Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Sta
 ### 💼 **Software Development Intern** – Doppelmayr (Austria)
 **Doppelmayr** | Apr 2026 – Present
 
-• Building **DoppelDash** – a professional-grade internal platform for operational workflows
-• Applying full-stack architecture (TypeScript, React, Node.js) in an enterprise environment
-• Working within a global engineering team on ropeway & transport automation systems
-• Equipped with a high-performance **RTX 4060 GPU workstation** by the company to drive **physics-based simulations, LLM workflows, and intelligent AI systems for enterprise automation**
-• 📰 **Featured in [Maval Maza](https://www.mavalmaza.com/news/SIT-lonavala-student-selected-for-prestigious-internship-in-austria-after-national-robotics-and-hackathon-success)** – State-level press coverage of the Austria internship selection
+- Building **DoppelDash** – a professional-grade internal platform for operational workflows
+- Applying full-stack architecture (TypeScript, React, Node.js) in an enterprise environment
+- Working within a global engineering team on ropeway & transport automation systems
+- Equipped with a high-performance **RTX 4060 GPU workstation** by the company to drive **physics-based simulations, LLM workflows, and intelligent AI systems for enterprise automation**
+- 📰 **Featured in [Maval Maza](https://www.mavalmaza.com/news/SIT-lonavala-student-selected-for-prestigious-internship-in-austria-after-national-robotics-and-hackathon-success)** – State-level press coverage of the Austria internship selection
 
 ### 🏆 **SIH 2025 National Winner** – Team Lead & Full Stack Developer
 **Team Algo Sapiens | Smart India Hackathon 2025** | Dec 2025
 
-• **Led 6-member team to national victory** among 10,000+ teams with **Telhan Sathi** (MoA&FW PS ID: 25273)
-• Architected **AI & ML predictive models** for crop shift mitigation & built **IoT-based soil detection systems**
-• Developed **Progressive Web App** for crop suitability guidance with real-time farm monitoring dashboards
-• **Historic Achievement**: First team from SIT Lonavala to reach nationals and win 🎉
+- **Led 6-member team to national victory** among 10,000+ teams with **Telhan Sathi** (MoA&FW PS ID: 25273)
+- Architected **AI & ML predictive models** for crop shift mitigation & built **IoT-based soil detection systems**
+- Developed **Progressive Web App** for crop suitability guidance with real-time farm monitoring dashboards
+- **Historic Achievement**: First team from SIT Lonavala to reach nationals and win 🎉
 
 ### 🛡️ **Technical Head** – IIC-SIT *(Web, Cybersecurity & Blockchain)*
 **Institution's Innovation Council, SIT Lonavala** | Oct 2025 – Present
 
-• Overseeing **Web, Cybersecurity, and Blockchain** domains across campus-wide technical initiatives for 500+ students
-• **Lead Organizer – [Project Morpheus 2026](https://www.projectmorpheus.in/)** – Architected infrastructure for national-level **24-hour hackathon** (200+ participants)
-• **Co-architected [Kalpataru 2025](https://www.thekalpataru.com/)** – 10-week innovation competition with secure registration system
-• **Mentored 70+ developers** in CODE2LAUNCH workshop (React, Node.js, JavaScript)
-• Evaluated 50+ technical projects providing architecture & security feedback
+- Overseeing **Web, Cybersecurity, and Blockchain** domains across campus-wide technical initiatives for 500+ students
+- **Lead Organizer – [Project Morpheus 2026](https://www.projectmorpheus.in/)** – Architected infrastructure for national-level **24-hour hackathon** (200+ participants)
+- **Co-architected [Kalpataru 2025](https://www.thekalpataru.com/)** – 10-week innovation competition with secure registration system
+- **Mentored 70+ developers** in CODE2LAUNCH workshop (React, Node.js, JavaScript)
+- Evaluated 50+ technical projects providing architecture & security feedback
 
 ---
 
@@ -310,7 +310,7 @@ Integrating a "Pro-Level" sensory suite on a custom quad (920KV motors, 9075 pro
 |---|---|---|---|
 | 🌱 **AgriTrace** | Circular-economy SaaS — AI waste classification + Razorpay traceability ledger | Next.js · Google GenAI · Razorpay · MongoDB | Active |
 | 🚉 **PodFlow Command Nexus** | Web-based digital-twin simulator for pod-transit networks | React · TypeScript · Three.js · WebSockets | Launched Mar 2026 |
-| 🚁 **ASCEND** | Industrial drone surveying + digital twins (LiDAR/photogrammetry/thermal inspection) | LiDAR · Photogrammetry · Thermal | [Live](https://drone-nine-lemon.vercel.app/) — Co-Founder & CTO |
+| 🚁 **ASCEND** | Industrial drone surveying + digital twins (LiDAR/photogrammetry/thermal inspection) | LiDAR · Photogrammetry · Thermal | In development |
 | 🤖 **Team Imposters — Chakravyuh Bot** | NN maze-solver + line-follower on Teensy 4.1; **RoboRashtra 2026 Runner-Up** (₹10k) | Teensy 4.1 · Neural Networks · Motor Encoders · C++ | Competition Winner |
 | 🌾 **Telhan Sathi** | AI oilseed-farming advisory — **SIH 2025 National Winner** (PS 25273) | Python · Django · IoT · PWA | National Winner — *targeting 500+ farmers Q2 2026* |
 | 🔗 **Codex (CollabCodex)** | Real-time collab editor — 50+ concurrent users, sub-50ms sync; published in IRJMETS | Next.js · Monaco · Liveblocks · Convex | [Live](https://collabcodex.vercel.app) |
