@@ -4,7 +4,7 @@
 <h3 align="center">Full-Stack Developer | Embedded AI Engineer | Robotics Innovator | Blockchain Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=30AADD&center=true&vCenter=true&width=720&height=40&lines=SIH+2025+National+Winner+%F0%9F%8F%86;IRoC-U+2026+Shortlisted+Finalist+%F0%9F%9B%B0%EF%B8%8F;Software+Dev+Intern+%40+Doppelmayr+%F0%9F%9A%80;Robotics+%26+Embedded+AI+Engineer+%F0%9F%A4%96;Full-Stack+%2B+Blockchain+Architect+%F0%9F%92%BB;Building+the+%272+AM%27+software+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=30AADD&center=true&vCenter=true&width=720&height=40&lines=SIH+2025+National+Winner+%F0%9F%8F%86;IRoC-U+2026+Shortlisted+%F0%9F%9B%B0%EF%B8%8F;Software+Dev+Intern+%40+Doppelmayr+%F0%9F%9A%80;Robotics+%26+Embedded+AI+Engineer+%F0%9F%A4%96;Full-Stack+%2B+Blockchain+Architect+%F0%9F%92%BB;Building+the+%272+AM%27+software+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 ## ⚡ TL;DR
 
 > 🛠️ **What I do** · Full-stack + Embedded AI + Autonomous Robotics. Ship production systems end-to-end.<br>
-> 🏆 **What I won** · SIH 2025 National Winner · RoboRashtra 2026 Runner-Up · IRoC-U 2026 Shortlisted Finalist<br>
+> 🏆 **What I won** · SIH 2025 National Winner · RoboRashtra 2026 Runner-Up · IRoC-U 2026 Shortlisted<br>
 > 🚀 **What I'm building** · Autonomous UAV ecosystem for ISRO · DoppelDash @ Doppelmayr · RAG-powered AI workspaces
 
 <sub>📑 <strong>Quick Nav</strong> · <a href="#currently">Currently</a> · <a href="#stats">GitHub Stats</a> · <a href="#flagship">Flagship Projects</a> · <a href="#stack">Tech Stack</a> · <a href="#experience">Experience</a> · <a href="#awards">Awards</a> · <a href="#connect">Connect</a></sub>
@@ -73,7 +73,7 @@
 <a name="summary"></a>
 ## 🎯 Professional Summary
 
-Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Stack Software Development**, **Embedded AI Systems**, **Robotics Engineering**, and **Blockchain Architecture**. **SIH 2025 National Winner**, **RoboRashtra 2026 Runner-Up (1st)**, and **IRoC-U 2026 Shortlisted Finalist** with expertise in neural network inference, real-time systems, and autonomous navigation. Published researcher in collaborative systems with demonstrated expertise in:
+Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Stack Software Development**, **Embedded AI Systems**, **Robotics Engineering**, and **Blockchain Architecture**. **SIH 2025 National Winner**, **RoboRashtra 2026 Runner-Up (1st)**, and **IRoC-U 2026 Shortlisted** with expertise in neural network inference, real-time systems, and autonomous navigation. Published researcher in collaborative systems with demonstrated expertise in:
 
 - 🔹 Embedded AI & Real-Time Neural Network Inference on Microcontrollers
 - 🔹 High-Performance System Design & Microservices Architecture
@@ -97,7 +97,7 @@ Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Sta
 
 <p align="center">
   <img src="https://img.shields.io/badge/🏆_National_Wins-1_(SIH_2025)-FFD700?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🛰️_ISRO-IRoC--U_2026_Finalist-0B3D91?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🛰️_ISRO-IRoC--U_2026-0B3D91?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🤖_Robotics-RoboRashtra_Runner--Up-E53935?style=for-the-badge" />
 </p>
 <p align="center">
@@ -132,7 +132,7 @@ Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Sta
 - Developed **Progressive Web App** for crop suitability guidance with real-time farm monitoring dashboards
 - **Historic Achievement**: First team from SIT Lonavala to reach nationals and win 🎉
 
-### 🛡️ **Technical Head** – IIC-SIT *(Web, Cybersecurity & Blockchain)*
+### 🛡️ **Web, Cybersecurity & Blockchain Head** – IIC-SIT
 **Institution's Innovation Council, SIT Lonavala** | Oct 2025 – Present
 
 - Overseeing **Web, Cybersecurity, and Blockchain** domains across campus-wide technical initiatives for 500+ students
@@ -230,7 +230,7 @@ Rust, JavaScript/TypeScript, Python, Java, Solidity, C++, SQL, Bash
 
 ## 🚁 Advanced Autonomous Ecosystem
 
-Architecting a high-tier autonomous stack for **ASCEND (Company) & ISRO Robotics Challenge (IRoC-U 2026 Shortlisted Finalist – Team ID 10144)**, moving beyond basic drone builds into **Advanced Aerial Robotics**. Mission: a fully autonomous **"Space Robot"** UAV ecosystem with custom docking & charging base station.
+Architecting a high-tier autonomous stack for **ASCEND & ISRO Robotics Challenge (IRoC-U 2026 Shortlisted – Team ID 10144)**, moving beyond basic drone builds into **Advanced Aerial Robotics**. Mission: a fully autonomous **"Space Robot"** UAV ecosystem with custom docking & charging base station.
 
 ### 🛠️ The Autonomous Hardware Stack
 Integrating a "Pro-Level" sensory suite on a custom quad (920KV motors, 9075 props):
@@ -260,7 +260,7 @@ Integrating a "Pro-Level" sensory suite on a custom quad (920KV motors, 9075 pro
 ## 🚀 Flagship Projects
 
 ### 🛰️ **IRoC-U 2026 — Autonomous "Space Robot" UAV** *(In Development)*
-> 🇮🇳 **ISRO Robotics Challenge 2026 — Shortlisted Finalist (Team ID 10144)**
+> 🇮🇳 **ISRO Robotics Challenge 2026 — Shortlisted (Team ID 10144)**
 > Building a fully autonomous UAV ecosystem with custom docking & wireless-charging base station.
 
 <!-- 🎬 Demo GIF placeholder — drop docs/drone-sim.gif (5-10s loop of drone-nav canvas) here, then uncomment block below. -->
@@ -365,7 +365,7 @@ Integrating a "Pro-Level" sensory suite on a custom quad (920KV motors, 9075 pro
 
 ### 🏆 **Key Achievements** *(receipts attached where available)*
 - **National Winner**: Smart India Hackathon 2025 – First team from SIT Lonavala to win nationally · [`📄 certificate`](docs/proofs/sih-2025.jpeg) · [`💼 LinkedIn`](https://www.linkedin.com/feed/update/urn:li:activity:7404855242137276416/)
-- **🛰️ ISRO Robotics Challenge (IRoC-U 2026) – Shortlisted Finalist** (Team ID 10144) · [`📄 proof`](https://www.ursc.gov.in/IRoC-U2026/Shortlisted_for_EliminationRound.pdf)
+- **🛰️ ISRO Robotics Challenge (IRoC-U 2026) – Shortlisted** (Team ID 10144) · [`📄 proof`](https://www.ursc.gov.in/IRoC-U2026/Shortlisted_for_EliminationRound.pdf)
 - **Robotics Runner-Up**: RoboRashtra 2026 – 1st Runner-Up in Chakravyuh (Maze & Line Solving), ₹10,000 Prize
 - **AICTE & MIC Recognition**: Selected for **Phase II of the IDE Bootcamp** (Ministry of Education) · [`📄 certificate`](docs/proofs/aicte-ide.jpeg) · [`💼 LinkedIn`](https://www.linkedin.com/feed/update/urn:li:activity:7453476751269281792/)
 - **Industry Exposure**: Participant – **Bentley Systems Illuminate 2026** (Digital Twin / MicroStation / OpenFlows summit)
@@ -392,7 +392,7 @@ Integrating a "Pro-Level" sensory suite on a custom quad (920KV motors, 9075 pro
 
 - 📝 **LinkedIn Creator** – Technical insights & mentoring junior developers
 - 🎓 **Workshop Leader** – CODE2LAUNCH (React, Node.js, JavaScript) – 70+ attendees
-- 🏅 **Published Researcher** – "Collaborative Real-Time Code Editing Systems," IRJMETS, Jan 2024
+- 🏅 **Published Researcher** – "Collaborative Real-Time Code," IRJMETS, Jan 2024
 - 🎙️ **Speaker** – Infotsav'25 (CityConnect presentation)
 
 ---
