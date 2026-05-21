@@ -8,7 +8,12 @@
 </p>
 
 <p align="center">
-  <em>"Whether it's preventing double-bookings with <strong>atomic MongoDB transactions</strong> or navigating drones in <strong>GPS-denied environments</strong>, I build software that solves the '2 AM' problems."</em>
+  <em>
+    Solving the maze when the GPS dies,<br>
+    Building the math for the ropeways and skies.<br>
+    SIH winner with production in sight,<br>
+    I engineer systems that survive the night.
+  </em>
 </p>
 
 <div align="center">
