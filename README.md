@@ -31,17 +31,18 @@
 > 🏆 **What I won** · SIH 2025 National Winner · RoboRashtra 2026 Runner-Up · IRoC-U 2026 Shortlisted<br>
 > 🚀 **What I'm building** · Autonomous UAV ecosystem for ISRO · DoppelDash @ Doppelmayr · RAG-powered AI workspaces
 
-<sub>📑 <strong>Quick Nav</strong> · <a href="#currently">Currently</a> · <a href="#stats">GitHub Stats</a> · <a href="#flagship">Flagship Projects</a> · <a href="#stack">Tech Stack</a> · <a href="#experience">Experience</a> · <a href="#awards">Awards</a> · <a href="#connect">Connect</a></sub>
+<sub>📑 <strong>Quick Nav</strong> · <a href="#currently">Currently</a> · <a href="#stats">GitHub Stats</a> · <a href="#flagship">Flagship Projects</a> · <a href="#oss">OSS</a> · <a href="#stack">Tech Stack</a> · <a href="#experience">Experience</a> · <a href="#awards">Awards</a> · <a href="#connect">Connect</a></sub>
 
 ---
 
 <a name="currently"></a>
 ## 🟢 Currently
 
-- 💼 Building **DoppelDash** @ Doppelmayr (Austria)
-- 🛰️ Prepping for **IRoC-U 2026 Finals** — autonomous UAV + custom docking station
+- 💼 Shipping **DoppelDash** @ Doppelmayr + **[Autonomous-Ropeway-Alignment](https://github.com/harsh-pandhe/Autonomous-Ropeway-Alignment)** (Eurocode-validated optimizer)
+- 🛰️ **IRoC-U 2026 Finals** prep — synthetic MID-360 LiDAR via CPU raycast + parameterized arena gen
+- 📊 **AlgoTrade** phase 5 — Upstox V3 WebSocket + local LLM (Ollama)
 - 🤖 Shipping **Ather Co-Pilot v2** — RAG over PDFs/URLs with Gemini 2.5 + Genkit
-- 📖 Grinding for **GATE 2027** (Top 500 target)
+- 📖 GATE 2027 prep (Top 500 target)
 
 <sub>↻ Updated monthly</sub>
 
@@ -102,11 +103,11 @@ Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Sta
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/👥_Mentored-70%2B_devs-22c55e?style=flat-square" />
-  <img src="https://img.shields.io/badge/📚_Repos-76%2B-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/🔄_Contributions-817_YTD-2ea44f?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/📚_Repos-100%2B-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/🔄_Contributions-866_YTD-2ea44f?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌍_Merged_OSS_PRs-validator.js_%2B_rich-blue?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/🔬_Papers-1_(IRJMETS)-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/💼_Teams_Led-6_/_4_/_200%2B-7c3aed?style=flat-square" />
-  <img src="https://img.shields.io/badge/⚡_Trading_Engine-100k_orders/sec-f97316?style=flat-square" />
   <img src="https://img.shields.io/badge/🧠_NN_Inference-sub--ms_latency-ec4899?style=flat-square" />
 </p>
 
@@ -259,6 +260,19 @@ Integrating a "Pro-Level" sensory suite on a custom quad (920KV motors, 9075 pro
 <a name="flagship"></a>
 ## 🚀 Flagship Projects
 
+### 🚡 **[Autonomous-Ropeway-Alignment](https://github.com/harsh-pandhe/Autonomous-Ropeway-Alignment)** — Eurocode-Validated Optimizer
+> Open-source toolchain: DEM + 2 station coords → permit-grade aerial ropeway alignment (towers, catenary, safety, DXF, LandXML, 3-D twin, BOM, capex) in <15 s on a laptop. **Validated against 12 real installations across 6 system archetypes on 5 continents** — Aiguille du Midi 0.6 %, Zugspitze 2.7 %, Whistler Peak2Peak 7.2 %.
+
+**Stack** · Python · DEAP GA · pymoo NSGA-II · stable-baselines3 PPO · scikit-learn RSM · FastAPI · JWT/RBAC · SQLAlchemy · Postgres · Docker · Streamlit · PyVista 3-D twin · Copernicus GLO-30 DEM
+**Engineering highlights**
+- **Catenary mechanics** validated to 0.00 % on 3 textbook references (sag / length / tension)
+- **Eurocode envelope** — EN 12929-1 clearance · EN 1991-1-4 wind · ISO 12494 ice · EN 1993-1-1 tower buckling/bending · ANSI B77.1 live load
+- **Four optimizers** wired (GA · NSGA-II · PPO RL · RSM surrogate) with benchmark harness
+- **REST service** — JWT auth, RBAC, audit log, immutable project snapshots, DEM upload → optimize → DXF/LandXML/PDF export
+- 157 pytest cases, CI on every push, MIT license
+
+---
+
 ### 🛰️ **IRoC-U 2026 — Autonomous "Space Robot" UAV** *(In Development)*
 > 🇮🇳 **ISRO Robotics Challenge 2026 — Shortlisted (Team ID 10144)**
 > Building a fully autonomous UAV ecosystem with custom docking & wireless-charging base station.
@@ -316,9 +330,26 @@ Integrating a "Pro-Level" sensory suite on a custom quad (920KV motors, 9075 pro
 | 🔗 **Codex (CollabCodex)** | Real-time collab editor — 50+ concurrent users, sub-50ms sync; published in IRJMETS | Next.js · Monaco · Liveblocks · Convex | [Live](https://collabcodex.vercel.app) |
 | 🏙️ **CityConnect** | Civic reporting + on-chain EcoCoin rewards — 1000+ req/s w/ Redis caching | Next.js · Django · Solidity · MongoDB | Live · Infotsav'25 |
 | 📊 **Kalpataru 2025** | Enterprise registration platform — 200+ participants, secure payments | Node.js · MongoDB · React · Docker | [Live](https://www.thekalpataru.com/) |
-| ⚡ **HFT Trading Engine** | Zero-copy message-passing engine — 100,000+ orders/sec | Rust | Research build |
+| 📊 **[AlgoTrade](https://github.com/harsh-pandhe/AlgoTrade)** | Autonomous multi-agent NSE/Upstox trader — HMM regime, XGBoost, sentiment, PPO; OutcomeModel + ChargeFilter veto gates | Python · Upstox V3 · XGBoost · hmmlearn · stable-baselines3 · SQLite WAL · Flask | Phases 0–4 live, runs 24/7 |
+| 📱 **[ExpenseTracker v1.2.0](https://github.com/harsh-pandhe/ExpenseTracker)** | Production RN app — bank SMS parser (10+ Indian banks), glassmorphism UI, OTA via expo-updates, 4-layer dedup sync | React Native · TypeScript · Node.js · MongoDB Atlas · Render | Daily-use prod |
+| 🛰️ **[iroc-ascend-nav](https://github.com/harsh-pandhe/iroc-ascend-nav)** | IRoC drone nav sim — synthetic Livox MID-360 LiDAR via CPU raycast, parameterized arena generator | Python · NumPy · raycast | Phase 13 |
 | 🚚 **MapFleet Logistics** | Real-time fleet tracking | Next.js · Firebase · Google Maps API | Live |
 
+
+---
+
+<a name="oss"></a>
+## 🌍 Open Source Contributions
+
+Real-world PRs into projects I use and depend on:
+
+| Project | PR | What it did |
+|---|---|---|
+| **[validatorjs/validator.js](https://github.com/validatorjs/validator.js)** | [#2683 fix](https://github.com/validatorjs/validator.js/pull/2683) | Update `uz-UZ` mobile phone regex — add 5 missing carrier prefixes (33, 50, 55, 77, 88) |
+| **[Textualize/rich](https://github.com/Textualize/rich)** | [#4123](https://github.com/Textualize/rich/pull/4123) | Docs — remove dead `rich-tweets` link from README |
+| **[ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)** | Contribution | Low-code dev platform |
+
+> 💡 *Filed real bugs, shipped real diffs — not just stars.*
 
 ---
 
