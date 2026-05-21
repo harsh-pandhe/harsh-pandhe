@@ -13,6 +13,7 @@
 
 <div align="center">
   <a href="https://harshpandhe.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-harshpandhe.com-0891b2?style=for-the-badge" /></a>
+  <a href="https://cal.com/harshpandhe" target="_blank"><img src="https://img.shields.io/badge/📅_Book_a_chat-Cal.com-7c3aed?style=for-the-badge" /></a>
   <img src="https://img.shields.io/badge/Open_to-Collaborate-22c55e?style=for-the-badge&logo=handshake&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Interning_%40_Doppelmayr-f97316?style=for-the-badge&logo=briefcase&logoColor=white" />
 </div>
@@ -52,7 +53,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/harsh-pandhe?style=for-the-badge&logo=github&color=0891b2&labelColor=1f2937" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/harsh-pandhe?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0891b2&labelColor=1f2937" alt="Followers" />
   <img src="https://img.shields.io/github/stars/harsh-pandhe?style=for-the-badge&logo=github&color=f59e0b&labelColor=1f2937" alt="Stars" />
   <img src="https://komarev.com/ghpvc/?username=harsh-pandhe&style=for-the-badge&color=8b5cf6&labelColor=1f2937&label=Profile+Views" alt="Profile views" />
 </div>
@@ -103,7 +104,7 @@ Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Sta
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/👥_Mentored-70%2B_devs-22c55e?style=flat-square" />
-  <img src="https://img.shields.io/badge/📚_Repos-100%2B-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/📚_Repos-92%2B_public-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/🔄_Contributions-866_YTD-2ea44f?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/🌍_Merged_OSS_PRs-validator.js_%2B_rich-blue?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/🔬_Papers-1_(IRJMETS)-blue?style=flat-square" />
@@ -229,34 +230,6 @@ Rust, JavaScript/TypeScript, Python, Java, Solidity, C++, SQL, Bash
 
 ---
 
-## 🚁 Advanced Autonomous Ecosystem
-
-Architecting a high-tier autonomous stack for **ASCEND & ISRO Robotics Challenge (IRoC-U 2026 Shortlisted – Team ID 10144)**, moving beyond basic drone builds into **Advanced Aerial Robotics**. Mission: a fully autonomous **"Space Robot"** UAV ecosystem with custom docking & charging base station.
-
-### 🛠️ The Autonomous Hardware Stack
-Integrating a "Pro-Level" sensory suite on a custom quad (920KV motors, 9075 props):
-- 🧠 **The Brain**: **Raspberry Pi 5 (16GB)** – Companion computer handling heavy SLAM & AI processing
-- 🎮 **The Reflexes**: **Pixhawk 6c** – Flight stability & MAVLink execution
-- 👁️ **The Eyes (3D)**: **Livox Mid-360 LiDAR** – 360° spatial awareness & mapping via Fast-LIO
-- 🌡️ **The Eyes (AI/Thermal)**: AI Camera + Thermal Camera – Object detection & heat signatures (Coral TPU)
-- 📍 **Indoor GPS**: **Optical Flow (MicoAir/Holybro)** – Rock-solid altitude hold in GPS-denied environments
-
-### 🎯 Immediate Technical Goals
-- **GPS-Denied Navigation**: Seamless Pi 5 ↔ Pixhawk bridging via GPIO for complex indoor autonomy
-- **Altitude Hold**: EKF2 calibration to trust LiDAR/Optical Flow over barometer
-- **Dashboard**: Real-time visualization of 3D LiDAR point clouds & thermal feeds
-
-### 🧪 Simulation & Testing Stack
-- **PX4 SITL (Software-In-The-Loop)**: Validating MAVLink command logic & failsafe behavior pre-flight
-- **Gazebo + Rviz**: Visualizing live LiDAR point clouds for GPS-denied SLAM validation
-- **Isaac Sim**: Photorealistic environments for vision-model training & sim-to-real transfer
-
-### 🔮 Future Vision
-- **Digital Twin**: Real-time 3D thermal mapping for Search & Rescue
-- **Custom Docking Station**: Autonomous landing + wireless charging for persistent UAV missions
-
----
-
 <a name="flagship"></a>
 ## 🚀 Flagship Projects
 
@@ -277,19 +250,13 @@ Integrating a "Pro-Level" sensory suite on a custom quad (920KV motors, 9075 pro
 > 🇮🇳 **ISRO Robotics Challenge 2026 — Shortlisted (Team ID 10144)**
 > Building a fully autonomous UAV ecosystem with custom docking & wireless-charging base station.
 
-<!-- 🎬 Demo GIF placeholder — drop docs/drone-sim.gif (5-10s loop of drone-nav canvas) here, then uncomment block below. -->
-<!--
-<p align="center">
-  <img src="docs/drone-sim.gif" alt="Drone navigation simulation" width="640" />
-</p>
--->
-
-**Stack** · ROS 2 · Nav2 · PX4 SITL · Gazebo · Rviz · Pixhawk 6c · Livox Mid-360 LiDAR · Raspberry Pi 5 · Coral TPU
+**Stack** · ROS 2 · Nav2 · PX4 SITL · Gazebo · Rviz · Pixhawk 6c · Livox Mid-360 LiDAR · Raspberry Pi 5 (16 GB) · Coral TPU · MicoAir optical flow · custom quad (920 KV / 9075)
 **Engineering highlights**
-- **GPS-denied navigation** via Fast-LIO over Livox Mid-360 + EKF2 fusion w/ optical flow
+- **GPS-denied navigation** — Fast-LIO over Livox Mid-360 + EKF2 fusion w/ optical flow
+- **Companion-compute split** — Pi 5 handles SLAM/AI, Pixhawk owns flight control via MAVLink over GPIO
 - **Custom docking base station** — autonomous landing + wireless charging for persistent missions
-- **Sim-to-real pipeline** — algorithms hardened in Isaac Sim & PX4 SITL before flight
-- **Companion-compute split** — Pi 5 handles SLAM/AI, Pixhawk owns flight control via MAVLink
+- **Sim-to-real pipeline** — algorithms hardened in Isaac Sim & PX4 SITL before flight; synthetic MID-360 LiDAR via CPU raycast for early testing
+- **Thermal + RGB AI fusion** — Coral TPU object detection + heat-signature pipeline for search-and-rescue digital twin
 
 
 ---
@@ -318,26 +285,6 @@ Integrating a "Pro-Level" sensory suite on a custom quad (920KV motors, 9075 pro
 
 ---
 
-## 📚 More Projects
-
-| Project | What it is | Stack | Status |
-|---|---|---|---|
-| 🌱 **AgriTrace** | Circular-economy SaaS — AI waste classification + Razorpay traceability ledger | Next.js · Google GenAI · Razorpay · MongoDB | Active |
-| 🚉 **PodFlow Command Nexus** | Web-based digital-twin simulator for pod-transit networks | React · TypeScript · Three.js · WebSockets | Launched Mar 2026 |
-| 🚁 **ASCEND** | Industrial drone surveying + digital twins (LiDAR/photogrammetry/thermal inspection) | LiDAR · Photogrammetry · Thermal | In development |
-| 🤖 **Team Imposters — Chakravyuh Bot** | NN maze-solver + line-follower on Teensy 4.1; **RoboRashtra 2026 Runner-Up** (₹10k) | Teensy 4.1 · Neural Networks · Motor Encoders · C++ | Competition Winner |
-| 🌾 **Telhan Sathi** | AI oilseed-farming advisory — **SIH 2025 National Winner** (PS 25273) | Python · Django · IoT · PWA | National Winner — *targeting 500+ farmers Q2 2026* |
-| 🔗 **Codex (CollabCodex)** | Real-time collab editor — 50+ concurrent users, sub-50ms sync; published in IRJMETS | Next.js · Monaco · Liveblocks · Convex | [Live](https://collabcodex.vercel.app) |
-| 🏙️ **CityConnect** | Civic reporting + on-chain EcoCoin rewards — 1000+ req/s w/ Redis caching | Next.js · Django · Solidity · MongoDB | Live · Infotsav'25 |
-| 📊 **Kalpataru 2025** | Enterprise registration platform — 200+ participants, secure payments | Node.js · MongoDB · React · Docker | [Live](https://www.thekalpataru.com/) |
-| 📊 **[AlgoTrade](https://github.com/harsh-pandhe/AlgoTrade)** | Autonomous multi-agent NSE/Upstox trader — HMM regime, XGBoost, sentiment, PPO; OutcomeModel + ChargeFilter veto gates | Python · Upstox V3 · XGBoost · hmmlearn · stable-baselines3 · SQLite WAL · Flask | Phases 0–4 live, runs 24/7 |
-| 📱 **[ExpenseTracker v1.2.0](https://github.com/harsh-pandhe/ExpenseTracker)** | Production RN app — bank SMS parser (10+ Indian banks), glassmorphism UI, OTA via expo-updates, 4-layer dedup sync | React Native · TypeScript · Node.js · MongoDB Atlas · Render | Daily-use prod |
-| 🛰️ **[iroc-ascend-nav](https://github.com/harsh-pandhe/iroc-ascend-nav)** | IRoC drone nav sim — synthetic Livox MID-360 LiDAR via CPU raycast, parameterized arena generator | Python · NumPy · raycast | Phase 13 |
-| 🚚 **MapFleet Logistics** | Real-time fleet tracking | Next.js · Firebase · Google Maps API | Live |
-
-
----
-
 <a name="oss"></a>
 ## 🌍 Open Source Contributions
 
@@ -350,6 +297,31 @@ Real-world PRs into projects I use and depend on:
 | **[ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)** | Contribution | Low-code dev platform |
 
 > 💡 *Filed real bugs, shipped real diffs — not just stars.*
+
+---
+
+## 📚 More Projects
+
+| Project | What it is | Stack | Status |
+|---|---|---|---|
+| 🌱 **AgriTrace** | Circular-economy SaaS — AI waste classification + Razorpay traceability ledger | Next.js · Google GenAI · Razorpay · MongoDB | Active |
+| 🚉 **PodFlow Command Nexus** | Web-based digital-twin simulator for pod-transit networks | React · TypeScript · Three.js · WebSockets | Launched Mar 2026 |
+| 🚁 **ASCEND** | Industrial drone surveying + digital twins (LiDAR/photogrammetry/thermal inspection) | LiDAR · Photogrammetry · Thermal | In development |
+| 🤖 **Team Imposters — Chakravyuh Bot** | NN maze-solver + line-follower on Teensy 4.1; **RoboRashtra 2026 Runner-Up** (₹10k) | Teensy 4.1 · Neural Networks · Motor Encoders · C++ | Competition Winner |
+| 🌾 **Telhan Sathi** | AI oilseed-farming advisory — **SIH 2025 National Winner** (PS 25273) | Python · Django · IoT · PWA | National Winner |
+| 🔗 **Codex (CollabCodex)** | Real-time collab editor — 50+ concurrent users, sub-50ms sync; published in IRJMETS | Next.js · Monaco · Liveblocks · Convex | [Live](https://collabcodex.vercel.app) |
+| 🏙️ **CityConnect** | Civic reporting + on-chain EcoCoin rewards — 1000+ req/s w/ Redis caching | Next.js · Django · Solidity · MongoDB | Live · Infotsav'25 |
+| 📊 **Kalpataru 2025** | Enterprise registration platform — 200+ participants, secure payments | Node.js · MongoDB · React · Docker | [Live](https://www.thekalpataru.com/) |
+| 📊 **[AlgoTrade](https://github.com/harsh-pandhe/AlgoTrade)** | Autonomous multi-agent NSE/Upstox trader — HMM regime, XGBoost, sentiment, PPO; OutcomeModel + ChargeFilter veto gates | Python · Upstox V3 · XGBoost · hmmlearn · stable-baselines3 · SQLite WAL · Flask | Phases 0–4 live, runs 24/7 |
+| 📱 **[ExpenseTracker v1.2.0](https://github.com/harsh-pandhe/ExpenseTracker)** | Production RN app — bank SMS parser (10+ Indian banks), glassmorphism UI, OTA via expo-updates, 4-layer dedup sync | React Native · TypeScript · Node.js · MongoDB Atlas · Render | Daily-use prod |
+| 🛰️ **[iroc-ascend-nav](https://github.com/harsh-pandhe/iroc-ascend-nav)** | IRoC drone nav sim — synthetic Livox MID-360 LiDAR via CPU raycast, parameterized arena generator | Python · NumPy · raycast | Phase 13 |
+| 🚚 **MapFleet Logistics** | Real-time fleet tracking | Next.js · Firebase · Google Maps API | Live |
+| 🧠 **[Harsh OS (LinkedIn ext.)](https://github.com/harsh-pandhe/Linkedin)** | 4-agent local-AI cognitive layer — Tampermonkey ↔ Ollama (qwen3:14b), drafts 4 reply styles from a local vector DB of my writing, synthetic human-like typing | Vanilla JS · Tampermonkey · Ollama · local vector DB | v1 |
+| 🎵 **[Music](https://github.com/harsh-pandhe/Music)** | Self-hosted YouTube music app using `yt-dlp` — personal streaming layer, no ads, no Premium | JavaScript · yt-dlp | Self-hosted |
+| ❄️ **[SmartCooler-IoT](https://github.com/harsh-pandhe/SmartCooler-IoT)** | ESP32 cooler controller — relay + DHT22 + DS18B20, auto mode by humidity, ESP32 NVS persistence, Firebase/Vercel [dashboard](https://smart-cooler-io-t.vercel.app/) | ESP32 · C++ · Arduino · Firebase | Deployed |
+| 🚁 **[ASCEND Drone Workshop](https://github.com/harsh-pandhe/Drone)** | Scrollytelling drone-workshop site — 40-frame scroll sequence, isometric LiDAR swarm sim on Canvas, glassmorphic SVG anatomy. [Live](https://drone-workshop-iic.vercel.app/) | Next.js 14 · TypeScript · Tailwind · Framer Motion · Canvas API · Simplex noise | Live |
+| 😴 **[Drowsiness-Detection-System](https://github.com/harsh-pandhe/Drowsiness-Detection-System)** | Real-time eye-state drowsiness detector for driver-safety pipelines | Python · OpenCV · ML | Built |
+
 
 ---
 
@@ -408,32 +380,48 @@ Real-world PRs into projects I use and depend on:
 - **Mentorship**: Trained 70+ junior developers
 
 ### 📜 **Professional Certifications**
+- ✅ **Embedded Systems & Microcontroller Programming** — hands-on at RoboRashtra 2026 (NN inference on Teensy 4.1)
 - ✅ **Certified Ethical Hacker Bootcamp** (ZTM Academy) – Penetration Testing, Kali Linux, OWASP
-- ✅ **Web Developer Bootcamp 2025** (Udemy) – Modern Web Stack
-- ✅ **Computer Networks Fundamentals** (Udemy) – OSI Model, TCP/IP
-- ✅ **Data Science 101** (IBM) – Data Analysis, Visualization, Statistics
-- ✅ **Responsive Web Design** (freeCodeCamp) – CSS, Flexbox, Mobile-first Design
-- ✅ **Git & GitHub Mastery** (Udemy) – Version Control, Collaborative Workflows
-- ✅ **Advanced DSA** (Codedamn) – Algorithm Optimization
-- ✅ **Embedded Systems & Microcontroller Programming** (Hands-on at RoboRashtra 2026)
+- ✅ **Advanced DSA** (Codedamn) – Algorithm optimization
+- ✅ **Computer Networks Fundamentals** (Udemy) – OSI, TCP/IP
+- ✅ **Web Developer Bootcamp 2025** (Udemy) – Modern web stack
+- ✅ **Data Science 101** (IBM) – Data analysis & visualization
 
 ---
 
 ## 🎤 Public Speaking & Content
 
-- 📝 **LinkedIn Creator** – Technical insights & mentoring junior developers
-- 🎓 **Workshop Leader** – CODE2LAUNCH (React, Node.js, JavaScript) – 70+ attendees
+- ✍️ **Dev.to blog** – [dev.to/harshpandhe](https://dev.to/harshpandhe) · 18 posts on robotics, GitHub workflows, system design, Blender for autonomous systems
 - 🏅 **Published Researcher** – "Collaborative Real-Time Code," IRJMETS, Jan 2024
+- 🎓 **Workshop Leader** – CODE2LAUNCH (React, Node.js, JS) – 70+ attendees
 - 🎙️ **Speaker** – Infotsav'25 (CityConnect presentation)
+
+### 📌 Featured LinkedIn posts
+
+- 🛰️ [IRoC-U 2026 announcement](https://www.linkedin.com/feed/update/urn:li:activity:7452033343967342592/) — "Ganpati Bappa Morya 🚀"
+- 📰 [Maval Maza press feature](https://www.linkedin.com/feed/update/urn:li:activity:7453145319988584448/) — Doppelmayr Austria selection
+- 🧠 [Harsh OS — 4-agent local-AI LinkedIn extension](https://www.linkedin.com/posts/harshpandhe_ai-localfirst-networking-activity-7461492370967232512-84JQ/) — "Digital Twin" Tampermonkey + Ollama
+- 🎬 [Project Morpheus 2026 retro](https://www.linkedin.com/posts/harshpandhe_projectmorpheus-hackathon-sitlonavala-activity-7434169134906626048-IcD-/) — national 24-hr hackathon
+- 🤖 [RoboRashtra 2026 — Edge AI deep-dive](https://www.linkedin.com/posts/harshpandhe_edgeai-embeddedsystems-robotics-activity-7424771949643452416-ncmo/) · [Engineering retro](https://www.linkedin.com/posts/harshpandhe_engineering-robotics-neuralnetworks-activity-7424551299712475137-NdTw/)
+- 🏆 [SIH 2025 National Winner](https://www.linkedin.com/posts/harshpandhe_sih2025-smartindiahackathon-themastermind-activity-7404855242137276416-JKIQ/) — Telhan Sathi
+- 🌱 [Kalpataru 2026 launch](https://www.linkedin.com/posts/harshpandhe_kalpataru2026-projectmorpheus-innovation-activity-7409636709627252736-I9DK/)
+- 🎯 [PCU Ideathon — Top 40 / Money Heist theme](https://www.linkedin.com/posts/harshpandhe_pcuideathon2025-hackathon-moneyheist-activity-7409646169880137728-OtwB/)
+- 🚁 [ASCEND drone scrollytelling site build](https://drone-workshop-iic.vercel.app/) — Next.js 14 + Canvas API LiDAR sim
+- ❄️ [Smart Water Cooler IoT](https://www.linkedin.com/posts/harshpandhe_esp32-embeddedsystems-iot-activity-7430595715212599296-uGfE/) — ESP32 + Firebase live dashboard
+- 📝 [GATE 2026 trial-run reality check](https://www.linkedin.com/posts/harshpandhe_gate2026-computerscience-engineering-activity-7426278165796528128-ZsoY/)
+- 🎪 [Infotsav '25 — Hackatron @ IIITM Gwalior](https://www.linkedin.com/posts/harshpandhe_infotsav25-hackatron-iiitmgwalior-activity-7384599984135880704-4C4A/)
+- 🎓 [CODE2LAUNCH workshop](https://www.linkedin.com/posts/harshpandhe_sitacm-code2launch-developercommunity-activity-7384317224519368704-5UjH/)
+- 🛡️ [IIC Technical Head joining](https://www.linkedin.com/posts/harshpandhe_newrole-techleadership-cybersecurity-activity-7384251231478829057-qsqP/)
 
 ---
 
 ## 📖 Currently Reading / Learning
 
-- 📕 *Designing Data-Intensive Applications* — Martin Kleppmann (distributed-systems patterns for IRoC + Doppelmayr)
-- 📗 *Probabilistic Robotics* — Thrun, Burgard & Fox (sensor fusion, Bayesian SLAM)
-- 📘 *Building LLM-Powered Applications* — RAG architectures + Genkit deep-dives
-- 🎓 NPTEL — *Quantum Computing & Algorithms* (post-quantum crypto research thread)
+- 📕 *Probabilistic Robotics* — Thrun, Burgard & Fox (Bayesian SLAM + sensor fusion for IRoC drone)
+- 📗 **Eurocode EN 1991-1-4** (wind) **+ EN 1993-1-1** (steel) — actively wired into Autonomous-Ropeway-Alignment
+- 📘 **Upstox V3 API + MarketDataStreamerV3** — AlgoTrade phase-5 WebSocket migration
+- 🦙 **Ollama + Llama 3.2 / Phi-4** — AlgoTrade phase-7 local LLM cutover from cloud Gemini
+- 🎓 **Blender for robotics** — building synthetic training arenas (see [dev.to blog](https://dev.to/harshpandhe/why-im-learning-blender-to-build-better-autonomous-systems-5g3d))
 
 ---
 
@@ -452,6 +440,7 @@ Real-world PRs into projects I use and depend on:
   <a href="https://www.linkedin.com/in/harshpandhe/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Harsh%20Pandhe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/HarshPandhe" target="_blank"><img src="https://img.shields.io/badge/X_(Twitter)-@HarshPandhe-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://github.com/harsh-pandhe" target="_blank"><img src="https://img.shields.io/badge/GitHub-harsh--pandhe-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://dev.to/harshpandhe" target="_blank"><img src="https://img.shields.io/badge/Dev.to-harshpandhe-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
   <a href="https://instagram.com/harsh_pandhe" target="_blank"><img src="https://img.shields.io/badge/Instagram-harsh__pandhe-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
@@ -490,15 +479,14 @@ Real-world PRs into projects I use and depend on:
 
 ## 🚀 What's Next?
 
-- [ ] Scaling Telhan Sathi to production (targeting 500+ farmers by Q2 2026)
-- [ ] Publishing RoboRashtra technical deep-dive on neural network inference in embedded systems
-- [ ] Open-sourcing the Maze Solver Neural Network training pipeline & firmware
-- [ ] Open-sourcing Codex collaborative editor
-- [ ] Quantum cryptography research paper
-- [ ] Building decentralized talent marketplace on blockchain
-- [ ] Advancing robotics research in sensor fusion & autonomous navigation
-- [ ] Cracking GATE 2027 with a top-500 rank 🎯
-- [ ] Speaking at hackathons & tech conferences
+- [x] ✅ Publish RoboRashtra technical deep-dive — [LinkedIn post](https://www.linkedin.com/posts/harshpandhe_edgeai-embeddedsystems-robotics-activity-7424771949643452416-ncmo/)
+- [x] ✅ Build local-first multi-agent AI extension — [Harsh OS](https://github.com/harsh-pandhe/Linkedin)
+- [ ] **IRoC-U 2026 Elimination Round** — clear it
+- [ ] Ship **Autonomous-Ropeway-Alignment** v2.0 (Phase 16 outreach + Phase 17 industry validation)
+- [ ] **AlgoTrade phase 5–7** — Upstox V3 WebSocket + Ollama local LLM cutover
+- [ ] Open-source the **Maze Solver NN** training pipeline & firmware
+- [ ] **GATE 2027** — top-500 rank 🎯
+- [ ] Speak at robotics / Edge AI conferences
 
 *Follow my journey on [LinkedIn](https://linkedin.com/in/harshpandhe) & [GitHub](https://github.com/harsh-pandhe)*
 
