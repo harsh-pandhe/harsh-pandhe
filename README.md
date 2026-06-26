@@ -44,13 +44,14 @@
 <a name="currently"></a>
 ## 🟢 Currently
 
-- 💼 Shipping **DoppelDash** @ Doppelmayr + **[Autonomous-Ropeway-Alignment](https://github.com/harsh-pandhe/Autonomous-Ropeway-Alignment)** (Eurocode-validated optimizer)
+- 💼 Shipping **DoppelDash** @ Doppelmayr + **[Autonomous-Ropeway-Alignment](https://github.com/harsh-pandhe/Autonomous-Ropeway-Alignment)** — Phase 1 3D terrain live, RopeIQ rebrand, 2-year roadmap charted
 - 🛰️ **IRoC-U 2026 Finals** prep — synthetic MID-360 LiDAR via CPU raycast + parameterized arena gen
-- 📊 **AlgoTrade** phase 5 — Upstox V3 WebSocket + local LLM (Ollama)
-- 🤖 Shipping **Ather Co-Pilot v2** — RAG over PDFs/URLs with Gemini 2.5 + Genkit
+- ⏱️ Building **[ChronoTrack](https://github.com/harsh-pandhe/ChronoTrack)** — enterprise transparent telemetry system (Electron + Python AI daemon, GDPR-compliant) for 1,600+ seat deployments
+- 🏙️ **[city-companion](https://github.com/harsh-pandhe/city-companion)** Phase 4 + **[nextgen-highspeed-toll](https://github.com/harsh-pandhe/nextgen-highspeed-toll)** digital twin MVP shipped
+- 📊 **AlgoTrade** phases 5–7 — Upstox V3 WebSocket + local LLM (Ollama) cutover
 - 📖 GATE 2027 prep (Top 500 target)
 
-<sub>↻ Updated monthly</sub>
+<sub>↻ Updated 2026-06-26</sub>
 
 ---
 
@@ -109,8 +110,8 @@ Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Sta
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/👥_Mentored-70%2B_devs-22c55e?style=flat-square" />
-  <img src="https://img.shields.io/badge/📚_Repos-92%2B_public-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/🔄_Contributions-866_YTD-2ea44f?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/📚_Repos-100%2B_public-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/🔄_Contributions-1200%2B_YTD-2ea44f?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/🌍_Merged_OSS_PRs-validator.js_%2B_rich-blue?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/🔬_Papers-1_(IRJMETS)-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/💼_Teams_Led-6_/_4_/_200%2B-7c3aed?style=flat-square" />
@@ -326,6 +327,13 @@ Real-world PRs into projects I use and depend on:
 | ❄️ **[SmartCooler-IoT](https://github.com/harsh-pandhe/SmartCooler-IoT)** | ESP32 cooler controller — relay + DHT22 + DS18B20, auto mode by humidity, ESP32 NVS persistence, Firebase/Vercel [dashboard](https://smart-cooler-io-t.vercel.app/) | ESP32 · C++ · Arduino · Firebase | Deployed |
 | 🚁 **[ASCEND Drone Workshop](https://github.com/harsh-pandhe/Drone)** | Scrollytelling drone-workshop site — 40-frame scroll sequence, isometric LiDAR swarm sim on Canvas, glassmorphic SVG anatomy. [Live](https://drone-workshop-iic.vercel.app/) | Next.js 14 · TypeScript · Tailwind · Framer Motion · Canvas API · Simplex noise | Live |
 | 😴 **[Drowsiness-Detection-System](https://github.com/harsh-pandhe/Drowsiness-Detection-System)** | Real-time eye-state drowsiness detector for driver-safety pipelines | Python · OpenCV · ML | Built |
+| 🎮 **[3d-chess](https://github.com/harsh-pandhe/3d-chess)** | Stunning 3D multiplayer chess — Stockfish AI, Supabase real-time, glassmorphic aesthetics | Next.js · React Three Fiber · Supabase · TypeScript | Live |
+| 🛣️ **[linear-scheduler-app](https://github.com/harsh-pandhe/linear-scheduler-app)** | Civil infra LoB/LSM scheduler — Phase 15: resource leveling engine, print composer, DXF/raster backgrounds | Next.js · PostgreSQL · Prisma · Zustand | Phase 15 Active |
+| 🏙️ **[city-companion](https://github.com/harsh-pandhe/city-companion)** | Community urban mobility telemetry — Expo mobile + Express backend + Next.js planner dashboard | TypeScript · Expo · Express · Prisma | Phase 4 |
+| 🛣️ **[nextgen-highspeed-toll](https://github.com/harsh-pandhe/nextgen-highspeed-toll)** | Zero-hardware, 100% software-simulated highway toll digital twin | React · MongoDB · RabbitMQ · Gazebo · ROS 2 | MVP |
+| ⏱️ **[ChronoTrack](https://github.com/harsh-pandhe/ChronoTrack)** | Enterprise transparent telemetry & workforce optimizer — Electron desktop agent + Python AI daemon + web dashboard, GDPR-compliant | Electron · Python · React · PostgreSQL | Active |
+| 🌐 **[airgapped-netops-ai](https://github.com/harsh-pandhe/airgapped-netops-ai)** | Air-gapped NetOps dashboard — local ML (Random Forest) + RAG copilot (Ollama + ChromaDB), zero internet required | FastAPI · React · Ollama · ChromaDB | MVP |
+| 🛠️ **[GripGroup](https://github.com/harsh-pandhe/GripGroup)** | AI-driven geospatial infra design platform — SRTM/PostGIS, multi-objective optimizer, LandXML export | React · Python · Docker · PostGIS | Phases 1-7 |
 
 
 ---
@@ -381,7 +389,7 @@ Real-world PRs into projects I use and depend on:
 - **Published Researcher**: Research paper on Collaborative Code Editor (IRJMETS, Jan 2024)
 - **National Finalist**: SIH 2025 National Finals
 - **Top 40**: PCU Ideathon 2.0 (500+ teams)
-- **Open Source**: 76 GitHub repositories with 817 contributions in the last year
+- **Open Source**: 100+ GitHub repositories with 1,200+ contributions YTD (315+ PRs merged May–June 2026 alone)
 - **Mentorship**: Trained 70+ junior developers
 
 ### 📜 **Professional Certifications**
@@ -486,8 +494,14 @@ Real-world PRs into projects I use and depend on:
 
 - [x] ✅ Publish RoboRashtra technical deep-dive — [LinkedIn post](https://www.linkedin.com/posts/harshpandhe_edgeai-embeddedsystems-robotics-activity-7424771949643452416-ncmo/)
 - [x] ✅ Build local-first multi-agent AI extension — [Harsh OS](https://github.com/harsh-pandhe/Linkedin)
+- [x] ✅ Launch **3D multiplayer chess** — Stockfish AI + Supabase real-time
+- [x] ✅ Ship **NextGen High-Speed Toll** digital twin MVP (ROS 2 + Gazebo)
+- [x] ✅ Build **Air-Gapped NetOps AI** — local ML + RAG, zero internet
+- [x] ✅ Ship **Autonomous-Ropeway-Alignment** Phase 1 (3D terrain + RopeIQ rebrand + AACE capex)
 - [ ] **IRoC-U 2026 Elimination Round** — clear it
-- [ ] Ship **Autonomous-Ropeway-Alignment** v2.0 (Phase 16 outreach + Phase 17 industry validation)
+- [ ] **Autonomous-Ropeway-Alignment** Phase 16+ — industry outreach & enterprise validation
+- [ ] Deploy **ChronoTrack** to enterprise beta (1,600+ seat pilot)
+- [ ] Ship **city-companion** v1.0 production release
 - [ ] **AlgoTrade phase 5–7** — Upstox V3 WebSocket + Ollama local LLM cutover
 - [ ] Open-source the **Maze Solver NN** training pipeline & firmware
 - [ ] **GATE 2027** — top-500 rank 🎯
