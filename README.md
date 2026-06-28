@@ -44,11 +44,11 @@
 <a name="currently"></a>
 ## 🟢 Currently
 
-- 💼 Shipping **DoppelDash** @ Doppelmayr + **[Autonomous-Ropeway-Alignment](https://github.com/harsh-pandhe/Autonomous-Ropeway-Alignment)** — Phase 1 3D terrain live, RopeIQ rebrand, 2-year roadmap charted
+- 💼 Shipping **DoppelDash** @ Doppelmayr + **[Autonomous-Ropeway-Alignment (RopeIQ)](https://github.com/harsh-pandhe/Autonomous-Ropeway-Alignment)** — enterprise QA done, ISO 9001 compliance + provenance ledger + WCAG AA + GBP pricing live
 - 🛰️ **IRoC-U 2026 Finals** prep — synthetic MID-360 LiDAR via CPU raycast + parameterized arena gen
-- ⏱️ Building **[ChronoTrack](https://github.com/harsh-pandhe/ChronoTrack)** — enterprise transparent telemetry system (Electron + Python AI daemon, GDPR-compliant) for 1,600+ seat deployments
-- 🏙️ **[city-companion](https://github.com/harsh-pandhe/city-companion)** Phase 4 + **[nextgen-highspeed-toll](https://github.com/harsh-pandhe/nextgen-highspeed-toll)** digital twin MVP shipped
-- 📊 **AlgoTrade** phases 5–7 — Upstox V3 WebSocket + local LLM (Ollama) cutover
+- ⏱️ **[ChronoTrack](https://github.com/harsh-pandhe/ChronoTrack)** v3.0.0 shipped — real Neon+JWT backend, Python AI daemon, real analytics, Windows installer, Vercel deployed, GDPR/DPDP compliant
+- 🌾 **[KrishiPancham-AI](https://github.com/harsh-pandhe/KrishiPancham-AI)** — Panchang + AI weather + govt scheme chatbot, Expo mobile + FastAPI backend live on Render, Phases 0–5 done
+- 📊 **[AlgoTrade](https://github.com/harsh-pandhe/AlgoTrade)** Phase D1 — momentum rebalancer + paper/dry-run CLI, Ollama local LLM live, runs 24/7
 - 📖 GATE 2027 prep (Top 500 target)
 
 <sub>↻ Updated 2026-06-28</sub>
@@ -318,7 +318,7 @@ Real-world PRs into projects I use and depend on:
 | 🔗 **Codex (CollabCodex)** | Real-time collab editor — 50+ concurrent users, sub-50ms sync; published in IRJMETS | Next.js · Monaco · Liveblocks · Convex | [Live](https://collabcodex.vercel.app) |
 | 🏙️ **CityConnect** | Civic reporting + on-chain EcoCoin rewards — 1000+ req/s w/ Redis caching | Next.js · Django · Solidity · MongoDB | Live · Infotsav'25 |
 | 📊 **Kalpataru 2025** | Enterprise registration platform — 200+ participants, secure payments | Node.js · MongoDB · React · Docker | [Live](https://www.thekalpataru.com/) |
-| 📊 **[AlgoTrade](https://github.com/harsh-pandhe/AlgoTrade)** | Autonomous multi-agent NSE/Upstox trader — HMM regime, XGBoost, sentiment, PPO; OutcomeModel + ChargeFilter veto gates | Python · Upstox V3 · XGBoost · hmmlearn · stable-baselines3 · SQLite WAL · Flask | Phases 0–4 live, runs 24/7 |
+| 📊 **[AlgoTrade](https://github.com/harsh-pandhe/AlgoTrade)** | Autonomous multi-agent NSE/Upstox trader — HMM regime, XGBoost, cross-sectional momentum, Ollama local LLM, Telegram bot, SEBI 2026 compliance; Phase D1 momentum rebalancer + paper/dry-run CLI | Python · Upstox V3 · XGBoost · hmmlearn · stable-baselines3 · Ollama · SQLite WAL · Flask | Phase D1 live, runs 24/7 |
 | 📱 **[ExpenseTracker v1.2.0](https://github.com/harsh-pandhe/ExpenseTracker)** | Production RN app — bank SMS parser (10+ Indian banks), glassmorphism UI, OTA via expo-updates, 4-layer dedup sync | React Native · TypeScript · Node.js · MongoDB Atlas · Render | Daily-use prod |
 | 🛰️ **[iroc-ascend-nav](https://github.com/harsh-pandhe/iroc-ascend-nav)** | IRoC drone nav sim — synthetic Livox MID-360 LiDAR via CPU raycast, parameterized arena generator | Python · NumPy · raycast | Phase 13 |
 | 🚚 **MapFleet Logistics** | Real-time fleet tracking | Next.js · Firebase · Google Maps API | Live |
@@ -331,8 +331,9 @@ Real-world PRs into projects I use and depend on:
 | 🛣️ **[linear-scheduler-app](https://github.com/harsh-pandhe/linear-scheduler-app)** | Civil infra LoB/LSM scheduler — Phase 15: resource leveling engine, print composer, DXF/raster backgrounds | Next.js · PostgreSQL · Prisma · Zustand | Phase 15 Active |
 | 🏙️ **[city-companion](https://github.com/harsh-pandhe/city-companion)** | Community urban mobility telemetry — Expo mobile + Express backend + Next.js planner dashboard | TypeScript · Expo · Express · Prisma | Phase 4 |
 | 🛣️ **[nextgen-highspeed-toll](https://github.com/harsh-pandhe/nextgen-highspeed-toll)** | Zero-hardware, 100% software-simulated highway toll digital twin | React · MongoDB · RabbitMQ · Gazebo · ROS 2 | MVP |
-| ⏱️ **[ChronoTrack](https://github.com/harsh-pandhe/ChronoTrack)** | Enterprise transparent telemetry & workforce optimizer — Electron desktop agent + Python AI daemon + web dashboard, GDPR-compliant | Electron · Python · React · PostgreSQL | Active |
-| 🌐 **[airgapped-netops-ai](https://github.com/harsh-pandhe/airgapped-netops-ai)** | Air-gapped NetOps dashboard — local ML (Random Forest) + RAG copilot (Ollama + ChromaDB), zero internet required | FastAPI · React · Ollama · ChromaDB | MVP |
+| ⏱️ **[ChronoTrack](https://github.com/harsh-pandhe/ChronoTrack)** | Enterprise transparent telemetry & workforce optimizer — Electron desktop agent + Python AI daemon + web dashboard, GDPR/DPDP-compliant; v3.0.0 shipped with real analytics, Windows installer, Vercel deployed | Electron · Python · React · Neon/PostgreSQL · JWT | v3.0.0 Live |
+| 🌐 **[airgapped-netops-ai](https://github.com/harsh-pandhe/airgapped-netops-ai)** | Air-gapped NetOps dashboard — local ML (Random Forest) + RAG copilot (Ollama + ChromaDB), zero internet required; Tracks 1–3 done: citation-aware RAG, Isolation Forest anomaly detection, SHAP explainability + retraining feedback loop | FastAPI · React · Ollama · ChromaDB | Tracks 1–3 Complete |
+| 🌾 **[KrishiPancham-AI](https://github.com/harsh-pandhe/KrishiPancham-AI)** | Hyper-localized agricultural AI companion — traditional Panchang wisdom (tithi/nakshatra/muhurta) + AI weather forecasts + NDVI crop health + 32 govt scheme chatbot; multilingual (en/hi/mr), voice I/O, offline-first | FastAPI · Expo (React Native) · Next.js · ephem · Open-Meteo | Phases 0–5 Live |
 | 🛠️ **[GripGroup](https://github.com/harsh-pandhe/GripGroup)** | AI-driven geospatial infra design platform — SRTM/PostGIS, multi-objective optimizer, LandXML export | React · Python · Docker · PostGIS | Phases 1-7 |
 
 
@@ -500,9 +501,11 @@ Real-world PRs into projects I use and depend on:
 - [x] ✅ Ship **Autonomous-Ropeway-Alignment** Phase 1 (3D terrain + RopeIQ rebrand + AACE capex)
 - [ ] **IRoC-U 2026 Elimination Round** — clear it
 - [ ] **Autonomous-Ropeway-Alignment** Phase 16+ — industry outreach & enterprise validation
-- [ ] Deploy **ChronoTrack** to enterprise beta (1,600+ seat pilot)
+- [x] ✅ **ChronoTrack v3.0.0** — real backend + AI daemon + analytics + Windows installer shipped
+- [x] ✅ **AlgoTrade** — Ollama local LLM + Telegram bot + SEBI 2026 compliance live (Phase D1)
+- [ ] Deploy **ChronoTrack** to enterprise pilot (1,600+ seat target)
 - [ ] Ship **city-companion** v1.0 production release
-- [ ] **AlgoTrade phase 5–7** — Upstox V3 WebSocket + Ollama local LLM cutover
+- [ ] **KrishiPancham-AI** Phase 6+ — satellite NDVI integration + expanded scheme coverage
 - [ ] Open-source the **Maze Solver NN** training pipeline & firmware
 - [ ] **GATE 2027** — top-500 rank 🎯
 - [ ] Speak at robotics / Edge AI conferences
