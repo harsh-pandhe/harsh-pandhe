@@ -51,7 +51,7 @@
 - 📊 **AlgoTrade** phases 5–7 — Upstox V3 WebSocket + local LLM (Ollama) cutover
 - 📖 GATE 2027 prep (Top 500 target)
 
-<sub>↻ Updated 2026-06-26</sub>
+<sub>↻ Updated 2026-06-28</sub>
 
 ---
 
