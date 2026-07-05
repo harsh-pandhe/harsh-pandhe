@@ -44,14 +44,14 @@
 <a name="currently"></a>
 ## 🟢 Currently
 
-- 💼 Shipping **DoppelDash** @ Doppelmayr + **[Autonomous-Ropeway-Alignment (RopeIQ)](https://github.com/harsh-pandhe/Autonomous-Ropeway-Alignment)** — enterprise QA done, ISO 9001 compliance + provenance ledger + WCAG AA + GBP pricing live
+- 💼 Shipping **DoppelDash** @ Doppelmayr + **[Autonomous-Ropeway-Alignment (RopeIQ)](https://github.com/harsh-pandhe/Autonomous-Ropeway-Alignment)** — Phase 7.1c golden tests + Razorpay billing demo live, 2-year roadmap
+- 🤖 Built **[MARS](https://github.com/harsh-pandhe/MARS)** — Multi-Agent Robot Swarm: MAPPO/CTDE + GNN policy + TurtleBot3 in ROS 2 Jazzy + Gazebo, fault-tolerant resilience testing
 - 🛰️ **IRoC-U 2026 Finals** prep — synthetic MID-360 LiDAR via CPU raycast + parameterized arena gen
-- ⏱️ **[ChronoTrack](https://github.com/harsh-pandhe/ChronoTrack)** v3.0.0 shipped — real Neon+JWT backend, Python AI daemon, real analytics, Windows installer, Vercel deployed, GDPR/DPDP compliant
-- 🌾 **[KrishiPancham-AI](https://github.com/harsh-pandhe/KrishiPancham-AI)** — Panchang + AI weather + govt scheme chatbot, Expo mobile + FastAPI backend live on Render, Phases 0–5 done
+- ⏱️ **[ChronoTrack](https://github.com/harsh-pandhe/ChronoTrack)** v3.0.0 (now public) — real Neon+JWT backend, Python AI daemon, real analytics, Windows installer, GDPR/DPDP compliant
+- 🌾 **[KrishiPancham-AI](https://github.com/harsh-pandhe/KrishiPancham-AI)** — Panchang + AI weather + govt scheme chatbot, Expo mobile + FastAPI on Render, Phases 0–5 done
 - 📊 **[AlgoTrade](https://github.com/harsh-pandhe/AlgoTrade)** Phase D1 — momentum rebalancer + paper/dry-run CLI, Ollama local LLM live, runs 24/7
-- 📖 GATE 2027 prep (Top 500 target)
 
-<sub>↻ Updated 2026-06-28</sub>
+<sub>↻ Updated 2026-07-05</sub>
 
 ---
 
@@ -329,12 +329,13 @@ Real-world PRs into projects I use and depend on:
 | 😴 **[Drowsiness-Detection-System](https://github.com/harsh-pandhe/Drowsiness-Detection-System)** | Real-time eye-state drowsiness detector for driver-safety pipelines | Python · OpenCV · ML | Built |
 | 🎮 **[3d-chess](https://github.com/harsh-pandhe/3d-chess)** | Stunning 3D multiplayer chess — Stockfish AI, Supabase real-time, glassmorphic aesthetics | Next.js · React Three Fiber · Supabase · TypeScript | Live |
 | 🛣️ **[linear-scheduler-app](https://github.com/harsh-pandhe/linear-scheduler-app)** | Civil infra LoB/LSM scheduler — Phase 15: resource leveling engine, print composer, DXF/raster backgrounds | Next.js · PostgreSQL · Prisma · Zustand | Phase 15 Active |
-| 🏙️ **[city-companion](https://github.com/harsh-pandhe/city-companion)** | Community urban mobility telemetry — Expo mobile + Express backend + Next.js planner dashboard | TypeScript · Expo · Express · Prisma | Phase 4 |
+| 🏙️ **[city-companion](https://github.com/harsh-pandhe/city-companion)** | Privacy-first silent mobility telemetry + AI survey generation for civil-engineering traffic analytics — Expo mobile + Express backend + Next.js planner | TypeScript · Expo · Express · Prisma | Phase 4 (pivoted) |
 | 🛣️ **[nextgen-highspeed-toll](https://github.com/harsh-pandhe/nextgen-highspeed-toll)** | Zero-hardware, 100% software-simulated highway toll digital twin | React · MongoDB · RabbitMQ · Gazebo · ROS 2 | MVP |
 | ⏱️ **[ChronoTrack](https://github.com/harsh-pandhe/ChronoTrack)** | Enterprise transparent telemetry & workforce optimizer — Electron desktop agent + Python AI daemon + web dashboard, GDPR/DPDP-compliant; v3.0.0 shipped with real analytics, Windows installer, Vercel deployed | Electron · Python · React · Neon/PostgreSQL · JWT | v3.0.0 Live |
 | 🌐 **[airgapped-netops-ai](https://github.com/harsh-pandhe/airgapped-netops-ai)** | Air-gapped NetOps dashboard — local ML (Random Forest) + RAG copilot (Ollama + ChromaDB), zero internet required; Tracks 1–3 done: citation-aware RAG, Isolation Forest anomaly detection, SHAP explainability + retraining feedback loop | FastAPI · React · Ollama · ChromaDB | Tracks 1–3 Complete |
 | 🌾 **[KrishiPancham-AI](https://github.com/harsh-pandhe/KrishiPancham-AI)** | Hyper-localized agricultural AI companion — traditional Panchang wisdom (tithi/nakshatra/muhurta) + AI weather forecasts + NDVI crop health + 32 govt scheme chatbot; multilingual (en/hi/mr), voice I/O, offline-first | FastAPI · Expo (React Native) · Next.js · ephem · Open-Meteo | Phases 0–5 Live |
 | 🛠️ **[GripGroup](https://github.com/harsh-pandhe/GripGroup)** | AI-driven geospatial infra design platform — SRTM/PostGIS, multi-objective optimizer, LandXML export | React · Python · Docker · PostGIS | Phases 1-7 |
+| 🤖 **[MARS](https://github.com/harsh-pandhe/MARS)** | Multi-Agent Robot Swarm — cooperative TurtleBot3 area coverage with MAPPO/CTDE centralized critic, Permutation-Invariant GNN policy, fault-tolerant resilience testing in ROS 2 Jazzy + Gazebo | Python · ROS 2 · Ray RLlib · PyTorch · PettingZoo | Phase 1 + MARL |
 
 
 ---
@@ -499,6 +500,7 @@ Real-world PRs into projects I use and depend on:
 - [x] ✅ Ship **NextGen High-Speed Toll** digital twin MVP (ROS 2 + Gazebo)
 - [x] ✅ Build **Air-Gapped NetOps AI** — local ML + RAG, zero internet
 - [x] ✅ Ship **Autonomous-Ropeway-Alignment** Phase 1 (3D terrain + RopeIQ rebrand + AACE capex)
+- [x] ✅ Built **MARS** — Multi-Agent Robot Swarm (MAPPO/CTDE + GNN policy + ROS 2 + Gazebo)
 - [ ] **IRoC-U 2026 Elimination Round** — clear it
 - [ ] **Autonomous-Ropeway-Alignment** Phase 16+ — industry outreach & enterprise validation
 - [x] ✅ **ChronoTrack v3.0.0** — real backend + AI daemon + analytics + Windows installer shipped
