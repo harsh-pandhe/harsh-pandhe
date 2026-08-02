@@ -1,4 +1,4 @@
-# Harsh Pandhe — Autonomous Navigation & Multi-Agent Robotics Engineer
+<h1 align="center">Hi there<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40">, I'm Harsh Pandhe</h1>
 
 **Harsh Pandhe** is a robotics and systems engineer based in Navi Mumbai, India. He builds autonomous navigation stacks (ROS 2, PX4, LiDAR SLAM), multi-agent reinforcement learning for robot swarms, quantitative trading research, and geospatial infrastructure software. He is a **Software Development Intern at Doppelmayr**, a **Finalist and Automation & Navigation Lead at the ISRO Robotics Challenge (IRoC-U 2026)**, the **Smart India Hackathon 2025 National Winner**, and an **SSRN-published quantitative finance researcher**.
 
@@ -190,7 +190,7 @@ Building **DoppelDash**, an internal operational platform (TypeScript, React, No
 
 Leading GPS-denied autonomous UAV navigation: Fast-LIO SLAM over Livox MID-360, EKF2 sensor fusion with optical flow, ROS 2 + Nav2 + PX4 SITL, Pi 5 / Pixhawk 6c companion-compute split over MAVLink, Coral TPU thermal + RGB fusion for search-and-rescue, and a custom docking station with wireless charging for persistent missions.
 
-### Team Lead — Smart India Hackathon 2025 (National Winner)
+### Team Member(Unofficial Lead) — Smart India Hackathon 2025 (National Winner)
 **Team Algo Sapiens · Dec 2025**
 
 Led six people to national victory among **10,000+ teams** with **Telhan Sathi** — the first team from SIT Lonavala ever to reach nationals, and to win. Architected the ML crop-shift models and IoT soil-detection hardware, interfaced the hardware to the app live when it failed during the 36-hour finale, and scripted the pitch sequence itself.
