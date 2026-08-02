@@ -1,544 +1,371 @@
-<h1 align="center">Hi there<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40">, I'm Harsh Pandhe</h1>
+# Harsh Pandhe — Autonomous Navigation & Multi-Agent Robotics Engineer
 
-<h3 align="center">🏆 SIH 2025 National Winner | RoboRashtra 2026 Runner-Up | Software Dev Intern @ Doppelmayr | Web, Cybersecurity & Blockchain Head @ IIC-SIT</h3>
-<h3 align="center">Full-Stack Developer | Embedded AI Engineer | Robotics Innovator | Blockchain Architect</h3>
+**Harsh Pandhe** is a robotics and systems engineer based in Navi Mumbai, India. He builds autonomous navigation stacks (ROS 2, PX4, LiDAR SLAM), multi-agent reinforcement learning for robot swarms, quantitative trading research, and geospatial infrastructure software. He is a **Software Development Intern at Doppelmayr**, a **Finalist and Automation & Navigation Lead at the ISRO Robotics Challenge (IRoC-U 2026)**, the **Smart India Hackathon 2025 National Winner**, and an **SSRN-published quantitative finance researcher**.
+
+> Teensy firmware, a Rust order-matching engine, Sentinel-2 pipelines, ROS 2 swarms, Solidity contracts. Ninety-one public repositories in, the range is less scattered than it looks — I keep landing in the same place: **systems that touch the physical world, where being wrong is expensive and nobody grades you on the demo.**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=30AADD&center=true&vCenter=true&width=720&height=40&lines=SIH+2025+National+Winner+%F0%9F%8F%86;IRoC-U+2026+Shortlisted+%F0%9F%9B%B0%EF%B8%8F;Software+Dev+Intern+%40+Doppelmayr+%F0%9F%9A%80;Robotics+%26+Embedded+AI+Engineer+%F0%9F%A4%96;Full-Stack+%2B+Blockchain+Architect+%F0%9F%92%BB;Building+the+%272+AM%27+software+%E2%9A%A1" alt="Typing SVG" />
+  <a href="https://harshpandhe.com"><img src="https://img.shields.io/badge/Portfolio-harshpandhe.com-0891b2?style=for-the-badge" alt="Portfolio: harshpandhe.com" /></a>
+  <a href="https://www.linkedin.com/in/harshpandhe/"><img src="https://img.shields.io/badge/LinkedIn-Harsh_Pandhe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile of Harsh Pandhe" /></a>
+  <a href="https://papers.ssrn.com/abstract=7137361"><img src="https://img.shields.io/badge/SSRN-Published_Paper-1a4c8b?style=for-the-badge" alt="SSRN published paper by Harsh Pandhe" /></a>
+  <a href="https://dev.to/harshpandhe"><img src="https://img.shields.io/badge/Dev.to-harshpandhe-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to blog" /></a>
+  <a href="mailto:harshpandhehome@gmail.com"><img src="https://img.shields.io/badge/Email-harshpandhehome@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Harsh Pandhe" /></a>
 </p>
 
 <p align="center">
-  <em>
-    Solving the maze when the GPS dies,<br>
-    Building the math for the ropeways and skies.<br>
-    SIH winner with production in sight,<br>
-    I engineer systems that survive the night.
-  </em>
-</p>
-
-<div align="center">
-  <a href="https://harshpandhe.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-harshpandhe.com-0891b2?style=for-the-badge" /></a>
-  <a href="https://cal.com/harshpandhe" target="_blank"><img src="https://img.shields.io/badge/📅_Book_a_chat-Cal.com-7c3aed?style=for-the-badge" /></a>
-  <img src="https://img.shields.io/badge/Open_to-Collaborate-22c55e?style=for-the-badge&logo=handshake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Interning_%40_Doppelmayr-f97316?style=for-the-badge&logo=briefcase&logoColor=white" />
-</div>
-
-<p align="center">
-  <a href="tel:+917208783332"><img src="https://img.shields.io/badge/Phone-%2B91%207208783332-green?style=flat-square&logo=phone" /></a>
-  <a href="mailto:harshpandhehome@gmail.com"><img src="https://img.shields.io/badge/Email-harshpandhehome%40gmail.com-red?style=flat-square&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/harshpandhe/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Harsh%20Pandhe-0A66C2?style=flat-square&logo=linkedin" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=30AADD&center=true&vCenter=true&width=760&height=40&lines=IRoC-U+2026+Finalist+%E2%80%94+ISRO+Robotics+Challenge+%F0%9F%9B%B0%EF%B8%8F;SIH+2025+National+Winner+%F0%9F%8F%86;SSRN-Published+Quant+Research+%F0%9F%93%8A;SDE+Intern+%40+Doppelmayr+%F0%9F%9A%80;Autonomous+Navigation+%26+Multi-Agent+Robotics+%F0%9F%A4%96" alt="Roles: IRoC-U 2026 Finalist, SIH 2025 National Winner, SSRN-published quant researcher, SDE Intern at Doppelmayr" />
 </p>
 
 ---
 
-## ⚡ TL;DR
+## Quick facts
 
-> 🛠️ **What I do** · Full-stack + Embedded AI + Autonomous Robotics. Ship production systems end-to-end.<br>
-> 🏆 **What I won** · SIH 2025 National Winner · RoboRashtra 2026 Runner-Up · IRoC-U 2026 Shortlisted<br>
-> 🚀 **What I'm building** · Autonomous UAV ecosystem for ISRO · DoppelDash @ Doppelmayr · RAG-powered AI workspaces
+```yaml
+name:        Harsh Pandhe
+pronouns:    he/him
+role:        Software Development Intern, Doppelmayr (Apr 2026 – present)
+focus:       Autonomous navigation · Multi-agent robotics · Quantitative research · Geospatial infrastructure
+location:    Navi Mumbai, Maharashtra, India
+education:   B.Tech Computer Science, Sinhgad Institute of Technology (SIT) Lonavala, 2024–2027
+awards:
+  - Smart India Hackathon 2025 — National Winner (team lead, 10,000+ teams)
+  - ISRO Robotics Challenge IRoC-U 2026 — Finalist, Automation & Navigation Lead (Team ID 10144)
+  - RoboRashtra 2026 — 1st Runner-Up, Chakravyuh maze & line solving
+publications:
+  - SSRN (2026) — "When Gradient Boosting Does Not Beat Momentum" (quantitative finance)
+  - IRJMETS (2024) — "Collaborative Real-Time Code" (distributed systems)
+leadership:  Web, Cybersecurity & Blockchain Head, IIC-SIT · Lead Organizer, Project Morpheus 2026
+core_stack:  [ROS 2, PX4, Gazebo, Python, PyTorch, Rust, TypeScript, Next.js, PostgreSQL, Solidity, Docker]
+open_source: 91 public repositories · upstream contributor to validator.js and Textualize/rich
+contact:     harshpandhehome@gmail.com · https://harshpandhe.com · https://github.com/harsh-pandhe
+open_to:     Research collaborations · Open-source work · Robotics & quant roles
+```
 
-<sub>📑 <strong>Quick Nav</strong> · <a href="#currently">Currently</a> · <a href="#stats">GitHub Stats</a> · <a href="#flagship">Flagship Projects</a> · <a href="#oss">OSS</a> · <a href="#stack">Tech Stack</a> · <a href="#experience">Experience</a> · <a href="#awards">Awards</a> · <a href="#connect">Connect</a></sub>
+**Navigate:** [Currently](#currently) · [Research](#research) · [Robotics](#robotics) · [Quant](#quant) · [Geospatial](#geospatial) · [Full-stack & AI](#fullstack) · [How I work](#how-i-work) · [Experience](#experience) · [Stack](#stack) · [All projects](#projects) · [Contact](#contact)
 
 ---
 
 <a name="currently"></a>
-## 🟢 Currently
+## 🟢 What I'm working on right now
 
-- 🛰️ Shipping **[Taramandal-GCS](https://github.com/harsh-pandhe/Taramandal-GCS)** (new) — cybernetic command-and-control dashboard for drone swarm shows: multi-drone SITL simulator, real-time proximity/geofence safety monitor, auto-abort failsafe, 3-D WebGL previewer, `.skyc` importer
-- ⏱️ **[ChronoTrack](https://github.com/harsh-pandhe/ChronoTrack)** completion push (Phases 1–6) — light-first UI redesign, security & scale hardening, e2e/CI coverage, Windows testing handoff
-- 🤖 **[MARS](https://github.com/harsh-pandhe/MARS)** Phase 2 — Control Barrier Function safety filter + Active Collision Avoidance Safeguard, semantic vision (GNN scale-invariance), 100% area coverage
-- 🛰️ **IRoC-U 2026** — real-hardware bring-up (Phase 54/55) on **[iroc-ascend-nav](https://github.com/harsh-pandhe/iroc-ascend-nav)**: pure-Python 3-D mapping/planning, Three.js web dashboard, Mars heightmap terrain
-- 📊 **[AlgoTrade](https://github.com/harsh-pandhe/AlgoTrade)** — 6-month persistent paper run, security/ops hardening, automated backups, ML-vs-momentum research writeup (negative result, published honestly)
-- 💼 **DoppelDash** @ Doppelmayr Phase 14 — full-app security audit + hardening; **[Autonomous-Ropeway-Alignment (RopeIQ)](https://github.com/harsh-pandhe/Autonomous-Ropeway-Alignment)** — Razorpay billing demo live, audit-logging polish
+- 🛰️ **ISRO Robotics Challenge (IRoC-U 2026)** — Finalist and Automation & Navigation Lead. GPS-denied UAV navigation: Fast-LIO over a Livox MID-360 LiDAR, EKF2 fusion with optical flow, ROS 2 + PX4, a Raspberry Pi 5 companion computer split from a Pixhawk 6c flight controller, and a custom docking station for persistent missions.
+- 💼 **Doppelmayr** — six months owning navigation and automation work on **DoppelDash** and ropeway automation, inside confidential projects valued in the millions, against strict international engineering standards.
+- 🎆 **Taramandal** — a full drone-show stack: **[taramandal-studio](https://github.com/harsh-pandhe/taramandal-studio)** (parametric swarm choreography, bezier-spline pathing, music timeline sync, OBJ voxelizer, cKDTree collision validation) exporting straight into **[Taramandal-GCS](https://github.com/harsh-pandhe/Taramandal-GCS)** (PX4 + Gazebo SITL, MAVSDK bridge, 5 Hz WebSocket telemetry, auto-abort failsafes).
+- 📊 **AlgoTrade** — a live paper-trading system on the NSE, now on a bounded 60-day validated run with automatic proof reporting. Two overlays promoted this quarter; four rejected on the data.
+- ⏱️ **[ChronoTrack](https://github.com/harsh-pandhe/ChronoTrack) v3.2.5** — 2FA (TOTP + WebAuthn passkeys), team-lead dashboards with productivity heatmaps, searchable audit trail, `electron-updater` auto-update.
 
-<sub>↻ Updated 2026-07-15</sub>
-
----
-
-<a name="stats"></a>
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/harsh-pandhe?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0891b2&labelColor=1f2937" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/harsh-pandhe?style=for-the-badge&logo=github&color=f59e0b&labelColor=1f2937" alt="Stars" />
-  <img src="https://komarev.com/ghpvc/?username=harsh-pandhe&style=for-the-badge&color=8b5cf6&labelColor=1f2937&label=Profile+Views" alt="Profile views" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/harsh-pandhe">
-    <img height="165" src="https://streak-stats.demolab.com?user=harsh-pandhe&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub streak" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=harsh-pandhe&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
-  </a>
-</div>
+<sub>↻ Updated 2026-08-02</sub>
 
 ---
 
-<a name="summary"></a>
-## 🎯 Professional Summary
+<a name="research"></a>
+## 📄 Research & publications
 
-Computer Science undergraduate (B.Tech, SIT Lonavala) specializing in **Full-Stack Software Development**, **Embedded AI Systems**, **Robotics Engineering**, and **Blockchain Architecture**. **SIH 2025 National Winner**, **RoboRashtra 2026 Runner-Up (1st)**, and **IRoC-U 2026 Shortlisted** with expertise in neural network inference, real-time systems, and autonomous navigation. Published researcher in collaborative systems with demonstrated expertise in:
+### When Gradient Boosting Does Not Beat Momentum
+**A Significance-Tested, Walk-Forward Negative Result on Cross-Sectional Stock Selection in the Nifty 500** · SSRN, 2026 · *independent researcher*
 
-- 🔹 Embedded AI & Real-Time Neural Network Inference on Microcontrollers
-- 🔹 High-Performance System Design & Microservices Architecture
-- 🔹 Precision Motor Control & Encoder-Based Odometry
-- 🔹 Security Hardening & Cryptographic Systems  
-- 🔹 Scalable Backend Engineering & IoT Integration
-- 🔹 Web3 & Blockchain Architecture
+🔗 **[Read the paper on SSRN](https://papers.ssrn.com/abstract=7137361)**
 
----
+An XGBoost cross-sectional ranker is tested head-to-head against a plain 12-1 momentum baseline on the **Nifty 500**, under a strict walk-forward protocol with realistic transaction costs. The result is negative and reported as such: the machine-learning model **does not** beat the baseline once statistical significance and costs are applied. Even a native learning-to-rank objective that matches the baseline's Sharpe ratio needs **1.8× the portfolio turnover** to get there — the added complexity buys no distinguishable benefit.
 
-## 🔥 Long-Form Focus *(beyond the TL;DR above)*
+Evaluation used the **Stationary Block Bootstrap** and **Jobson–Korkie–Memmel** tests. The open-source research harness is published alongside the paper.
 
-- 🚀 **Co-Founding ASCEND** – High-Tech Industrial Surveying & Digital Twins (LiDAR/Thermal)
-- 🛠️ **Scaling Telhan Sathi** – Real-world deployment & user feedback iteration
-- 🔬 **Quantum Computing Research** – Post-quantum cryptography & algorithm optimization
-- 🎓 **Technical Leadership** – Mentoring 70+ junior developers at IIC-SIT
+### Collaborative Real-Time Code
+**IRJMETS, January 2024** — collaborative editing architecture; 50+ concurrent users at sub-50 ms sync (implemented as CollabCodex).
 
 ---
 
-## 📊 By The Numbers
+<a name="robotics"></a>
+## 🤖 Robotics & autonomy
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🏆_National_Wins-1_(SIH_2025)-FFD700?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🛰️_ISRO-IRoC--U_2026-0B3D91?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🤖_Robotics-RoboRashtra_Runner--Up-E53935?style=for-the-badge" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/👥_Mentored-70%2B_devs-22c55e?style=flat-square" />
-  <img src="https://img.shields.io/badge/📚_Repos-100%2B_public-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/🔄_Contributions-1200%2B_YTD-2ea44f?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/🌍_Merged_OSS_PRs-validator.js_%2B_rich-blue?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/🔬_Papers-1_(IRJMETS)-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/💼_Teams_Led-6_/_4_/_200%2B-7c3aed?style=flat-square" />
-  <img src="https://img.shields.io/badge/🧠_NN_Inference-sub--ms_latency-ec4899?style=flat-square" />
-</p>
+### [MARS — Multi-Agent Robot Swarm](https://github.com/harsh-pandhe/MARS)
+Cooperative area coverage with a TurtleBot3 swarm in ROS 2 Jazzy + Gazebo.
+
+- **MAPPO / CTDE** with a centralized critic for multi-agent credit assignment
+- A **permutation-invariant GNN policy** that scales to any fleet size *without retraining* — neighbour embeddings pooled through a shared MLP, invalid agents masked
+- A **Control Barrier Function safety filter** solving a QP at 20 Hz to guarantee zero collisions, with nominal-control fallback so a failed solve can't deadlock the robot
+- Active Collision Avoidance Safeguard, range-limited consensus map sync, semantic vision, **100 % area coverage** in continuous-exploration evaluation
+
+`Python` · `ROS 2 Jazzy` · `Ray RLlib` · `PyTorch` · `PettingZoo` · `Gazebo`
+
+### [Taramandal — drone-show GCS + choreography studio](https://github.com/harsh-pandhe/Taramandal-GCS)
+Ground-control and Software-in-the-Loop suite for autonomous drone-show fleets.
+
+- **Hungarian-assignment formation morphing** between choreography states
+- Layered safety loop: pre-flight launch-geometry check (0.5 m tolerance), live proximity rings (2.0 m lateral separation → immediate RTL), a 30 m cylinder geofence triggering emergency landing
+- FastAPI + MAVSDK gRPC-to-REST bridge streaming telemetry at 5 Hz over WebSockets; React Three Fiber 3-D previewer; `.skyc` import; RTK and latency telemetry
+- Companion **[taramandal-studio](https://github.com/harsh-pandhe/taramandal-studio)** generates and safety-validates shows, then hands off to the GCS in one click
+
+`Python` · `PX4` · `Gazebo` · `MAVSDK` · `FastAPI` · `React` · `Three.js`
+
+### [Chakravyuh Bot — neural maze solver on a Teensy 4.1](https://github.com/harsh-pandhe/Bot)
+**RoboRashtra 2026 — 1st Runner-Up (₹10,000).** A hybrid bot that switches from high-speed deterministic line-following to neural-network inference the moment the maze begins, with a safety supervisor override on top. Spatial distance data → motor commands through hidden layers, running on-device; motor encoders mapped pulse-to-distance so a 90° turn is exactly 90°.
+
+`C++` · `Teensy 4.1` · `Neural networks` · `N20 encoders`
+
+---
+
+<a name="quant"></a>
+## 📊 Quant & systems
+
+### AlgoTrade — systematic NSE paper-trading system <sub>`private`</sub>
+A live, 24/7 momentum strategy on the Nifty 500 with the operational scaffolding to match: HMM regime detection, XGBoost experiments, cross-sectional momentum, a local Ollama LLM layer, Telegram alerting, SEBI 2026 compliance, SQLite WAL persistence, automated backup rotation.
+
+What it's actually taught me is failure modes. A partial data-vendor outage returned `NaN` prices rather than missing ones; `price or entry_price` let them through, because `float('nan')` is truthy in Python. Downstream, `abs(nan) > 1.0` evaluated to `False`, so the drift monitor reported "all clear" on top of a corrupted NAV for two days — a fully green dashboard sitting on bad data. Fixed in three layers (filter at source, explicit `math.isnan()`, monitor treats `NaN` as hard failure) plus seven regression tests.
+
+The research arm of this system produced the [SSRN paper](#research) above.
+
+`Python` · `XGBoost` · `hmmlearn` · `stable-baselines3` · `Upstox V3` · `Ollama` · `Flask`
+
+### Rust order-matching engine
+A limit-order-book matching engine written in Rust — price-time priority, the parts of exchange infrastructure where correctness under concurrency is the whole problem.
+
+---
+
+<a name="geospatial"></a>
+## 🛰️ Geospatial & civil infrastructure
+
+### terra-verify — construction progress from satellite imagery <sub>`private`</sub>
+Infrastructure intelligence from **Sentinel-2**: automated measurement of construction progress from multispectral satellite imagery. Train/test separation is **enforced in CI**, not in good intentions — the pipeline fails the build rather than trusting a developer to remember.
+
+`Python` · `Sentinel-2` · `Rasterio` · `scikit-learn`
+
+### RopeIQ / Autonomous-Ropeway-Alignment — Eurocode-validated optimizer <sub>`private`</sub>
+DEM + two station coordinates → permit-grade aerial ropeway alignment (towers, catenary, safety envelope, DXF, LandXML, Google Earth KML, 3-D twin, BOM, capex) in under 15 seconds on a laptop.
+
+- **Validated against 19 real installations** across 6 system archetypes on 5 continents — Aiguille du Midi 0.6 %, Zugspitze 2.7 %, Whistler Peak2Peak 7.2 %
+- Catenary mechanics validated to 0.00 % against three textbook references (sag / length / tension)
+- Eurocode envelope: EN 12929-1 clearance · EN 1991-1-4 wind · ISO 12494 ice · EN 1993-1-1 tower buckling · ANSI B77.1 live load
+- Four optimizers benchmarked head-to-head: DEAP GA · pymoo NSGA-II · stable-baselines3 PPO · scikit-learn RSM surrogate
+- REST service with JWT auth, RBAC, platform-owner role separation, audit log, immutable project snapshots; 157 pytest cases, CI on every push
+
+`Python` · `FastAPI` · `PostgreSQL` · `PyVista` · `Docker` · `Copernicus GLO-30 DEM`
+
+### linear-scheduler-app — Line-of-Balance scheduler <sub>`private`</sub>
+Linear scheduling (LoB / LSM) for heavy civil infrastructure — highways, railways, pipelines, ropeways. Where a Gantt chart shows only time, this plots time against chainage. Phase 15 added a resource-leveling engine, print composer, and DXF/raster backgrounds.
+
+### pod-transit — personal rapid transit digital twin <sub>`private`</sub>
+Browser-based simulator for on-demand pod-transit (ATN) networks: synthetic-population OD demand, policy-gradient dispatch, infra cost/ROI modelling against rail and BRT, SUMO/MATSim interop, 481 tests. Era 2 adds vendor-agnostic vehicle profiles, Right-of-Way exclusion zones with cost penalties, KML/KMZ + GeoJSON round-trip, and an Expo SDK 56 rider app.
+
+---
+
+<a name="fullstack"></a>
+## 🌐 Full-stack, AI & Web3
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[AtherCopilot](https://github.com/harsh-pandhe/AtherCopilot)** | RAG workspace for real-time PDF & URL analysis — embedding store, streaming responses, Clerk → Firebase token-minting bridge for auth-to-DB identity propagation | Next.js 15 · Gemini 2.5 Flash · Google Genkit · Firebase |
+| **[airgapped-netops-ai](https://github.com/harsh-pandhe/airgapped-netops-ai)** | NOC copilot that predicts network degradation and explains itself — **zero outbound traffic**. Citation-aware RAG, Isolation Forest anomaly detection, SHAP explainability, retraining feedback loop | FastAPI · React · Ollama · ChromaDB |
+| **[Project Morpheus 2026](https://github.com/harsh-pandhe/Project-Morpheus)** | Logistics engine + site for a national 24-hour hackathon — **150+ teams, 5 domains, ₹2,00,000+ in prizes**. Rule-driven allocation, atomic MongoDB transactions preventing double-booking under concurrent load. [Live](https://www.projectmorpheus.in/) | Next.js · MongoDB · Three.js · Framer Motion |
+| **CityConnect** | Civic reporting with on-chain EcoCoin rewards — 1000+ req/s with Redis caching | Next.js · Django · Solidity · MongoDB |
+| **Telhan Sathi** | AI oilseed-farming advisory — **SIH 2025 National Winner** (MoA&FW PS 25273). ML crop-shift models, IoT soil sensing, PWA with real-time farm dashboards | Python · Django · IoT · PWA |
+| **[AgriTrace](https://github.com/harsh-pandhe/AgriTrace)** | Circular-economy platform connecting farmers to recycling agents — AI waste classification + Razorpay traceability ledger | Next.js · Google GenAI · Razorpay · Firebase |
+
+---
+
+<a name="how-i-work"></a>
+## 🧭 How I work
+
+**I would rather publish a negative result than a flattering backtest.**
+
+My trading research has killed four hypotheses for every two it promoted, and the one paper I've published to SSRN reports a model that *didn't* work. My satellite pipeline enforces train/test separation in CI rather than in good intentions. My drone GCS refuses takeoff over a 0.5 m placement error.
+
+A recent example: mid-project on a helmet-detection model sitting at 368 training images, the obvious move was a 91,000-frame, 29 GB dataset. Instead I retrained on 25/50/75/100 % of what I already had and plotted the curve — 0.49 → 0.62 → 0.70 → 0.72 mAP@50, with the last quarter of data buying +0.02. The model wasn't data-limited. I skipped the download and fixed label quality instead. The technique is page one of any ML course; what's rare is running it *before* scaling the dataset rather than after.
+
+This is the same instinct across every domain I work in: measure the thing before you buy it, and let the measurement be allowed to say no.
 
 ---
 
 <a name="experience"></a>
-## 🚀 Leadership & Experience
+## 💼 Experience & leadership
 
-### 💼 **Software Development Intern** – Doppelmayr (Austria)
-**Doppelmayr** | Apr 2026 – Present
+### Software Development Intern — Doppelmayr
+**Apr 2026 – present** · ropeway & transport automation, global engineering team
 
-- Building **DoppelDash** – a professional-grade internal platform for operational workflows
-- Applying full-stack architecture (TypeScript, React, Node.js) in an enterprise environment
-- Working within a global engineering team on ropeway & transport automation systems
-- Equipped with a high-performance **RTX 4060 GPU workstation** by the company to drive **physics-based simulations, LLM workflows, and intelligent AI systems for enterprise automation**
-- 📰 **Featured in [Maval Maza](https://www.mavalmaza.com/news/SIT-lonavala-student-selected-for-prestigious-internship-in-austria-after-national-robotics-and-hackathon-success)** – State-level press coverage of the Austria internship selection
+Building **DoppelDash**, an internal operational platform (TypeScript, React, Node.js, MongoDB) — role-aware global search, approval chains, audit logging with plain-English summaries, IMAP inbox integration, branded PDF/Excel exports, and a full-application security-hardening pass. Contributing to confidential projects valued in the millions, where every line of code must meet strict international standards. Equipped with an RTX 4060 workstation for physics simulation, LLM workflows, and enterprise AI automation.
+📰 *Featured in [Maval Maza](https://www.mavalmaza.com/news/SIT-lonavala-student-selected-for-prestigious-internship-in-austria-after-national-robotics-and-hackathon-success) — state-level press coverage of the selection.*
 
-### 🏆 **SIH 2025 National Winner** – Team Lead & Full Stack Developer
-**Team Algo Sapiens | Smart India Hackathon 2025** | Dec 2025
+### Automation & Navigation Lead — ISRO Robotics Challenge (IRoC-U 2026)
+**Finalist, Team ID 10144** · [official shortlist](https://www.ursc.gov.in/IRoC-U2026/Shortlisted_for_EliminationRound.pdf)
 
-- **Led 6-member team to national victory** among 10,000+ teams with **Telhan Sathi** (MoA&FW PS ID: 25273)
-- Architected **AI & ML predictive models** for crop shift mitigation & built **IoT-based soil detection systems**
-- Developed **Progressive Web App** for crop suitability guidance with real-time farm monitoring dashboards
-- **Historic Achievement**: First team from SIT Lonavala to reach nationals and win 🎉
+Leading GPS-denied autonomous UAV navigation: Fast-LIO SLAM over Livox MID-360, EKF2 sensor fusion with optical flow, ROS 2 + Nav2 + PX4 SITL, Pi 5 / Pixhawk 6c companion-compute split over MAVLink, Coral TPU thermal + RGB fusion for search-and-rescue, and a custom docking station with wireless charging for persistent missions.
 
-### 🛡️ **Web, Cybersecurity & Blockchain Head** – IIC-SIT
-**Institution's Innovation Council, SIT Lonavala** | Oct 2025 – Present
+### Team Lead — Smart India Hackathon 2025 (National Winner)
+**Team Algo Sapiens · Dec 2025**
 
-- Overseeing **Web, Cybersecurity, and Blockchain** domains across campus-wide technical initiatives for 500+ students
-- **Lead Organizer – [Project Morpheus 2026](https://www.projectmorpheus.in/)** – Architected infrastructure for national-level **24-hour hackathon** (200+ participants)
-- **Co-architected [Kalpataru 2025](https://www.thekalpataru.com/)** – 10-week innovation competition with secure registration system
-- **Mentored 70+ developers** in CODE2LAUNCH workshop (React, Node.js, JavaScript)
-- Evaluated 50+ technical projects providing architecture & security feedback
+Led six people to national victory among **10,000+ teams** with **Telhan Sathi** — the first team from SIT Lonavala ever to reach nationals, and to win. Architected the ML crop-shift models and IoT soil-detection hardware, interfaced the hardware to the app live when it failed during the 36-hour finale, and scripted the pitch sequence itself.
+
+### Web, Cybersecurity & Blockchain Head — IIC-SIT
+**Oct 2025 – present** · Institution's Innovation Council, SIT Lonavala
+
+Overseeing web, security and blockchain across campus initiatives for 500+ students. **Lead Organizer of [Project Morpheus 2026](https://www.projectmorpheus.in/)** — a national 24-hour hackathon with 150+ teams across 5 domains and ₹2,00,000+ in prizes. Co-architected [Kalpataru 2025](https://www.thekalpataru.com/). Mentored **70+ developers** through the CODE2LAUNCH workshop; evaluated 50+ projects on architecture and security.
 
 ---
 
 <a name="stack"></a>
-## 🛠️ Technical Expertise
+## 🛠️ Technical stack
 
-**Languages**
+**Robotics & autonomy** — ROS 2 (Jazzy) · Nav2 · PX4 SITL · MAVSDK · MAVLink · Gazebo · Isaac Sim · RViz · Pixhawk 6c · Livox MID-360 LiDAR · Fast-LIO · EKF2 · Raspberry Pi 5 · Coral TPU · Teensy 4.1 · motor encoders · PID control
 
-![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+**Machine learning** — PyTorch · Ray RLlib · PettingZoo · MAPPO/CTDE · graph neural networks · Control Barrier Functions · XGBoost · hmmlearn · stable-baselines3 · scikit-learn · SHAP · TensorFlow · Google Genkit · Gemini 2.5 Flash · Ollama · RAG / ChromaDB
 
-**AI / ML / RAG**
+**Languages** — Python · TypeScript · JavaScript · Rust · C++ · Solidity · Java · SQL · Bash
 
-![Gemini](https://img.shields.io/badge/-Gemini_2.5_Flash-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Genkit](https://img.shields.io/badge/-Google_Genkit-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Qiskit](https://img.shields.io/badge/-Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
+**Backend & data** — FastAPI · Node.js · Express · Django · PostgreSQL · PostGIS · MongoDB (transactions) · Redis · SQLite WAL · Prisma · Firebase · WebSockets · gRPC · Celery · Ray
 
-**Robotics & Autonomous Systems**
+**Frontend** — Next.js 15 · React · React Three Fiber · Three.js · Electron · Expo / React Native · Tailwind · Framer Motion
 
-![ROS 2](https://img.shields.io/badge/-ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![PX4](https://img.shields.io/badge/-PX4_SITL-013243?style=for-the-badge&logo=px4&logoColor=white)
-![Gazebo](https://img.shields.io/badge/-Gazebo-FF6B00?style=for-the-badge&logoColor=white)
-![Isaac Sim](https://img.shields.io/badge/-Isaac_Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Pixhawk](https://img.shields.io/badge/-Pixhawk_6c-2D2D2D?style=for-the-badge&logo=dronedeploy&logoColor=white)
-![LiDAR](https://img.shields.io/badge/-LiDAR_(Livox)-E53935?style=for-the-badge&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi_5-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+**Geospatial** — Sentinel-2 · Copernicus GLO-30 DEM · SRTM · PostGIS · Rasterio · PyVista · CesiumJS · LandXML · DXF · KML/KMZ · GeoJSON · SUMO / MATSim
 
-**Frontend**
+**Blockchain & Web3** — Solidity · Ethereum · smart contracts · Hyperledger Fabric · IPFS
 
-![Next.js](https://img.shields.io/badge/-Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Backend & Data**
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB_(Tx)-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**Blockchain / Web3**
-
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Smart Contracts](https://img.shields.io/badge/-Smart_Contracts-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Hyperledger](https://img.shields.io/badge/-Hyperledger_Fabric-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
-![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
-
-**DevOps & Cloud**
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### **Core Competencies** (Strongest Areas)
-- **AI Engineering**: Google Genkit, Gemini 2.5 Flash, RAG pipelines, LLM tool-use, Embedding stores, Custom auth-to-DB token bridges (Clerk → Firebase)
-- **Embedded AI & Robotics**: Teensy 4.1 microcontroller, Real-time neural network inference, Motor control, Encoder odometry, Sensor fusion
-- **Autonomous Systems**: ROS 2, Nav2, Isaac Sim, Gazebo, PX4 SITL, Rviz, Pixhawk flight controllers, LiDAR integration (Livox Mid-360)
-- **Full-Stack**: Next.js 15, Node.js, React, TypeScript, MongoDB (Transactions/atomic ops), PostgreSQL
-- **Blockchain & Web3**: Solidity, Ethereum, Smart Contracts, Hyperledger Fabric, IPFS
-- **System Design**: Microservices, Distributed Systems, High-Performance APIs, Docker, Kubernetes, Real-time systems
-
-### **Advanced Skills**
-- **Backend**: Express.js, Django, GraphQL, WebSockets, Firebase, Razorpay payment integration
-- **Emerging Tech**: Quantum Computing (Qiskit), Post-Quantum Cryptography, AI/ML (TensorFlow, PyTorch, Google GenAI), Embedded AI
-- **Robotics & Hardware**: ROS 2, Pixhawk 6c, LiDAR (Livox Mid-360), PID Control, Signal Processing, Motor Encoders, Analog Multiplexing
-- **Simulation**: Isaac Sim, Gazebo, **PX4 SITL (Software-In-The-Loop)**, Rviz point-cloud visualization, Digital Twin platforms
-- **DevOps & Cloud**: AWS, GCP, CI/CD, Linux, Git/GitHub
-
-### **Languages**
-Rust, JavaScript/TypeScript, Python, Java, Solidity, C++, SQL, Bash
+**Infrastructure** — Docker · GitHub Actions · AWS · GCP · Vercel · Linux · pytest · Playwright
 
 ---
 
-<a name="flagship"></a>
-## 🚀 Flagship Projects
+<a name="projects"></a>
+## 📚 Full project index
 
-### 🚡 **[Autonomous-Ropeway-Alignment](https://github.com/harsh-pandhe/Autonomous-Ropeway-Alignment)** — Eurocode-Validated Optimizer
-> Open-source toolchain: DEM + 2 station coords → permit-grade aerial ropeway alignment (towers, catenary, safety, DXF, LandXML, 3-D twin, BOM, capex) in <15 s on a laptop. **Validated against 12 real installations across 6 system archetypes on 5 continents** — Aiguille du Midi 0.6 %, Zugspitze 2.7 %, Whistler Peak2Peak 7.2 %.
-
-**Stack** · Python · DEAP GA · pymoo NSGA-II · stable-baselines3 PPO · scikit-learn RSM · FastAPI · JWT/RBAC · SQLAlchemy · Postgres · Docker · Streamlit · PyVista 3-D twin · Copernicus GLO-30 DEM
-**Engineering highlights**
-- **Catenary mechanics** validated to 0.00 % on 3 textbook references (sag / length / tension)
-- **Eurocode envelope** — EN 12929-1 clearance · EN 1991-1-4 wind · ISO 12494 ice · EN 1993-1-1 tower buckling/bending · ANSI B77.1 live load
-- **Four optimizers** wired (GA · NSGA-II · PPO RL · RSM surrogate) with benchmark harness
-- **REST service** — JWT auth, RBAC, audit log, immutable project snapshots, DEM upload → optimize → DXF/LandXML/PDF export
-- 157 pytest cases, CI on every push, MIT license
-
----
-
-### 🛰️ **IRoC-U 2026 — Autonomous "Space Robot" UAV** *(In Development)*
-> 🇮🇳 **ISRO Robotics Challenge 2026 — Shortlisted (Team ID 10144)**
-> Building a fully autonomous UAV ecosystem with custom docking & wireless-charging base station.
-
-**Stack** · ROS 2 · Nav2 · PX4 SITL · Gazebo · Rviz · Pixhawk 6c · Livox Mid-360 LiDAR · Raspberry Pi 5 (16 GB) · Coral TPU · MicoAir optical flow · custom quad (920 KV / 9075)
-**Engineering highlights**
-- **GPS-denied navigation** — Fast-LIO over Livox Mid-360 + EKF2 fusion w/ optical flow
-- **Companion-compute split** — Pi 5 handles SLAM/AI, Pixhawk owns flight control via MAVLink over GPIO
-- **Custom docking base station** — autonomous landing + wireless charging for persistent missions
-- **Sim-to-real pipeline** — algorithms hardened in Isaac Sim & PX4 SITL before flight; synthetic MID-360 LiDAR via CPU raycast for early testing
-- **Thermal + RGB AI fusion** — Coral TPU object detection + heat-signature pipeline for search-and-rescue digital twin
-
-
----
-
-### 🤖 **Ather Co-Pilot — Unified AI Workspace**
-> RAG-powered AI workspace for real-time **PDF & URL** analysis.
-
-**Stack** · Next.js 15 · Gemini 2.5 Flash · Google Genkit · Clerk · Firebase · TypeScript
-**Engineering highlights**
-- **RAG over multi-document context** — embedding store + streaming responses
-- **Clerk → Firebase token-minting bridge** for secure auth-to-DB identity propagation
-- Persistent chat memory + prompt-driven UX patterns
-
----
-
-### 🎯 **Morpheus Management System — Hackathon Logistics Engine**
-> Production system that replaced manual spreadsheets at a **24-hour, 500+ participant** national hackathon.
-> 🌐 **Live**: [projectmorpheus.in](https://www.projectmorpheus.in/)
-
-**Stack** · Next.js · MongoDB (Transactions) · Node.js · TypeScript
-**Engineering highlights**
-- **Rule-driven allocation engine** for room/team/track assignment
-- **Atomic MongoDB transactions** prevent double-booking under concurrent registration load
-- Real-time organizer dashboards + self-service participant flows
-- Idempotent APIs + transactional consistency under load
-
----
-
-<a name="oss"></a>
-## 🌍 Open Source Contributions
-
-Real-world PRs into projects I use and depend on:
-
-| Project | PR | What it did |
-|---|---|---|
-| **[validatorjs/validator.js](https://github.com/validatorjs/validator.js)** | [#2683 fix](https://github.com/validatorjs/validator.js/pull/2683) | Update `uz-UZ` mobile phone regex — add 5 missing carrier prefixes (33, 50, 55, 77, 88) |
-| **[Textualize/rich](https://github.com/Textualize/rich)** | [#4123](https://github.com/Textualize/rich/pull/4123) | Docs — remove dead `rich-tweets` link from README |
-| **[ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)** | Contribution | Low-code dev platform |
-
-> 💡 *Filed real bugs, shipped real diffs — not just stars.*
-
----
-
-## 📚 More Projects
+<details>
+<summary><strong>All 91 public repositories — expand for the full list</strong></summary>
 
 | Project | What it is | Stack | Status |
 |---|---|---|---|
-| 🛰️ **[Taramandal-GCS](https://github.com/harsh-pandhe/Taramandal-GCS)** | Cybernetic drone-swarm show command-and-control — multi-drone SITL sim, real-time proximity safety monitor, geofence + auto-abort failsafe, 3-D WebGL previewer, `.skyc` import | Python · React · WebGL | New — active |
-| 🌱 **AgriTrace** | Circular-economy SaaS — AI waste classification + Razorpay traceability ledger | Next.js · Google GenAI · Razorpay · MongoDB | Active |
-| 🚉 **[PodFlow / pod-transit](https://github.com/harsh-pandhe/pod-transit)** | Web-based digital-twin simulator for on-demand pod-transit (ATN) networks — synthetic population OD demand, policy-gradient dispatch (RL v2), infra cost/ROI engine vs rail-BRT, SUMO/MATSim interop, 481 tests | React · TypeScript · Three.js · WebSockets | v4 — active |
-| 🚁 **ASCEND** | Industrial drone surveying + digital twins (LiDAR/photogrammetry/thermal inspection) | LiDAR · Photogrammetry · Thermal | In development |
-| 🤖 **Team Imposters — Chakravyuh Bot** | NN maze-solver + line-follower on Teensy 4.1; **RoboRashtra 2026 Runner-Up** (₹10k) | Teensy 4.1 · Neural Networks · Motor Encoders · C++ | Competition Winner |
-| 🌾 **Telhan Sathi** | AI oilseed-farming advisory — **SIH 2025 National Winner** (PS 25273) | Python · Django · IoT · PWA | National Winner |
-| 🔗 **Codex (CollabCodex)** | Real-time collab editor — 50+ concurrent users, sub-50ms sync; published in IRJMETS | Next.js · Monaco · Liveblocks · Convex | [Live](https://collabcodex.vercel.app) |
-| 🏙️ **CityConnect** | Civic reporting + on-chain EcoCoin rewards — 1000+ req/s w/ Redis caching | Next.js · Django · Solidity · MongoDB | Live · Infotsav'25 |
-| 📊 **Kalpataru 2025** | Enterprise registration platform — 200+ participants, secure payments | Node.js · MongoDB · React · Docker | [Live](https://www.thekalpataru.com/) |
-| 📊 **[AlgoTrade](https://github.com/harsh-pandhe/AlgoTrade)** | Autonomous multi-agent NSE/Upstox trader — HMM regime, XGBoost, cross-sectional momentum, Ollama local LLM, Telegram bot, SEBI 2026 compliance; 6-month persistent paper run, security/ops hardening, automated backups, walk-forward research (ML ranker + vol-sizing tested & rejected on data) | Python · Upstox V3 · XGBoost · hmmlearn · stable-baselines3 · Ollama · SQLite WAL · Flask | Live, runs 24/7 |
-| 📱 **[ExpenseTracker v1.2.0](https://github.com/harsh-pandhe/ExpenseTracker)** | Production RN app — bank SMS parser (10+ Indian banks), glassmorphism UI, OTA via expo-updates, 4-layer dedup sync | React Native · TypeScript · Node.js · MongoDB Atlas · Render | Daily-use prod |
-| 🛰️ **[iroc-ascend-nav](https://github.com/harsh-pandhe/iroc-ascend-nav)** | IRoC drone nav stack — real-hardware bring-up (Phase 54/55), pure-Python 3-D occupancy mapping + A* planning, Three.js web dashboard, synthetic Livox MID-360 LiDAR via CPU raycast | Python · ROS 2 · NumPy · Three.js | Phase 54/55 |
-| 🚚 **MapFleet Logistics** | Real-time fleet tracking | Next.js · Firebase · Google Maps API | Live |
-| 🧠 **[Harsh OS (LinkedIn ext.)](https://github.com/harsh-pandhe/Linkedin)** | 4-agent local-AI cognitive layer — Tampermonkey ↔ Ollama (qwen3:14b), drafts 4 reply styles from a local vector DB of my writing, synthetic human-like typing | Vanilla JS · Tampermonkey · Ollama · local vector DB | v1 |
-| 🎵 **[Music](https://github.com/harsh-pandhe/Music)** | Self-hosted YouTube music app using `yt-dlp` — personal streaming layer, no ads, no Premium | JavaScript · yt-dlp | Self-hosted |
-| ❄️ **[SmartCooler-IoT](https://github.com/harsh-pandhe/SmartCooler-IoT)** | ESP32 cooler controller — relay + DHT22 + DS18B20, auto mode by humidity, ESP32 NVS persistence, Firebase/Vercel [dashboard](https://smart-cooler-io-t.vercel.app/) | ESP32 · C++ · Arduino · Firebase | Deployed |
-| 🚁 **[ASCEND Drone Workshop](https://github.com/harsh-pandhe/Drone)** | Scrollytelling drone-workshop site — 40-frame scroll sequence, isometric LiDAR swarm sim on Canvas, glassmorphic SVG anatomy. [Live](https://drone-workshop-iic.vercel.app/) | Next.js 14 · TypeScript · Tailwind · Framer Motion · Canvas API · Simplex noise | Live |
-| 😴 **[Drowsiness-Detection-System](https://github.com/harsh-pandhe/Drowsiness-Detection-System)** | Real-time eye-state drowsiness detector for driver-safety pipelines | Python · OpenCV · ML | Built |
-| 🎮 **[3d-chess](https://github.com/harsh-pandhe/3d-chess)** | Stunning 3D multiplayer chess — Stockfish AI, Supabase real-time, glassmorphic aesthetics | Next.js · React Three Fiber · Supabase · TypeScript | Live |
-| 🛣️ **[linear-scheduler-app](https://github.com/harsh-pandhe/linear-scheduler-app)** | Civil infra LoB/LSM scheduler — Phase 15: resource leveling engine, print composer, DXF/raster backgrounds | Next.js · PostgreSQL · Prisma · Zustand | Phase 15 Active |
-| 🏙️ **[city-companion](https://github.com/harsh-pandhe/city-companion)** | Privacy-first silent mobility telemetry + AI survey generation for civil-engineering traffic analytics — Expo mobile + Express backend + Next.js planner | TypeScript · Expo · Express · Prisma | Phase 4 (pivoted) |
-| 🛣️ **[nextgen-highspeed-toll](https://github.com/harsh-pandhe/nextgen-highspeed-toll)** | Zero-hardware, 100% software-simulated highway toll digital twin | React · MongoDB · RabbitMQ · Gazebo · ROS 2 | MVP |
-| ⏱️ **[ChronoTrack](https://github.com/harsh-pandhe/ChronoTrack)** | Enterprise transparent telemetry & workforce optimizer — Electron desktop agent + Python AI daemon + web dashboard, GDPR/DPDP-compliant; completion push (Phases 1–6) shipped light-first UI redesign, security/scale hardening, e2e+CI coverage | Electron · Python · React · Neon/PostgreSQL · JWT | Windows testing handoff |
-| 🌐 **[airgapped-netops-ai](https://github.com/harsh-pandhe/airgapped-netops-ai)** | Air-gapped NetOps dashboard — local ML (Random Forest) + RAG copilot (Ollama + ChromaDB), zero internet required; Tracks 1–3 done: citation-aware RAG, Isolation Forest anomaly detection, SHAP explainability + retraining feedback loop | FastAPI · React · Ollama · ChromaDB | Tracks 1–3 Complete |
-| 🌾 **[KrishiPancham-AI](https://github.com/harsh-pandhe/KrishiPancham-AI)** | Hyper-localized agricultural AI companion — traditional Panchang wisdom (tithi/nakshatra/muhurta) + AI weather forecasts + NDVI crop health + 32 govt scheme chatbot; multilingual (en/hi/mr), voice I/O, offline-first | FastAPI · Expo (React Native) · Next.js · ephem · Open-Meteo | Phases 0–5 Live |
-| 🛠️ **[GripGroup](https://github.com/harsh-pandhe/GripGroup)** | AI-driven geospatial infra design platform — SRTM/PostGIS, multi-objective optimizer, LandXML export; distributed Ray clusters + Celery queues + prepaid credit-ledger billing | React · Python · Docker · PostGIS · Ray · Celery | Phases 9.2–9.3 |
-| 🤖 **[MARS](https://github.com/harsh-pandhe/MARS)** | Multi-Agent Robot Swarm — cooperative TurtleBot3 area coverage with MAPPO/CTDE centralized critic, Permutation-Invariant GNN policy; Phase 2 adds Control Barrier Function safety filter, collision avoidance, semantic vision, 100% coverage in ROS 2 Jazzy + Gazebo | Python · ROS 2 · Ray RLlib · PyTorch · PettingZoo | Phase 2 |
+| 🎆 **[taramandal-studio](https://github.com/harsh-pandhe/taramandal-studio)** | Swarm choreography generator & 3-D visualizer — parametric show design, bezier-spline pathing, music timeline sync, OBJ voxelizer, cKDTree safety validator, one-click Send-to-GCS | JavaScript · React · Three.js | Active |
+| 🛰️ **[Taramandal-GCS](https://github.com/harsh-pandhe/Taramandal-GCS)** | Drone-swarm command & control + SITL suite — Hungarian formation morphing, proximity rings, geofence auto-abort, RTK telemetry, `.skyc` import | Python · PX4 · FastAPI · React | Active |
+| 🤖 **[MARS](https://github.com/harsh-pandhe/MARS)** | Multi-agent TurtleBot3 swarm — MAPPO/CTDE, permutation-invariant GNN policy, 20 Hz CBF safety QP, 100 % coverage | Python · ROS 2 · Ray RLlib · PyTorch | Phase 2 |
+| 🤖 **[Bot](https://github.com/harsh-pandhe/Bot)** | Teensy 4.1 neural maze solver + line follower — RoboRashtra 2026 1st Runner-Up | C++ · Teensy 4.1 · Neural networks | Competition winner |
+| 🌐 **[airgapped-netops-ai](https://github.com/harsh-pandhe/airgapped-netops-ai)** | Fully offline NOC copilot — citation-aware RAG, Isolation Forest anomaly detection, SHAP explainability | FastAPI · React · Ollama · ChromaDB | Tracks 1–3 complete |
+| ⏱️ **[ChronoTrack](https://github.com/harsh-pandhe/ChronoTrack)** | Privacy-respecting workforce telemetry & project-ROI platform — Electron agent + Python AI daemon + web dashboard, GDPR/DPDP-compliant, 2FA with TOTP & passkeys | Electron · Python · React · PostgreSQL | v3.2.5 |
+| 🤖 **[AtherCopilot](https://github.com/harsh-pandhe/AtherCopilot)** | RAG AI workspace — multi-document context, Clerk → Firebase auth bridge | Next.js 15 · Genkit · Gemini · Firebase | Live |
+| 🎯 **[Project-Morpheus](https://github.com/harsh-pandhe/Project-Morpheus)** | National 24-hour hackathon platform — 150+ teams, atomic allocation engine | Next.js · MongoDB · Three.js | [Live](https://www.projectmorpheus.in/) |
+| 🌱 **[AgriTrace](https://github.com/harsh-pandhe/AgriTrace)** | Agricultural waste traceability — AI classification + Razorpay ledger | Next.js · Google GenAI · Firebase | Active |
+| 🎮 **[3d-chess](https://github.com/harsh-pandhe/3d-chess)** | 3-D multiplayer chess — Stockfish AI, Supabase realtime, glassmorphic UI | Next.js · React Three Fiber · Supabase | Live |
+| 🚁 **[Drone](https://github.com/harsh-pandhe/Drone)** | Scrollytelling drone-workshop site — 40-frame scroll sequence, isometric LiDAR swarm sim on Canvas | Next.js 14 · TypeScript · Canvas API | [Live](https://drone-workshop-iic.vercel.app/) |
+| 🚁 **[Fly](https://github.com/harsh-pandhe/Fly)** | ASCEND — aerial intelligence landing page (autonomous flight, precision data capture) | HTML · JS · 3D | Live |
+| ❄️ **[SmartCooler-IoT](https://github.com/harsh-pandhe/SmartCooler-IoT)** | ESP32 cooling controller — relay + DHT22 + DS18B20, humidity auto-mode, NVS persistence, web dashboard | ESP32 · C++ · Firebase | [Deployed](https://smart-cooler-io-t.vercel.app/) |
+| 😴 **[Drowsiness-Detection-System](https://github.com/harsh-pandhe/Drowsiness-Detection-System)** | Real-time eye-aspect-ratio drowsiness detector for driver safety | MediaPipe · Node.js · OpenCV | Built |
+| 📅 **[365DaysOfCodeChallenge2k25](https://github.com/harsh-pandhe/365DaysOfCodeChallenge2k25)** | A year-long daily coding challenge, in public | Python · Web | Ongoing |
+| 📡 **[Lidar](https://github.com/harsh-pandhe/Lidar)** · **[thermal](https://github.com/harsh-pandhe/thermal)** · **[UWB](https://github.com/harsh-pandhe/UWB)** | Sensor-integration research modules for the ASCEND / IRoC drone stack | Python | Research |
+| 🛰️ **iroc-ascend-nav** <sub>`private`</sub> | IRoC drone nav stack — simulation-first on a 1-year pure-sim roadmap; pure-Python 3-D occupancy mapping + 3-D A\* planning, Three.js dashboard, Mars heightmap terrain | Python · ROS 2 · NumPy · Three.js | Simulation-first |
+| 📊 **AlgoTrade** <sub>`private`</sub> | Systematic NSE momentum system — HMM regime, XGBoost research, Ollama LLM layer, Telegram ops, SEBI 2026 compliance; source of the SSRN paper | Python · Upstox V3 · XGBoost · Flask | Runs 24/7 |
+| 🚡 **RopeIQ / Autonomous-Ropeway-Alignment** <sub>`private`</sub> | Eurocode-validated ropeway alignment optimizer — 19 real installations, four optimizers, DXF/LandXML/KML export | Python · FastAPI · PostgreSQL · PyVista | Phase 1 product |
+| 🛰️ **terra-verify** <sub>`private`</sub> | Construction progress measured from Sentinel-2 imagery; train/test separation enforced in CI | Python · Sentinel-2 · scikit-learn | Active |
+| 🚉 **pod-transit** <sub>`private`</sub> | PRT/ATN digital-twin simulator — OD demand, RL dispatch, cost/ROI vs rail & BRT, SUMO/MATSim interop, 481 tests | React · TypeScript · Three.js · Expo | Era 2 |
+| 🛣️ **linear-scheduler-app** <sub>`private`</sub> | Line-of-Balance scheduler for highways, railways & pipelines — resource leveling, print composer, DXF backgrounds | Next.js · PostgreSQL · Prisma | Phase 15 |
+| 🛠️ **GripGroup** <sub>`private`</sub> | Generative geospatial design for linear infrastructure — SRTM/PostGIS, multi-objective optimizer, LandXML export, Ray + Celery, credit-ledger billing | Python · React · PostGIS · Ray | Phase 9 |
+| 🌾 **KrishiPancham-AI** <sub>`private`</sub> | Agricultural AI companion — Panchang almanac + weather forecasts + NDVI crop health + 32 govt schemes; multilingual, voice I/O, offline-first | FastAPI · Expo · Next.js · ephem | Phases 0–5 |
+| 📱 **ExpenseTracker** <sub>`private`</sub> | Production React Native app — bank SMS parser for 10+ Indian banks, OTA updates, 4-layer dedup sync | React Native · TypeScript · MongoDB Atlas | Daily-use |
+| 🏙️ **city-companion** <sub>`private`</sub> | Privacy-first mobility telemetry + AI survey generation for traffic analytics | TypeScript · Expo · Express · Prisma | Phase 4 |
+| 🛣️ **nextgen-highspeed-toll** <sub>`private`</sub> | Zero-hardware, fully simulated highway toll digital twin | React · MongoDB · RabbitMQ · ROS 2 | MVP |
+| 🚦 **traffic-surveillance-system** <sub>`private`</sub> | Adaptive spatio-temporal traffic surveillance — helmet compliance, multi-frame wheel-count classification, real-time risk indexing | Python · Computer vision | Active |
+| 🧠 **Harsh OS** <sub>`private`</sub> | Local-first 4-agent cognitive layer for LinkedIn — Tampermonkey ↔ Ollama, local vector DB, zero data leaves the machine | Vanilla JS · Ollama | v1 |
+| 💼 **DoppelDash** <sub>`private`</sub> | Internal operational platform built during the Doppelmayr internship | TypeScript · React · Node.js · MongoDB | Phase 14 |
 
+</details>
+
+### 🌍 Open-source contributions
+
+| Project | Contribution |
+|---|---|
+| **[validatorjs/validator.js](https://github.com/validatorjs/validator.js)** | [#2683](https://github.com/validatorjs/validator.js/pull/2683) — fixed the `uz-UZ` mobile-phone regex, adding 5 missing carrier prefixes (33, 50, 55, 77, 88) |
+| **[Textualize/rich](https://github.com/Textualize/rich)** | [#4123](https://github.com/Textualize/rich/pull/4123) — removed a dead link from the README |
+| **[ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)** | Contributions to the open-source low-code platform |
+
+---
+
+## 🏅 Awards & recognition
+
+- **Smart India Hackathon 2025 — National Winner** · first team from SIT Lonavala ever to win nationally · [certificate](docs/proofs/sih-2025.jpeg)
+- **ISRO Robotics Challenge (IRoC-U 2026) — Finalist**, Automation & Navigation Lead, Team ID 10144 · [official listing](https://www.ursc.gov.in/IRoC-U2026/Shortlisted_for_EliminationRound.pdf)
+- **RoboRashtra 2026 — 1st Runner-Up**, Chakravyuh maze & line solving (₹10,000)
+- **AICTE & MIC** — selected for Phase II of the IDE Bootcamp, Ministry of Education · [certificate](docs/proofs/aicte-ide.jpeg)
+- **Bentley Systems Illuminate 2026** — digital twin / MicroStation / OpenFlows summit participant
+- **Press** — [Maval Maza](https://www.mavalmaza.com/news/SIT-lonavala-student-selected-for-prestigious-internship-in-austria-after-national-robotics-and-hackathon-success), state-level coverage
+- **PCU Ideathon 2.0** — Top 40 of 500+ teams
+
+**Certifications** — Certified Ethical Hacker Bootcamp (ZTM) · Advanced DSA (Codedamn) · Computer Networks (Udemy) · Web Developer Bootcamp 2025 (Udemy) · Data Science 101 (IBM)
 
 ---
 
 ## 🎓 Education
 
-### **Bachelor of Engineering (B.Tech) – Computer Science**
-**Sinhgad Institute of Technology (SIT), Lonavala** | Sep 2024 – Aug 2027
-- **CGPA**: 7.18/10.0 | **Sem 5 SGPA**: 8.05 (21/21 Credits Cleared ✅)
-- **5th Semester Highlights**:
-  - 🏅 **O Grade (10/10)**: Laboratory Practice I, CN & Security Lab, Seminar & Technical Communication
-  - 🔗 **Blockchain Honours**: O (Practical) + A (Theory) – aligns with IIC Cybersecurity & Blockchain leadership
-  - ⚡ **A+ in Distributed Systems** | **A in Systems Programming & OS**
-- **Relevant Coursework**: Data Structures & Algorithms, Operating Systems, DBMS, Theory of Computation, Distributed Systems, Computer Networks
-- **Leadership**: Technical Head – Web, Cybersecurity & Blockchain (IIC-SIT)
+**B.Tech, Computer Science** — Sinhgad Institute of Technology (SIT), Lonavala · Sep 2024 – Aug 2027
+CGPA 7.18 · Sem 5 SGPA 8.05 · O grade in Laboratory Practice I, CN & Security Lab, and Seminar & Technical Communication · Blockchain Honours: O (practical), A (theory) · A+ in Distributed Systems
+Coursework: Data Structures & Algorithms, Operating Systems, DBMS, Theory of Computation, Distributed Systems, Computer Networks
 
-### **Diploma in Computer Engineering (First Class with Distinction)**
-**SPM Polytechnic College, Solapur** | Apr 2021 – Mar 2024
-- **Leadership**: General Secretary (Head Boy)
-- Developed foundational expertise in OOP, data structures, and full-stack technologies
+**Diploma in Computer Engineering** (First Class with Distinction) — SPM Polytechnic, Solapur · 2021–2024 · General Secretary
+**ICSE Class 10** — Presentation Convent School, Nerul · 89 %
 
-### **ICSE – Class 10 (Science & Computer Applications)**
-**Presentation Convent School, Nerul** | Grade: 89%
+*Targeting **GATE 2027**, top-500 rank — Distributed Systems, DBMS, Theory of Computation, Computer Networks.*
 
 ---
 
-## 🎓 GATE Journey
+## ✍️ Writing & speaking
 
-### 📝 GATE 2026 – Trial Run (Feb 2026)
-- Appeared with minimal preparation to gauge the exam firsthand
-- **Key Takeaway**: The paper was doable — solved C pointers, Networking logic & Aptitude from core college knowledge alone
-- **Reality Check**: Realized focused prep of even ~1 month could have made a real difference
-
-### 🎯 GATE 2027 – Going for the Rank
-**Target Rank**: Top 500  
-**Focus Areas**: Distributed Systems, Database Design, Theory of Computation, Computer Networks  
-**Study Resources**: Operating Systems (Silberschatz), DBMS (Navathe), Discrete Math (Rosen), Physics Wallah  
-
-*Trial run is over. Next time, I'm not going for the "experience" — I'm going for the rank.* 🔥
+- **[dev.to/harshpandhe](https://dev.to/harshpandhe)** — 18 posts on robotics, system design, GitHub workflows, and Blender for autonomous systems
+- **[LinkedIn](https://www.linkedin.com/in/harshpandhe/)** — engineering write-ups: [drone-swarm safety architecture](https://www.linkedin.com/in/harshpandhe/recent-activity/all/), the `float('nan')` truthiness bug that corrupted a trading NAV, learning-curve analysis before scaling a dataset, and the SSRN paper announcement
+- **CODE2LAUNCH** — workshop leader, 70+ attendees (React, Node.js, JavaScript)
+- **Infotsav '25** — speaker (CityConnect)
 
 ---
 
-<a name="awards"></a>
-## 🏅 Certifications & Awards
-
-### 🏆 **Key Achievements** *(receipts attached where available)*
-- **National Winner**: Smart India Hackathon 2025 – First team from SIT Lonavala to win nationally · [`📄 certificate`](docs/proofs/sih-2025.jpeg) · [`💼 LinkedIn`](https://www.linkedin.com/feed/update/urn:li:activity:7404855242137276416/)
-- **🛰️ ISRO Robotics Challenge (IRoC-U 2026) – Shortlisted** (Team ID 10144) · [`📄 proof`](https://www.ursc.gov.in/IRoC-U2026/Shortlisted_for_EliminationRound.pdf)
-- **Robotics Runner-Up**: RoboRashtra 2026 – 1st Runner-Up in Chakravyuh (Maze & Line Solving), ₹10,000 Prize
-- **AICTE & MIC Recognition**: Selected for **Phase II of the IDE Bootcamp** (Ministry of Education) · [`📄 certificate`](docs/proofs/aicte-ide.jpeg) · [`💼 LinkedIn`](https://www.linkedin.com/feed/update/urn:li:activity:7453476751269281792/)
-- **Industry Exposure**: Participant – **Bentley Systems Illuminate 2026** (Digital Twin / MicroStation / OpenFlows summit)
-- **Press Feature**: [Maval Maza Newspaper](https://www.mavalmaza.com/news/SIT-lonavala-student-selected-for-prestigious-internship-in-austria-after-national-robotics-and-hackathon-success) – State-level coverage for technical innovation
-- **Published Researcher**: Research paper on Collaborative Code Editor (IRJMETS, Jan 2024)
-- **National Finalist**: SIH 2025 National Finals
-- **Top 40**: PCU Ideathon 2.0 (500+ teams)
-- **Open Source**: 100+ GitHub repositories with 1,200+ contributions YTD (315+ PRs merged May–June 2026 alone)
-- **Mentorship**: Trained 70+ junior developers
-
-### 📜 **Professional Certifications**
-- ✅ **Embedded Systems & Microcontroller Programming** — hands-on at RoboRashtra 2026 (NN inference on Teensy 4.1)
-- ✅ **Certified Ethical Hacker Bootcamp** (ZTM Academy) – Penetration Testing, Kali Linux, OWASP
-- ✅ **Advanced DSA** (Codedamn) – Algorithm optimization
-- ✅ **Computer Networks Fundamentals** (Udemy) – OSI, TCP/IP
-- ✅ **Web Developer Bootcamp 2025** (Udemy) – Modern web stack
-- ✅ **Data Science 101** (IBM) – Data analysis & visualization
-
----
-
-## 🎤 Public Speaking & Content
-
-- ✍️ **Dev.to blog** – [dev.to/harshpandhe](https://dev.to/harshpandhe) · 18 posts on robotics, GitHub workflows, system design, Blender for autonomous systems
-- 🏅 **Published Researcher** – "Collaborative Real-Time Code," IRJMETS, Jan 2024
-- 🎓 **Workshop Leader** – CODE2LAUNCH (React, Node.js, JS) – 70+ attendees
-- 🎙️ **Speaker** – Infotsav'25 (CityConnect presentation)
-
-### 📌 Featured LinkedIn posts
-
-- 🛰️ [IRoC-U 2026 announcement](https://www.linkedin.com/feed/update/urn:li:activity:7452033343967342592/) — "Ganpati Bappa Morya 🚀"
-- 📰 [Maval Maza press feature](https://www.linkedin.com/feed/update/urn:li:activity:7453145319988584448/) — Doppelmayr Austria selection
-- 🧠 [Harsh OS — 4-agent local-AI LinkedIn extension](https://www.linkedin.com/posts/harshpandhe_ai-localfirst-networking-activity-7461492370967232512-84JQ/) — "Digital Twin" Tampermonkey + Ollama
-- 🎬 [Project Morpheus 2026 retro](https://www.linkedin.com/posts/harshpandhe_projectmorpheus-hackathon-sitlonavala-activity-7434169134906626048-IcD-/) — national 24-hr hackathon
-- 🤖 [RoboRashtra 2026 — Edge AI deep-dive](https://www.linkedin.com/posts/harshpandhe_edgeai-embeddedsystems-robotics-activity-7424771949643452416-ncmo/) · [Engineering retro](https://www.linkedin.com/posts/harshpandhe_engineering-robotics-neuralnetworks-activity-7424551299712475137-NdTw/)
-- 🏆 [SIH 2025 National Winner](https://www.linkedin.com/posts/harshpandhe_sih2025-smartindiahackathon-themastermind-activity-7404855242137276416-JKIQ/) — Telhan Sathi
-- 🌱 [Kalpataru 2026 launch](https://www.linkedin.com/posts/harshpandhe_kalpataru2026-projectmorpheus-innovation-activity-7409636709627252736-I9DK/)
-- 🎯 [PCU Ideathon — Top 40 / Money Heist theme](https://www.linkedin.com/posts/harshpandhe_pcuideathon2025-hackathon-moneyheist-activity-7409646169880137728-OtwB/)
-- 🚁 [ASCEND drone scrollytelling site build](https://drone-workshop-iic.vercel.app/) — Next.js 14 + Canvas API LiDAR sim
-- ❄️ [Smart Water Cooler IoT](https://www.linkedin.com/posts/harshpandhe_esp32-embeddedsystems-iot-activity-7430595715212599296-uGfE/) — ESP32 + Firebase live dashboard
-- 📝 [GATE 2026 trial-run reality check](https://www.linkedin.com/posts/harshpandhe_gate2026-computerscience-engineering-activity-7426278165796528128-ZsoY/)
-- 🎪 [Infotsav '25 — Hackatron @ IIITM Gwalior](https://www.linkedin.com/posts/harshpandhe_infotsav25-hackatron-iiitmgwalior-activity-7384599984135880704-4C4A/)
-- 🎓 [CODE2LAUNCH workshop](https://www.linkedin.com/posts/harshpandhe_sitacm-code2launch-developercommunity-activity-7384317224519368704-5UjH/)
-- 🛡️ [IIC Technical Head joining](https://www.linkedin.com/posts/harshpandhe_newrole-techleadership-cybersecurity-activity-7384251231478829057-qsqP/)
-
----
-
-## 📖 Currently Reading / Learning
-
-- 📕 *Probabilistic Robotics* — Thrun, Burgard & Fox (Bayesian SLAM + sensor fusion for IRoC drone)
-- 📗 **Eurocode EN 1991-1-4** (wind) **+ EN 1993-1-1** (steel) — actively wired into Autonomous-Ropeway-Alignment
-- 📘 **Upstox V3 API + MarketDataStreamerV3** — AlgoTrade phase-5 WebSocket migration
-- 🦙 **Ollama + Llama 3.2 / Phi-4** — AlgoTrade phase-7 local LLM cutover from cloud Gemini
-- 🎓 **Blender for robotics** — building synthetic training arenas (see [dev.to blog](https://dev.to/harshpandhe/why-im-learning-blender-to-build-better-autonomous-systems-5g3d))
-
----
-
-## 🌐 Languages & Interests
-
-**Languages**: 🇮🇳 Marathi (Native) | 🇬🇧 English (Professional) | 🇮🇳 Hindi (Professional) | 🇪🇸 Spanish (Elementary)
-
-**Interests**: Quantum algorithms (Qiskit), Post-Quantum Cryptography, DeSci, LLM Security, Autonomous Navigation, Robotics Engineering, Embedded AI, Drone Robotics, Gym & Fitness
-
----
-
-<a name="connect"></a>
-## 🤝 Let's Connect
+## 📊 GitHub activity
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/harshpandhe/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Harsh%20Pandhe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/HarshPandhe" target="_blank"><img src="https://img.shields.io/badge/X_(Twitter)-@HarshPandhe-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://github.com/harsh-pandhe" target="_blank"><img src="https://img.shields.io/badge/GitHub-harsh--pandhe-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://dev.to/harshpandhe" target="_blank"><img src="https://img.shields.io/badge/Dev.to-harshpandhe-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
-  <a href="https://instagram.com/harsh_pandhe" target="_blank"><img src="https://img.shields.io/badge/Instagram-harsh__pandhe-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <img src="https://streak-stats.demolab.com?user=harsh-pandhe&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Harsh Pandhe's GitHub contribution streak" height="165" />
 </div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harsh-pandhe&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="Harsh Pandhe's GitHub trophies" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harsh-pandhe/harsh-pandhe/output/github-snake-dark.svg" />
+    <img alt="Contribution graph rendered as a snake game" src="https://raw.githubusercontent.com/harsh-pandhe/harsh-pandhe/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## 🚀 What's next
+
+- [ ] **IRoC-U 2026 Finals** — clear the final round with ISRO
+- [ ] Get the negative-result paper onto **arXiv q-fin.PM** (seeking endorsement)
+- [ ] **RopeIQ** — industry outreach and enterprise validation
+- [ ] **ChronoTrack** — enterprise pilot deployment
+- [ ] **pod-transit Era 2** — finish the fleet / ROW / geo-export track
+- [ ] **terra-verify** — publish the validation methodology
+- [ ] **GATE 2027** — top-500 rank
+- [ ] Speak at a robotics or edge-AI conference
+- [x] ✅ Publish quantitative research to **SSRN**
+- [x] ✅ Ship the **Taramandal** studio → GCS pipeline
+- [x] ✅ **MARS** Phase 2 — CBF safety filter, collision avoidance, 100 % coverage
+- [x] ✅ **ChronoTrack v3.2.5** — 2FA, team-lead dashboards, auto-update installer
+- [x] ✅ Open-source the **maze-solver neural network** firmware ([Bot](https://github.com/harsh-pandhe/Bot))
+
+---
+
+<a name="contact"></a>
+## 🤝 Contact
+
+**Open to:** research collaborations · open-source work · robotics, autonomy and quantitative engineering roles.
+**Particularly interested in:** autonomous navigation · multi-agent systems · geospatial infrastructure · quantitative research · distributed systems.
 
 <p align="center">
-  <a href="https://cal.com/harshpandhe" target="_blank"><img src="https://img.shields.io/badge/📅_Book_a_15--min_chat-Cal.com-7c3aed?style=for-the-badge" /></a>
-  <a href="mailto:harshpandhehome@gmail.com"><img src="https://img.shields.io/badge/📧_Email_me-harshpandhehome@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:harshpandhehome@gmail.com"><img src="https://img.shields.io/badge/Email-harshpandhehome@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Harsh Pandhe" /></a>
+  <a href="https://cal.com/harshpandhe"><img src="https://img.shields.io/badge/Book_a_15--min_chat-Cal.com-7c3aed?style=for-the-badge" alt="Book a call with Harsh Pandhe" /></a>
+  <a href="https://www.linkedin.com/in/harshpandhe/"><img src="https://img.shields.io/badge/LinkedIn-Harsh_Pandhe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/HarshPandhe"><img src="https://img.shields.io/badge/X-@HarshPandhe-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
 </p>
-
-**Open to**: Open-source contributions (blockchain & distributed systems) · Consulting (blockchain architecture & system design) · Speaking gigs · Research collaborations.
-**Particularly interested in**: Web3 infrastructure · Distributed Systems · Quantum-ready Cryptography · Autonomous Robotics.
-
----
-
-## 👾 Pacman Contribution Graph
-
-<div align="center">
-  <img src="https://pacman.abozanona.me?username=harsh-pandhe&platform=github" alt="pacman contribution graph" width="100%"/>
-</div>
-
----
-
-<details>
-<summary>🎧 Spotify (Recently Played) · 👀 Visitor Count</summary>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31xnn7cpwjeforao35r4rxlrgk4m">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xnn7cpwjeforao35r4rxlrgk4m&count=5" alt="Spotify recently played" />
-  </a>
-  <br><br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=harsh-pandhe.harsh-pandhe&theme=dark&color=0891b2" alt="Visitor Badge" />
-</div>
-
-</details>
-
----
-
-## 🚀 What's Next?
-
-- [x] ✅ Publish RoboRashtra technical deep-dive — [LinkedIn post](https://www.linkedin.com/posts/harshpandhe_edgeai-embeddedsystems-robotics-activity-7424771949643452416-ncmo/)
-- [x] ✅ Build local-first multi-agent AI extension — [Harsh OS](https://github.com/harsh-pandhe/Linkedin)
-- [x] ✅ Launch **3D multiplayer chess** — Stockfish AI + Supabase real-time
-- [x] ✅ Ship **NextGen High-Speed Toll** digital twin MVP (ROS 2 + Gazebo)
-- [x] ✅ Build **Air-Gapped NetOps AI** — local ML + RAG, zero internet
-- [x] ✅ Ship **Autonomous-Ropeway-Alignment** Phase 1 (3D terrain + RopeIQ rebrand + AACE capex)
-- [x] ✅ Built **MARS** — Multi-Agent Robot Swarm (MAPPO/CTDE + GNN policy + ROS 2 + Gazebo)
-- [ ] **IRoC-U 2026 Elimination Round** — clear it
-- [ ] **Autonomous-Ropeway-Alignment** Phase 16+ — industry outreach & enterprise validation
-- [x] ✅ **ChronoTrack v3.0.0** — real backend + AI daemon + analytics + Windows installer shipped
-- [x] ✅ **AlgoTrade** — Ollama local LLM + Telegram bot + SEBI 2026 compliance live (Phase D1)
-- [x] ✅ **ChronoTrack** completion push — light-first UI redesign + security/scale hardening (Phases 1–6)
-- [x] ✅ **MARS** Phase 2 — CBF safety filter + collision avoidance + 100% area coverage
-- [x] ✅ Launch **Taramandal-GCS** — drone-swarm show GCS with safety monitor & 3-D previewer
-- [ ] Deploy **ChronoTrack** to enterprise pilot (1,600+ seat target)
-- [ ] Ship **city-companion** v1.0 production release
-- [ ] **KrishiPancham-AI** Phase 6+ — expanded scheme coverage
-- [ ] **iroc-ascend-nav** — clear Phase 55 fleet-calibrated stability gate on real hardware
-- [ ] Open-source the **Maze Solver NN** training pipeline & firmware
-- [ ] **GATE 2027** — top-500 rank 🎯
-- [ ] Speak at robotics / Edge AI conferences
-
-*Follow my journey on [LinkedIn](https://linkedin.com/in/harshpandhe) & [GitHub](https://github.com/harsh-pandhe)*
-
----
-
-<p align="center">
-  <em>"Always building, learning, and sharing across blockchain, AI/ML, cloud, web, and cybersecurity."</em>
-</p>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harsh-pandhe/harsh-pandhe/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harsh-pandhe/harsh-pandhe/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/harsh-pandhe/harsh-pandhe/output/github-snake.svg" />
-</picture>
-</div>
-
----
 
 <p align="center">
   <sub>
-    📍 <strong>Location</strong>: Navi Mumbai, Maharashtra, India<br>
-    🌐 <strong>Website</strong>: <a href="https://harshpandhe.com">harshpandhe.com</a><br>
-    📧 <strong>Email</strong>: harshpandhehome@gmail.com | 📱 <strong>Phone</strong>: +91-7208783332
+    📍 Navi Mumbai, Maharashtra, India · 🌐 <a href="https://harshpandhe.com">harshpandhe.com</a> · 📧 harshpandhehome@gmail.com
   </sub>
 </p>
+
+<p align="center"><sub>
+<em>Keywords: autonomous navigation engineer · multi-agent reinforcement learning · ROS 2 developer · PX4 drone software · LiDAR SLAM · Control Barrier Functions · quantitative research India · Nifty 500 momentum · Sentinel-2 remote sensing · ropeway alignment optimization · Harsh Pandhe</em>
+</sub></p>
