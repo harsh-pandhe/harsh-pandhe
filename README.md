@@ -2,7 +2,7 @@
 
 **Harsh Pandhe** is a robotics and systems engineer based in Navi Mumbai, India. He builds autonomous navigation stacks (ROS 2, PX4, LiDAR SLAM), multi-agent reinforcement learning for robot swarms, quantitative trading research, and geospatial infrastructure software. He is a **Software Development Intern at Doppelmayr**, a **Finalist and Automation & Navigation Lead at the ISRO Robotics Challenge (IRoC-U 2026)**, the **Smart India Hackathon 2025 National Winner**, and an **SSRN-published quantitative finance researcher**.
 
-> Teensy firmware, a Rust order-matching engine, Sentinel-2 pipelines, ROS 2 swarms, Solidity contracts. Ninety-nine public repositories in, the range is less scattered than it looks — I keep landing in the same place: **systems that touch the physical world, where being wrong is expensive and nobody grades you on the demo.**
+> Teensy firmware, a Rust order-matching engine, Sentinel-2 pipelines, ROS 2 swarms, Solidity contracts. A hundred public repositories in, the range is less scattered than it looks — I keep landing in the same place: **systems that touch the physical world, where being wrong is expensive and nobody grades you on the demo.**
 
 <p align="center">
   <a href="https://harshpandhe.com"><img src="https://img.shields.io/badge/Portfolio-harshpandhe.com-0891b2?style=for-the-badge" alt="Portfolio: harshpandhe.com" /></a>
@@ -36,7 +36,7 @@ publications:
   - IRJMETS (2024) — "Collaborative Real-Time Code" (distributed systems)
 leadership:  Web, Cybersecurity & Blockchain Head, IIC-SIT · Lead Organizer, Project Morpheus 2026
 core_stack:  [ROS 2, PX4, Gazebo, Python, PyTorch, Rust, TypeScript, Next.js, PostgreSQL, Solidity, Docker]
-open_source: 99 public repositories · upstream contributor to validator.js and Textualize/rich
+open_source: 100 public repositories · upstream contributor to validator.js and Textualize/rich
 contact:     harshpandhehome@gmail.com · https://harshpandhe.com · https://github.com/harsh-pandhe
 open_to:     Research collaborations · Open-source work · Robotics & quant roles
 ```
@@ -48,14 +48,14 @@ open_to:     Research collaborations · Open-source work · Robotics & quant rol
 <a name="currently"></a>
 ## 🟢 What I'm working on right now
 
-- 🛰️ **ISRO Robotics Challenge (IRoC-U 2026)** — Finalist and Automation & Navigation Lead. The simulation arena is now built end-to-end: all 15 rule-book features sculpted in Blender, a reusable `verify_assets.py` gate so a missing mesh fails the build rather than the mission, and a base-station screen face and comms antenna to spec. An N=30 validation campaign closed at **30/30 autonomy runs**, after a first pass at 21/30 was root-caused to host load contention and a vision proxy that died between sorties — fixed by making it mission-spanning and fail-safe.
-- 🚡 **[RopeIQ / Autonomous-Ropeway-Alignment](https://github.com/harsh-pandhe/Autonomous-Ropeway-Alignment) is now open source** — and running in production behind a systemd unit and a Cloudflare tunnel. Recent work is the unglamorous kind: a **Postgres PITR proof-of-concept with a verified restore**, a citation-regression suite for the permitting RAG copilot, guardrails so AI refine never silently complies with an unsafe request, a missing secret key that was quietly minting a new one every boot, and a LiDAR job endpoint that returned other users' jobs.
-- 💼 **Doppelmayr** — owning navigation and automation work on **DoppelDash** and ropeway automation, inside confidential projects valued in the millions, against strict international engineering standards.
-- 🎆 **Taramandal** — Studio and GCS are now **one monorepo**: `tara-core` holding the single source of truth for safety limits (the cross-repo mismatch that once rejected a locally-valid show can no longer exist), `tara-sim` a vectorized simulator that scales past 100 drones, and a `tara` CLI that is one command up and one Ctrl+C down. Plus a georeferenced CesiumJS Earth view and a night-sky audience view — what the show actually looks like from the ground. Now **open to contributors**: onboarding docs, issue/PR templates, a labelled backlog split into `track:studio` and `track:gcs`, and the first outside PR (per-drone telemetry CSV export) merged.
-- 🛡️ **[netguard-ml](https://github.com/harsh-pandhe/netguard-ml)** — leakage-free ML intrusion detection on CIC-IDS2017 with a real pcap / live-capture path via NFStream. Re-running the pipeline against the *corrected* CIC-IDS2017 forced me to **retract a published claim** from my own README. The deployable model also turned out to detect nothing at all on live packets — a gap that only shows up if you actually run it on packets.
-- 📊 **AlgoTrade** — the research arm ran five overlays through significance testing this window: sector-neutral and sector-capped momentum, a multi-timeframe blend, banded rebalancing, and Smallcap 250 vs Nifty 500. A GDELT geopolitical-stress overlay and HRP weighting were both **rejected on the data** and written up as such. Ops side: a FinBERT tone index over the Indian financial press, and a NAV snapshot that now refuses to mark a book it can't fully price.
+- 📊 **AlgoTrade — the paper system now has a real-money sibling.** An isolated **live pilot track** runs beside the paper book with a fail-closed kill switch, a cumulative retained-notional capital ceiling defended in two layers, broker-order-book idempotency (quantity match required, not just symbol), partial-fill and zero-fill terminal-state handling, missed-day backfill, a stale-date order-placement guard, and `/exit_all_live` emergency liquidation that syncs TradeDB and re-snapshots NAV. Separately, the cost model was **wrong and is now right**: Upstox delivery brokerage is a flat ₹20/order plus DP charges, not proportional-capped — the fixed fee was never actually wired into the vectorbt simulation, so the baseline and concentration studies were re-run from scratch.
+- 🎆 **Taramandal is being built by other people now.** The contributor backlog turned into merged work this window: a **1,000-drone WebGL night-sky viewport with a live deviation HUD**, an asymmetric 10 Hz broadcast downlink with a 0.5 Hz slotted TDMA uplink, a vector/glyph/3-D-mesh point-cloud **voxelizer**, a 30° inverted **downwash-cone penalty** folded into Hungarian assignment, a modular scene sequencer with a director timeline, auto-pacing by drone count, and N=50/100 regression tests across all five shape generators. Plus GitHub Actions CI and KiCad PCB baselines for the hardware track.
+- 💼 **Doppelmayr** — **DoppelDash** went multi-tenant: full `orgId` route scoping, an organization self-signup path, and mobile Bearer-token auth with refresh-token rotation. Registration was deliberately taken offline during the isolation migration and re-enabled only once scoping was complete. Still inside confidential projects valued in the millions, against strict international engineering standards.
+- 🛰️ **ISRO Robotics Challenge (IRoC-U 2026)** — Finalist and Automation & Navigation Lead. The simulation arena is built end-to-end: all 15 rule-book features sculpted in Blender, a reusable `verify_assets.py` gate so a missing mesh fails the build rather than the mission, and a base-station screen face and comms antenna to spec. An N=30 validation campaign closed at **30/30 autonomy runs**, after a first pass at 21/30 was root-caused to host load contention and a vision proxy that died between sorties.
+- 🚡 **RopeIQ / Autonomous-Ropeway-Alignment** — now deployed as a real service, not a script: a systemd unit, a Cloudflare tunnel, a pinger, and a written production-env guide. Recent engineering is the unglamorous kind — a **Postgres PITR proof-of-concept with a verified restore**, a citation-regression suite for the permitting RAG copilot, guardrails so AI refine never silently complies with an unsafe request, a missing secret key that was quietly minting a new one every boot, and a LiDAR job endpoint that returned other users' jobs.
+- 🤖 **MARS is being turned into a paper, and the paper is being made honest.** A 25-run, 5-world benchmark (warehouse, cafe, depot, office, maze) put MAPPO head-to-head with a frontier heuristic — and MAPPO is now formally documented as a *does-not-work* baseline rather than quietly dropped. A 3-arm reward ablation re-run to n=9 with Welch's t-tests, a pseudoreplication error caught in external review and corrected, evaluation non-determinism disclosed, heterogeneous Pioneer 2DX robots and dynamic-obstacle CBF tests added. The repo is now archived on **Zenodo (DOI [10.5281/zenodo.22758286](https://doi.org/10.5281/zenodo.22758286))** with a machine-portable arXiv bundle.
 
-<sub>↻ Updated 2026-08-28</sub>
+<sub>↻ Updated 2026-09-29</sub>
 
 ---
 
@@ -86,17 +86,19 @@ Cooperative area coverage with a TurtleBot3 swarm in ROS 2 Jazzy + Gazebo.
 - A **permutation-invariant GNN policy** that scales to any fleet size *without retraining* — neighbour embeddings pooled through a shared MLP, invalid agents masked
 - A **Control Barrier Function safety filter** solving a QP at 20 Hz to guarantee zero collisions, with nominal-control fallback so a failed solve can't deadlock the robot
 - Active Collision Avoidance Safeguard, range-limited consensus map sync, semantic vision, **100 % area coverage** in continuous-exploration evaluation
+- 25-run, 5-world MAPPO-vs-frontier-heuristic benchmark with a reward ablation under Welch's t-tests — MAPPO reported as a negative result, not buried · archived on [Zenodo](https://doi.org/10.5281/zenodo.22758286)
 
 `Python` · `ROS 2 Jazzy` · `Ray RLlib` · `PyTorch` · `PettingZoo` · `Gazebo`
 
-### [Taramandal — drone-show GCS + choreography studio](https://github.com/harsh-pandhe/Taramandal-GCS)
-Ground-control and Software-in-the-Loop suite for autonomous drone-show fleets.
+### Taramandal — drone-show GCS + choreography studio <sub>`private`</sub>
+Ground-control and Software-in-the-Loop suite for autonomous drone-show fleets, built with an invited contributor team.
 
 - **Hungarian-assignment formation morphing** between choreography states
 - Layered safety loop: pre-flight launch-geometry check (0.5 m tolerance), live proximity rings (2.0 m lateral separation → immediate RTL), a 30 m cylinder geofence triggering emergency landing
 - FastAPI + MAVSDK gRPC-to-REST bridge streaming telemetry at 5 Hz over WebSockets; React Three Fiber 3-D previewer; `.skyc` import; RTK and latency telemetry
 - Studio and GCS now live in **one monorepo**: `tara-core` (single source of truth for safety limits), `tara-sim` (vectorized, 100+ drones), and a `tara` CLI — one command up, one Ctrl+C down
-- Georeferenced **CesiumJS** Earth view plus a night-sky audience view that renders the show as the ground sees it
+- Georeferenced **CesiumJS** Earth view plus a **1,000-drone night-sky audience viewport** with a live deviation HUD — the show as the ground sees it
+- Asymmetric 10 Hz broadcast downlink and 0.5 Hz slotted TDMA uplink; downwash-cone penalty folded into Hungarian assignment; modular scene sequencer and director timeline
 
 `Python` · `PX4` · `Gazebo` · `MAVSDK` · `FastAPI` · `React` · `Three.js` · `CesiumJS`
 
@@ -132,7 +134,7 @@ Infrastructure intelligence from **Sentinel-2**: automated measurement of constr
 
 `Python` · `Sentinel-2` · `Rasterio` · `scikit-learn`
 
-### [RopeIQ / Autonomous-Ropeway-Alignment](https://github.com/harsh-pandhe/Autonomous-Ropeway-Alignment) — Eurocode-validated optimizer <sub>`open source`</sub>
+### RopeIQ / Autonomous-Ropeway-Alignment — Eurocode-validated optimizer <sub>`private`</sub>
 DEM + two station coordinates → permit-grade aerial ropeway alignment (towers, catenary, safety envelope, DXF, LandXML, Google Earth KML, 3-D twin, BOM, capex) in under 15 seconds on a laptop.
 
 - **Validated against 19 real installations** across 6 system archetypes on 5 continents — Aiguille du Midi 0.6 %, Zugspitze 2.7 %, Whistler Peak2Peak 7.2 %
@@ -140,6 +142,7 @@ DEM + two station coordinates → permit-grade aerial ropeway alignment (towers,
 - Eurocode envelope: EN 12929-1 clearance · EN 1991-1-4 wind · ISO 12494 ice · EN 1993-1-1 tower buckling · ANSI B77.1 live load
 - Four optimizers benchmarked head-to-head: DEAP GA · pymoo NSGA-II · stable-baselines3 PPO · scikit-learn RSM surrogate
 - REST service with JWT auth, RBAC, platform-owner role separation, audit log, immutable project snapshots; 157 pytest cases, CI on every push
+- Running in production behind a systemd unit and a Cloudflare tunnel, with Postgres PITR and a verified restore
 
 `Python` · `FastAPI` · `PostgreSQL` · `PyVista` · `Docker` · `Copernicus GLO-30 DEM`
 
@@ -229,16 +232,18 @@ Overseeing web, security and blockchain across campus initiatives for 500+ stude
 ## 📚 Full project index
 
 <details>
-<summary><strong>All 99 public repositories — expand for the full list</strong></summary>
+<summary><strong>All 100 public repositories — expand for the full list</strong></summary>
 
 | Project | What it is | Stack | Status |
 |---|---|---|---|
-| 🛰️ **[Taramandal-GCS](https://github.com/harsh-pandhe/Taramandal-GCS)** | Drone-swarm monorepo — `tara-core` unified safety limits, `tara-sim` vectorized 100+ drone simulator, `tara` CLI, CesiumJS georeferenced Earth + night-sky audience views, RViz/TF bridge, geofence auto-abort, `.skyc` import; Studio folded in as `packages/tara-studio` | Python · PX4 · FastAPI · React · Three.js | Monorepo · open to contributors |
-| 💰 **[Autonomous-Ropeway-Alignment (RopeIQ)](https://github.com/harsh-pandhe/Autonomous-Ropeway-Alignment)** | Eurocode-validated ropeway alignment optimizer, **now open source** — 19 validated real installations, four optimizers, DXF/LandXML/KML export, permit dossier with CAPEX + span summary, Postgres PITR with verified restore | Python · FastAPI · PostgreSQL · PyVista | Public · in production |
+| 🛰️ **Taramandal-GCS** <sub>`private`</sub> | Drone-swarm monorepo — `tara-core` unified safety limits, `tara-sim` vectorized simulator, `tara` CLI, 1,000-drone night-sky viewport with deviation HUD, broadcast/TDMA link layer, point-cloud voxelizer, downwash-cone optimizer, scene sequencer, CesiumJS Earth view, `.skyc` import | Python · PX4 · FastAPI · React · Three.js | Monorepo · contributor team |
+| 💰 **Autonomous-Ropeway-Alignment (RopeIQ)** <sub>`private`</sub> | Eurocode-validated ropeway alignment optimizer — 19 validated real installations, four optimizers, DXF/LandXML/KML export, permit dossier with CAPEX + span summary, Postgres PITR with verified restore | Python · FastAPI · PostgreSQL · PyVista | In production · systemd + Cloudflare tunnel |
 | 🛡️ **[netguard-ml](https://github.com/harsh-pandhe/netguard-ml)** | Leakage-free ML intrusion detection on CIC-IDS2017 — honest evaluation protocol, zero-day evaluation across both corpora, real pcap / live-capture path via NFStream, `REPRODUCE.md` for a clean-clone rebuild | Python · scikit-learn · PyTorch · NFStream | Public |
 | 🚚 **[fleetcommand-platform](https://github.com/harsh-pandhe/fleetcommand-platform)** | FleetCommand V2 — Flutter mobile + Spring Boot backend, phase roadmap and a go/pivot review template gating pilot success | Flutter · Spring Boot · C++ | Scaffold · V2 |
 | 🚦 **[traffic-surveillance-system](https://github.com/harsh-pandhe/traffic-surveillance-system)** | Adaptive spatio-temporal traffic surveillance, **now public** — vehicle-box-first tracking with helmet checks gated to two-wheelers, multi-frame wheel-count classification, ONNX export | Python · DeepSORT · OSNet · ONNX | Public · paper in review |
-| 🤖 **[MARS](https://github.com/harsh-pandhe/MARS)** | Multi-agent TurtleBot3 swarm — MAPPO/CTDE, permutation-invariant GNN policy, 20 Hz CBF safety QP, 100 % coverage | Python · ROS 2 · Ray RLlib · PyTorch | Phase 2 |
+| 🤖 **[MARS](https://github.com/harsh-pandhe/MARS)** | Multi-agent TurtleBot3 swarm — MAPPO/CTDE, permutation-invariant GNN policy, 20 Hz CBF safety QP, 100 % coverage; 5-world benchmark with MAPPO reported as a negative result, Zenodo DOI | Python · ROS 2 · Ray RLlib · PyTorch | Zenodo DOI · arXiv prep |
+| 🚛 **[SIH26137](https://github.com/harsh-pandhe/SIH26137)** | FleetOps command-center prototype for a Smart India Hackathon 2026 problem statement — mobile-responsive slide-over nav, touch map, sheet modals, command palette | TypeScript | Prototype |
+| 🌾 **[kisan-micro-erp](https://github.com/harsh-pandhe/kisan-micro-erp)** | Offline-first micro-ERP for small farm businesses | TypeScript | Just started |
 | 🤖 **[Bot](https://github.com/harsh-pandhe/Bot)** | Teensy 4.1 neural maze solver + line follower — RoboRashtra 2026 1st Runner-Up | C++ · Teensy 4.1 · Neural networks | Competition winner |
 | 🌐 **[airgapped-netops-ai](https://github.com/harsh-pandhe/airgapped-netops-ai)** | Fully offline NOC copilot — citation-aware RAG, Isolation Forest anomaly detection, SHAP explainability; 5-job CI with coverage gate & secret scanning | FastAPI · React · Ollama · ChromaDB | Tracks 1–3 · CI hardened |
 | ⏱️ **[ChronoTrack](https://github.com/harsh-pandhe/ChronoTrack)** | Privacy-respecting workforce telemetry & project-ROI platform — Electron agent + Python AI daemon + web dashboard, GDPR/DPDP-compliant, 2FA with TOTP & passkeys | Electron · Python · React · PostgreSQL | v3.2.5 |
@@ -253,7 +258,7 @@ Overseeing web, security and blockchain across campus initiatives for 500+ stude
 | 📅 **[365DaysOfCodeChallenge2k25](https://github.com/harsh-pandhe/365DaysOfCodeChallenge2k25)** | A year-long daily coding challenge, in public — CodeQL-clean, dependency CVEs patched via overrides | Python · Web | Day 139 |
 | 📡 **[Lidar](https://github.com/harsh-pandhe/Lidar)** · **[thermal](https://github.com/harsh-pandhe/thermal)** · **[UWB](https://github.com/harsh-pandhe/UWB)** | Sensor-integration research modules for the ASCEND / IRoC drone stack | Python | Research |
 | 🛰️ **iroc-ascend-nav** <sub>`private`</sub> | IRoC drone nav stack — simulation-first on a 1-year pure-sim roadmap; pure-Python 3-D occupancy mapping + 3-D A\* planning, Three.js dashboard, Mars heightmap terrain | Python · ROS 2 · NumPy · Three.js | Simulation-first |
-| 📊 **AlgoTrade** <sub>`private`</sub> | Systematic NSE momentum system — HMM regime, XGBoost research, Ollama LLM layer, Telegram ops, SEBI 2026 compliance; source of the SSRN paper | Python · Upstox V3 · XGBoost · Flask | Runs 24/7 |
+| 📊 **AlgoTrade** <sub>`private`</sub> | Systematic NSE momentum system — HMM regime, XGBoost research, Ollama LLM layer, Telegram ops, SEBI 2026 compliance; isolated real-money live pilot track with fail-closed kill switch, capital ceiling, order idempotency and emergency liquidation; source of the SSRN paper | Python · Upstox V3 · XGBoost · Flask | Runs 24/7 · live pilot |
 | 🛰️ **terra-verify** <sub>`private`</sub> | Construction progress measured from Sentinel-2 imagery; train/test separation enforced in CI. Formal backtest scorecard over six real sites incl. sourced negative cases, PIF land-cover limitation documented rather than papered over, AOI-draw UI with SSE job status | Python · Sentinel-2 · FastAPI · Next.js | Backtest scorecard · v0.3.0 |
 | 🚉 **pod-transit** <sub>`private`</sub> | PRT/ATN digital-twin simulator — OD demand, RL dispatch, cost/ROI vs rail & BRT, SUMO/MATSim interop, 481 tests | React · TypeScript · Three.js · Expo | Era 2 |
 | 🛣️ **linear-scheduler-app** <sub>`private`</sub> | Line-of-Balance scheduler for highways, railways & pipelines — resource leveling, print composer, DXF backgrounds | Next.js · PostgreSQL · Prisma | Phase 15 |
@@ -263,13 +268,13 @@ Overseeing web, security and blockchain across campus initiatives for 500+ stude
 | 🏙️ **city-companion** <sub>`private`</sub> | Privacy-first mobility telemetry + AI survey generation for traffic analytics | TypeScript · Expo · Express · Prisma | Phase 4 |
 | 🛣️ **nextgen-highspeed-toll** <sub>`private`</sub> | Zero-hardware, fully simulated highway toll digital twin | React · MongoDB · RabbitMQ · ROS 2 | MVP |
 | 🏗️ **agentic-cost-forecasting** <sub>`private`</sub> | Predictive cost forecasting + EPC contract analysis — CPWD DSR 2023 rate library across six trades, append-only versioned Rate Vault, evidence graph, GlobalId-exact IFC revision diff, sub-clause citation resolution | Python · IFC · RAG · Postgres | Phase 3 |
-| 💇 **queuepay** <sub>`private`</sub> | QR-scan-to-pay salon queue booking — Next.js web + Flutter Android on Supabase, RLS-first data model, labelled good-first-issue backlog | TypeScript · Flutter · Supabase | Phase 1 MVP |
+| 💇 **queuepay** <sub>`private`</sub> | QR-scan-to-pay salon queue booking — Next.js web + Flutter Android on Supabase, RLS-first data model, labelled good-first-issue backlog, Dependabot + CI from day one; first outside contribution (architecture flow diagram) merged | TypeScript · Flutter · Supabase | Phase 1 MVP |
 | 🧾 **rentclear** <sub>`private`</sub> | Rent payment that stays TDS-compliant — s.194-IB / Form 26QC / Form 16C, UPI rail, PAN verification behind an Edge Function, citations re-grounded on the Income-tax Act 2025 | Flutter · Supabase · Razorpay | Phase 1 |
 | 🚕 **RideRadar** <sub>`private`</sub> | Cab-fare aggregator across Uber/Ola/Rapido/Namma Yatri — real ONDC Beckn subscriber layer, TRV10 ride-hailing and TRV11 transit-to-QR-ticket flows, luggage/payload filter | Python · ONDC Beckn · Expo · Appium | ONDC pre-prod |
-| ⛽ **fuel-margdarshak** <sub>`private`</sub> | Fuel-station finder with Android Auto, route search, territory game and a B2B partner analytics dashboard — offline-first SQLite with observation-time conflict resolution | Flutter · Supabase · Android Auto | V6 |
+| ⛽ **fuel-margdarshak** <sub>`private`</sub> | Fuel-station finder with Android Auto, route search, territory game and a B2B partner analytics dashboard — offline-first SQLite with observation-time conflict resolution, favourites/My Places, Devanagari keyword fallback | Flutter · Supabase · Android Auto | Play Store prep |
 | 📷 **[esp32cam-01…06](https://github.com/harsh-pandhe?tab=repositories&q=esp32cam)** | Six teaching-grade ESP32-CAM builds — live stream, SD-card timestamping, photo booth, timelapse, PIR security, Telegram alerts | C++ · ESP32-CAM | Published |
 | 🧠 **Harsh OS** <sub>`private`</sub> | Local-first 4-agent cognitive layer for LinkedIn — Tampermonkey ↔ Ollama, local vector DB, zero data leaves the machine | Vanilla JS · Ollama | v1 |
-| 💼 **DoppelDash** <sub>`private`</sub> | Internal operational platform built during the Doppelmayr internship | TypeScript · React · Node.js · MongoDB | Phase 14 |
+| 💼 **DoppelDash** <sub>`private`</sub> | Internal operational platform built during the Doppelmayr internship — now multi-tenant with full `orgId` route scoping, organization self-signup, and mobile Bearer-token auth with refresh-token rotation | TypeScript · React · Node.js · MongoDB | Multi-tenant |
 
 </details>
 
@@ -342,19 +347,25 @@ Coursework: Data Structures & Algorithms, Operating Systems, DBMS, Theory of Com
 
 - [ ] **IRoC-U 2026 Finals** — clear the final round with ISRO
 - [ ] Get the negative-result paper onto **arXiv q-fin.PM** (seeking endorsement)
-- [ ] **RopeIQ** — industry outreach and enterprise validation, now that the codebase is public
+- [ ] **RopeIQ** — industry outreach and enterprise validation on the deployed service
 - [ ] **ChronoTrack** — enterprise pilot deployment
 - [ ] **pod-transit Era 2** — finish the fleet / ROW / geo-export track
 - [ ] **terra-verify** — publish the validation methodology
 - [ ] **GATE 2027** — top-500 rank
 - [ ] Speak at a robotics or edge-AI conference
 - [ ] **Taramandal Tier 1** — music-locked show timing and a hardware-in-the-loop rehearsal beyond SITL
-- [ ] **Taramandal at scale** — load-test `tara-sim` at 500 and 1000 drones and publish the real ceiling, not the hoped-for one
 - [ ] **airgapped-netops-ai** — cut a tagged release through the new CI pipeline
 - [ ] **traffic-surveillance-system** — land both IJSRSET paper submissions
-- [ ] **Potnis** — first Play Store release
+- [ ] **Potnis** and **fuel-margdarshak** — first Play Store releases
 - [ ] **netguard-ml** — get the live-capture path validated on traffic I didn't generate myself
-- [x] ✅ **Open-source RopeIQ** — Autonomous-Ropeway-Alignment is public and running in production
+- [ ] **AlgoTrade live pilot** — run the real-money track to a full reporting window and publish the paper-vs-live slippage honestly
+- [ ] **Taramandal Studio** — Web Audio music visualizer and multi-track LED choreography editor (the last open `difficulty:core` issue)
+- [ ] **queuepay** — close out the Phase 1 MVP backlog with outside contributors
+- [ ] **MARS** — submit the swarm-coverage paper (and its negative-result companion) as an arXiv preprint
+- [ ] **SIH 2026** — take the FleetOps command-center prototype from mock to working pilot
+- [x] ✅ **MARS on Zenodo** — citable DOI, CITATION.cff, machine-portable reproducibility bundle
+- [x] ✅ **Taramandal at scale** — 1,000-drone synthetic telemetry load test, cKDTree spatial benchmark and WebGL night-sky viewport all landed
+- [x] ✅ **RopeIQ in production** — systemd unit, Cloudflare tunnel, Postgres PITR with a verified restore
 - [x] ✅ **Taramandal monorepo** — Studio + GCS unified on `tara-core`, opened to outside contributors (first external PR merged)
 - [x] ✅ **IRoC arena** — all 15 rule-book features built, N=30 validation campaign at 30/30
 - [x] ✅ **Taramandal Tier 0** — collision-free formation morphing, verified end-to-end Studio → GCS
