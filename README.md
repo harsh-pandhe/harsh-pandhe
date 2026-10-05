@@ -2,7 +2,7 @@
 
 **Harsh Pandhe** is a robotics and systems engineer based in Navi Mumbai, India. He builds autonomous navigation stacks (ROS 2, PX4, LiDAR SLAM), multi-agent reinforcement learning for robot swarms, quantitative trading research, and geospatial infrastructure software. He is a **Software Development Intern at Doppelmayr**, a **Finalist and Automation & Navigation Lead at the ISRO Robotics Challenge (IRoC-U 2026)**, the **Smart India Hackathon 2025 National Winner**, and an **SSRN-published quantitative finance researcher**.
 
-> Teensy firmware, a Rust order-matching engine, Sentinel-2 pipelines, ROS 2 swarms, Solidity contracts. Ninety-one public repositories in, the range is less scattered than it looks — I keep landing in the same place: **systems that touch the physical world, where being wrong is expensive and nobody grades you on the demo.**
+> Teensy firmware, a Rust order-matching engine, Sentinel-2 pipelines, ROS 2 swarms, Solidity contracts. One hundred public repositories in, the range is less scattered than it looks — I keep landing in the same place: **systems that touch the physical world, where being wrong is expensive and nobody grades you on the demo.**
 
 <p align="center">
   <a href="https://harshpandhe.com"><img src="https://img.shields.io/badge/Portfolio-harshpandhe.com-0891b2?style=for-the-badge" alt="Portfolio: harshpandhe.com" /></a>
@@ -36,7 +36,7 @@ publications:
   - IRJMETS (2024) — "Collaborative Real-Time Code" (distributed systems)
 leadership:  Web, Cybersecurity & Blockchain Head, IIC-SIT · Lead Organizer, Project Morpheus 2026
 core_stack:  [ROS 2, PX4, Gazebo, Python, PyTorch, Rust, TypeScript, Next.js, PostgreSQL, Solidity, Docker]
-open_source: 91 public repositories · upstream contributor to validator.js and Textualize/rich
+open_source: 100 public repositories · upstream contributor to validator.js and Textualize/rich
 contact:     harshpandhehome@gmail.com · https://harshpandhe.com · https://github.com/harsh-pandhe
 open_to:     Research collaborations · Open-source work · Robotics & quant roles
 ```
@@ -49,13 +49,12 @@ open_to:     Research collaborations · Open-source work · Robotics & quant rol
 ## 🟢 What I'm working on right now
 
 - 🛰️ **ISRO Robotics Challenge (IRoC-U 2026)** — Finalist and Automation & Navigation Lead. GPS-denied UAV navigation: Fast-LIO over a Livox MID-360 LiDAR, EKF2 fusion with optical flow, ROS 2 + PX4, a Raspberry Pi 5 companion computer split from a Pixhawk 6c flight controller, and a custom docking station for persistent missions.
-- 💼 **Doppelmayr** — six months owning navigation and automation work on **DoppelDash** and ropeway automation, inside confidential projects valued in the millions, against strict international engineering standards.
-- 🎆 **Taramandal** — a full drone-show stack: **[taramandal-studio](https://github.com/harsh-pandhe/taramandal-studio)** (parametric swarm choreography, bezier-spline pathing, music timeline sync, OBJ voxelizer, cKDTree collision validation) exporting straight into **[Taramandal-GCS](https://github.com/harsh-pandhe/Taramandal-GCS)** (PX4 + Gazebo SITL, MAVSDK bridge, 5 Hz WebSocket telemetry, auto-abort failsafes).
-- 📊 **AlgoTrade** — a live paper-trading system on the NSE, now on a bounded 60-day validated run with automatic proof reporting. Two overlays promoted this quarter; four rejected on the data.
-- ⏱️ **[ChronoTrack](https://github.com/harsh-pandhe/ChronoTrack) v3.2.5** — 2FA (TOTP + WebAuthn passkeys), team-lead dashboards with productivity heatmaps, searchable audit trail, `electron-updater` auto-update.
+- 💼 **Doppelmayr** — owning navigation and automation work on **DoppelDash** and ropeway automation inside confidential engineering projects, with strict international engineering standards.
+- 🎆 **Taramandal** — the drone-show stack now scales to **1,000 simulated drones in real time** via bulk telemetry. Trajectory uploads are Ed25519-signed; broadcast/downlink authentication uses HMAC-SHA256 with anti-replay counters. Studio adds a 30 m reach limit, trajectory-derived dynamic geofencing, canonical JSON Schema + Pydantic show validation, collision-free 100-drone pad sequencing, and a pinned 2.0 m minimum helix separation.
+- 📊 **AlgoTrade** — systematic NSE research is now running a frozen F&O validation track. Date-effective instrument master, cost and margin models were built spec-first; OPT-FLOW-001 and the falsification battery both returned **INCONCLUSIVE / HOLD**. Three unattended-production failures were also fixed: a systemd-inhibit skip, a 1,206-message Telegram backlog, and two dashboard/live-broker reconciliation errors.
+- 🔐 **Taramandal infrastructure** — emergency RTL/LAND is one-click-confirmed, and distributed local CI now covers the stack because GitHub Actions billing is locked.
 
-<sub>↻ Updated 2026-08-02</sub>
-
+<sub>↻ Updated 2026-10-02</sub>
 ---
 
 <a name="research"></a>
@@ -69,6 +68,15 @@ open_to:     Research collaborations · Open-source work · Robotics & quant rol
 An XGBoost cross-sectional ranker is tested head-to-head against a plain 12-1 momentum baseline on the **Nifty 500**, under a strict walk-forward protocol with realistic transaction costs. The result is negative and reported as such: the machine-learning model **does not** beat the baseline once statistical significance and costs are applied. Even a native learning-to-rank objective that matches the baseline's Sharpe ratio needs **1.8× the portfolio turnover** to get there — the added complexity buys no distinguishable benefit.
 
 Evaluation used the **Stationary Block Bootstrap** and **Jobson–Korkie–Memmel** tests. The open-source research harness is published alongside the paper.
+
+### The Cost of Sector Constraints in Cross-Sectional Momentum
+**Evidence from the Nifty 500** · SSRN, 2026 · *independent researcher*
+
+🔗 **[Read the paper on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7376218)**
+
+A second Nifty 500 study tests the institutional convention of sector-neutrality under realistic Indian statutory friction. Across 10 expanding walk-forward folds and 1,260 out-of-sample trading days, capping each sector at three stocks reduced average concentration (HHI 0.169 → 0.084) but cut CAGR from **42.56% to 33.97%** and Sharpe from **1.728 to 1.497**. The result is statistically significant under both stationary-block bootstrap and Jobson–Korkie–Memmel testing.
+
+The proposed mechanism is **factor dilution via rank loss**: sector caps force the strategy out of high-conviction momentum leaders in leading industries and into lower-ranked names in lagging sectors. The selected momentum rank deteriorated from **15.5 to 48.2**, with Newey–West HAC regression linking that rank loss to subsequent relative underperformance.
 
 ### Collaborative Real-Time Code
 **IRJMETS, January 2024** — collaborative editing architecture; 50+ concurrent users at sub-50 ms sync (implemented as CollabCodex).
@@ -227,12 +235,12 @@ Overseeing web, security and blockchain across campus initiatives for 500+ stude
 ## 📚 Full project index
 
 <details>
-<summary><strong>All 91 public repositories — expand for the full list</strong></summary>
+<summary><strong>All 100 public repositories — expand for the full list</strong></summary>
 
 | Project | What it is | Stack | Status |
 |---|---|---|---|
-| 🎆 **[taramandal-studio](https://github.com/harsh-pandhe/taramandal-studio)** | Swarm choreography generator & 3-D visualizer — parametric show design, bezier-spline pathing, music timeline sync, OBJ voxelizer, cKDTree safety validator, one-click Send-to-GCS | JavaScript · React · Three.js | Active |
-| 🛰️ **[Taramandal-GCS](https://github.com/harsh-pandhe/Taramandal-GCS)** | Drone-swarm command & control + SITL suite — Hungarian formation morphing, proximity rings, geofence auto-abort, RTK telemetry, `.skyc` import | Python · PX4 · FastAPI · React | Active |
+| 🎆 **[taramandal-studio](https://github.com/harsh-pandhe/taramandal-studio)** | Swarm choreography generator & 3-D visualizer — parametric show design, bezier-spline pathing, music timeline sync, OBJ voxelizer, cKDTree safety validator, trajectory-derived geofence, 30 m reach limit, canonical show-schema validation, and one-click Send-to-GCS | JavaScript · React · Three.js | Active |
+| 🛰️ **[Taramandal-GCS](https://github.com/harsh-pandhe/Taramandal-GCS)** | Drone-swarm command & control + SITL suite — **1,000 sim drones in real time**, bulk telemetry, Ed25519-signed trajectory uploads, HMAC-SHA256 anti-replay downlink, formation morphing, proximity rings, geofence auto-abort, RTK telemetry, .skyc import | Python · PX4 · FastAPI · React | Active |
 | 🤖 **[MARS](https://github.com/harsh-pandhe/MARS)** | Multi-agent TurtleBot3 swarm — MAPPO/CTDE, permutation-invariant GNN policy, 20 Hz CBF safety QP, 100 % coverage | Python · ROS 2 · Ray RLlib · PyTorch | Phase 2 |
 | 🤖 **[Bot](https://github.com/harsh-pandhe/Bot)** | Teensy 4.1 neural maze solver + line follower — RoboRashtra 2026 1st Runner-Up | C++ · Teensy 4.1 · Neural networks | Competition winner |
 | 🌐 **[airgapped-netops-ai](https://github.com/harsh-pandhe/airgapped-netops-ai)** | Fully offline NOC copilot — citation-aware RAG, Isolation Forest anomaly detection, SHAP explainability | FastAPI · React · Ollama · ChromaDB | Tracks 1–3 complete |
@@ -333,6 +341,8 @@ Coursework: Data Structures & Algorithms, Operating Systems, DBMS, Theory of Com
 
 - [ ] **IRoC-U 2026 Finals** — clear the final round with ISRO
 - [ ] Get the negative-result paper onto **arXiv q-fin.PM** (seeking endorsement)
+- [ ] **AlgoTrade F&O** — extend the methods stack and falsification work beyond OPT-FLOW-001
+- [ ] **Taramandal Studio AI** — prototype AI-assisted choreography / show authoring
 - [ ] **RopeIQ** — industry outreach and enterprise validation
 - [ ] **ChronoTrack** — enterprise pilot deployment
 - [ ] **pod-transit Era 2** — finish the fleet / ROW / geo-export track
@@ -341,11 +351,10 @@ Coursework: Data Structures & Algorithms, Operating Systems, DBMS, Theory of Com
 - [ ] Speak at a robotics or edge-AI conference
 - [x] ✅ Publish quantitative research to **SSRN**
 - [x] ✅ Ship the **Taramandal** studio → GCS pipeline
+- [x] ✅ **Taramandal link security** — signed uploads + authenticated broadcast link
 - [x] ✅ **MARS** Phase 2 — CBF safety filter, collision avoidance, 100 % coverage
 - [x] ✅ **ChronoTrack v3.2.5** — 2FA, team-lead dashboards, auto-update installer
 - [x] ✅ Open-source the **maze-solver neural network** firmware ([Bot](https://github.com/harsh-pandhe/Bot))
-
----
 
 <a name="contact"></a>
 ## 🤝 Contact
