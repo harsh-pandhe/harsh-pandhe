@@ -2,7 +2,7 @@
 
 **Harsh Pandhe** is a robotics and systems engineer based in Navi Mumbai, India. He builds autonomous navigation stacks (ROS 2, PX4, LiDAR SLAM), multi-agent reinforcement learning for robot swarms, quantitative trading research, and geospatial infrastructure software. He is a **Software Development Intern at Doppelmayr**, a **Finalist and Automation & Navigation Lead at the ISRO Robotics Challenge (IRoC-U 2026)**, the **Smart India Hackathon 2025 National Winner**, and an **SSRN-published quantitative finance researcher**.
 
-> Teensy firmware, a Rust order-matching engine, Sentinel-2 pipelines, ROS 2 swarms, Solidity contracts. A hundred public repositories in, the range is less scattered than it looks — I keep landing in the same place: **systems that touch the physical world, where being wrong is expensive and nobody grades you on the demo.**
+> Teensy firmware, a Rust order-matching engine, Sentinel-2 pipelines, ROS 2 swarms, Solidity contracts. 140+ repositories in, the range is less scattered than it looks — I keep landing in the same place: **systems that touch the physical world, where being wrong is expensive and nobody grades you on the demo.**
 
 <p align="center">
   <a href="https://harshpandhe.com"><img src="https://img.shields.io/badge/Portfolio-harshpandhe.com-0891b2?style=for-the-badge" alt="Portfolio: harshpandhe.com" /></a>
@@ -23,23 +23,27 @@
 ```yaml
 name:        Harsh Pandhe
 pronouns:    he/him
-role:        Software Development Intern, Doppelmayr (Apr 2026 – present)
+role:        Former Software Development Intern, Doppelmayr (Apr – Oct 2026)
 focus:       Autonomous navigation · Multi-agent robotics · Quantitative research · Geospatial infrastructure
 location:    Navi Mumbai, Maharashtra, India
 education:   B.Tech Computer Science, Sinhgad Institute of Technology (SIT) Lonavala, 2024–2027
 awards:
-  - Smart India Hackathon 2025 — National Winner (team lead, 10,000+ teams)
+  - Smart India Hackathon 2025 — National Winner (Team Algo Sapiens, 10,000+ teams)
   - ISRO Robotics Challenge IRoC-U 2026 — Finalist, Automation & Navigation Lead (Team ID 10144)
   - RoboRashtra 2026 — 1st Runner-Up, Chakravyuh maze & line solving
+  - Singapore–India Hackathon 2026 — selected for the Grand Finale (SMU, 15–17 Nov 2026)
 publications:
   - SSRN (2026) — "When Gradient Boosting Does Not Beat Momentum" (quantitative finance)
   - SSRN (2026) — "The Cost of Sector Constraints in Cross-Sectional Momentum"
-  - SSRN (2026) — "Slicing Execution Drag via Hysteresis Rebalance Bands"
+  - SSRN (2026) — "Hysteresis Rebalancing in Cross-Sectional Momentum: Reducing Boundary Churn and Transaction-Cost Drag in Indian Equities"
+  - SSRN (2026) — "MARS: A Safety-Filtered Multi-Robot Area-Coverage Testbed with Classical, Random-Walk and MAPPO Controllers"
+  - SSRN (2026) — "A Failed Diagnosis of Entropy Collapse in Small-Budget MAPPO for Multi-Robot Area Coverage"
+  - SSRN (2026) — "Diagnosing Low-Displacement Failure Mode in MAPPO for Multi-Robot Area Coverage"
   - Zenodo (2026) — MARS multi-robot area-coverage testbed, DOI 10.5281/zenodo.22758285
   - IRJMETS (2024) — "Collaborative Real-Time Code" (distributed systems)
 leadership:  Web, Cybersecurity & Blockchain Head, IIC-SIT · Lead Organizer, Project Morpheus 2026
 core_stack:  [ROS 2, PX4, Gazebo, Python, PyTorch, Rust, TypeScript, Next.js, PostgreSQL, Solidity, Docker]
-open_source: 102 public repositories · open PRs to validator.js and Textualize/rich
+open_source: 101 public repositories · open PRs to validator.js and Textualize/rich
 contact:     harshpandhehome@gmail.com · https://harshpandhe.com · https://github.com/harsh-pandhe
 open_to:     Research collaborations · Open-source work · Robotics & quant roles
 ```
@@ -82,12 +86,12 @@ A second Nifty 500 study tests the institutional convention of sector-neutrality
 
 The proposed mechanism is **factor dilution via rank loss**: sector caps force the strategy out of high-conviction momentum leaders in leading industries and into lower-ranked names in lagging sectors. The selected momentum rank deteriorated from **15.5 to 48.2**, with Newey–West HAC regression linking that rank loss to subsequent relative underperformance.
 
-### Slicing Execution Drag via Hysteresis Rebalance Bands
-**An asymmetric banded-rebalancing study on the Nifty 500** · SSRN, 2026 · *independent researcher*
+### Hysteresis Rebalancing in Cross-Sectional Momentum
+**Reducing boundary churn and transaction-cost drag in Indian equities (Nifty 500)** · SSRN, 2026 · *independent researcher*
 
 🔗 **[Read the paper on SSRN](https://papers.ssrn.com/abstract=7389238)**
 
-With a buffer band of 60, average monthly liquidations fall from 9.57 to 4.62 names (−51.7 %), annualised cost drag drops from 163 bps to 78 bps, and after-cost CAGR rises from 41.70 % to 45.12 % (Sharpe 1.728 → 1.849). The Sharpe gain is not statistically significant (p = 0.167), and the paper says so — the operational case for fewer orders is the contribution.
+With a buffer band of 60, average monthly liquidations fall from 9.57 to 4.62 names (−51.7 %), annualised cost drag drops from 163 bps to 78 bps, and after-cost CAGR rises from 41.70 % to 45.12 % in the paper's sample (Sharpe 1.728 → 1.849) — a sample-specific result, not a live-trading expectation. The Sharpe gain is not statistically significant (p = 0.167), and the paper says so — the operational case for fewer orders is the contribution.
 
 ### Collaborative Real-Time Code
 **IRJMETS, January 2024** — collaborative editing architecture; 50+ concurrent users at sub-50 ms sync (implemented as CollabCodex).
@@ -205,10 +209,10 @@ This is the same instinct across every domain I work in: measure the thing befor
 <a name="experience"></a>
 ## 💼 Experience & leadership
 
-### Software Development Intern — Doppelmayr
-**Apr 2026 – present** · ropeway & transport automation, global engineering team
+### Software Development Intern — Doppelmayr India
+**Apr – Oct 2026** · internal enterprise platform team
 
-Building **DoppelDash**, an internal operational platform (TypeScript, React, Node.js, MongoDB) — role-aware global search, approval chains, audit logging with plain-English summaries, IMAP inbox integration, branded PDF/Excel exports, and a full-application security-hardening pass. Contributing to confidential projects valued in the millions, where every line of code must meet strict international standards. Equipped with an RTX 4060 workstation for physics simulation, LLM workflows, and enterprise AI automation.
+Built **DoppelDash**, an internal operational platform (TypeScript, React, Node.js, MongoDB) — role-aware global search, approval chains, audit logging with plain-English summaries, IMAP inbox integration, branded PDF/Excel exports, and a full-application security-hardening pass.
 📰 *Featured in [Maval Maza](https://www.mavalmaza.com/news/SIT-lonavala-student-selected-for-prestigious-internship-in-austria-after-national-robotics-and-hackathon-success) — state-level press coverage of the selection.*
 
 ### Automation & Navigation Lead — ISRO Robotics Challenge (IRoC-U 2026)
@@ -216,10 +220,10 @@ Building **DoppelDash**, an internal operational platform (TypeScript, React, No
 
 Leading GPS-denied autonomous UAV navigation: Fast-LIO SLAM over Livox MID-360, EKF2 sensor fusion with optical flow, ROS 2 + Nav2 + PX4 SITL, Pi 5 / Pixhawk 6c companion-compute split over MAVLink, Coral TPU thermal + RGB fusion for search-and-rescue, and a custom docking station with wireless charging for persistent missions.
 
-### Team Member(Unofficial Lead) — Smart India Hackathon 2025 (National Winner)
+### Smart India Hackathon 2025 — National Winner
 **Team Algo Sapiens · Dec 2025**
 
-Led six people to national victory among **10,000+ teams** with **Telhan Sathi** — the first team from SIT Lonavala ever to reach nationals, and to win. Architected the ML crop-shift models and IoT soil-detection hardware, interfaced the hardware to the app live when it failed during the 36-hour finale, and scripted the pitch sequence itself.
+Won nationally with **Team Algo Sapiens** among **10,000+ teams** with **Telhan Sathi** — the first team from SIT Lonavala ever to reach nationals, and to win. Architected the ML crop-shift models and IoT soil-detection hardware, interfaced the hardware to the app live when it failed during the 36-hour finale, and scripted the pitch sequence itself.
 
 ### Web, Cybersecurity & Blockchain Head — IIC-SIT
 **Oct 2025 – present** · Institution's Innovation Council, SIT Lonavala
@@ -253,7 +257,7 @@ Overseeing web, security and blockchain across campus initiatives for 500+ stude
 ## 📚 Full project index
 
 <details>
-<summary><strong>All 102 public repositories — expand for the full list</strong></summary>
+<summary><strong>All 101 public repositories — expand for the full list</strong></summary>
 
 | Project | What it is | Stack | Status |
 |---|---|---|---|
@@ -313,6 +317,7 @@ Overseeing web, security and blockchain across campus initiatives for 500+ stude
 - **Smart India Hackathon 2025 — National Winner** · first team from SIT Lonavala ever to win nationally · [certificate](docs/proofs/sih-2025.jpeg)
 - **ISRO Robotics Challenge (IRoC-U 2026) — Finalist**, Automation & Navigation Lead, Team ID 10144 · [official listing](https://www.ursc.gov.in/IRoC-U2026/Shortlisted_for_EliminationRound.pdf)
 - **RoboRashtra 2026 — 1st Runner-Up**, Chakravyuh maze & line solving (₹10,000)
+- **Singapore–India Hackathon 2026** — selected for the Grand Finale at Singapore Management University (AICTE & MoE Innovation Cell), 15–17 Nov 2026
 - **AICTE & MIC** — selected for Phase II of the IDE Bootcamp, Ministry of Education · [certificate](docs/proofs/aicte-ide.jpeg)
 - **Bentley Systems Illuminate 2026** — digital twin / MicroStation / OpenFlows summit participant
 - **Press** — [Maval Maza](https://www.mavalmaza.com/news/SIT-lonavala-student-selected-for-prestigious-internship-in-austria-after-national-robotics-and-hackathon-success), state-level coverage
