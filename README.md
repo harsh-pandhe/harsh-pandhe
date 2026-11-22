@@ -187,7 +187,7 @@ Browser-based simulator for on-demand pod-transit (ATN) networks: synthetic-popu
 |---|---|---|
 | **[AtherCopilot](https://github.com/harsh-pandhe/AtherCopilot)** | RAG workspace for real-time PDF & URL analysis — embedding store, streaming responses, Clerk → Firebase token-minting bridge for auth-to-DB identity propagation | Next.js 15 · Gemini 2.5 Flash · Google Genkit · Firebase |
 | **[airgapped-netops-ai](https://github.com/harsh-pandhe/airgapped-netops-ai)** | NOC copilot that predicts network degradation and explains itself — **zero outbound traffic**. Citation-aware RAG, Isolation Forest anomaly detection, SHAP explainability, retraining feedback loop | FastAPI · React · Ollama · ChromaDB |
-| **[Project Morpheus 2026](https://github.com/harsh-pandhe/Project-Morpheus)** | Logistics engine + site for a national 24-hour hackathon — **150+ teams (500+ participants), 5 domains, ₹2,00,000+ in prizes**. Rule-driven allocation, atomic MongoDB transactions preventing double-booking under concurrent load. [Live](https://www.projectmorpheus.in/) | Next.js · MongoDB · Three.js · Framer Motion |
+| **[Project Morpheus 2026](https://github.com/harsh-pandhe/Project-Morpheus)** | Logistics engine + site for a national 24-hour hackathon — **150+ teams, 1,300+ registrations, 5 domains, ₹2,00,000+ in prizes**. Rule-driven allocation, atomic MongoDB transactions preventing double-booking under concurrent load. [Live](https://www.projectmorpheus.in/) | Next.js · MongoDB · Three.js · Framer Motion |
 | **CityConnect** | Civic reporting with on-chain EcoCoin rewards — 1000+ req/s with Redis caching | Next.js · Django · Solidity · MongoDB |
 | **Telhan Sathi** | AI oilseed-farming advisory — **SIH 2025 National Winner** (MoA&FW PS 25273). ML crop-shift models, IoT soil sensing, PWA with real-time farm dashboards | Python · Django · IoT · PWA |
 | **[AgriTrace](https://github.com/harsh-pandhe/AgriTrace)** | Circular-economy platform connecting farmers to recycling agents — AI waste classification + Razorpay traceability ledger | Next.js · Google GenAI · Razorpay · Firebase |
@@ -229,7 +229,7 @@ Won nationally with **Team Algo Sapiens** among **10,000+ teams** with **Telhan 
 ### Web, Cybersecurity & Blockchain Head — IIC-SIT
 **Oct 2025 – present** · Institution's Innovation Council, SIT Lonavala
 
-Overseeing web, security and blockchain across campus initiatives for 500+ students. **Lead Organizer of [Project Morpheus 2026](https://www.projectmorpheus.in/)** — a national 24-hour hackathon with 150+ teams (500+ participants) across 5 domains and ₹2,00,000+ in prizes. Co-architected [Kalpataru 2025](https://www.thekalpataru.com/). Mentored **70+ developers** through the CODE2LAUNCH workshop; evaluated 50+ projects on architecture and security.
+Overseeing web, security and blockchain across campus initiatives for 500+ students. **Lead Organizer of [Project Morpheus 2026](https://www.projectmorpheus.in/)** — a national 24-hour hackathon with 150+ teams, 1,300+ registrations across 5 domains and ₹2,00,000+ in prizes. Co-architected [Kalpataru 2025](https://www.thekalpataru.com/). Mentored **70+ developers** through the CODE2LAUNCH workshop; evaluated 50+ projects on architecture and security.
 
 ---
 
@@ -274,7 +274,7 @@ Overseeing web, security and blockchain across campus initiatives for 500+ stude
 | 🌐 **[airgapped-netops-ai](https://github.com/harsh-pandhe/airgapped-netops-ai)** | Fully offline NOC copilot — citation-aware RAG, Isolation Forest anomaly detection, SHAP explainability; 5-job CI with coverage gate & secret scanning | FastAPI · React · Ollama · ChromaDB | Tracks 1–3 · CI hardened |
 | ⏱️ **[ChronoTrack](https://github.com/harsh-pandhe/ChronoTrack)** | Privacy-respecting workforce telemetry & project-ROI platform — Electron agent + Python AI daemon + web dashboard, GDPR/DPDP-compliant, 2FA with TOTP & passkeys | Electron · Python · React · PostgreSQL | v3.2.5 |
 | 🤖 **[AtherCopilot](https://github.com/harsh-pandhe/AtherCopilot)** | RAG AI workspace — multi-document context, Clerk → Firebase auth bridge | Next.js 15 · Genkit · Gemini · Firebase | Live |
-| 🎯 **[Project-Morpheus](https://github.com/harsh-pandhe/Project-Morpheus)** | National 24-hour hackathon platform — 150+ teams, 500+ participants, atomic allocation engine | Next.js · MongoDB · Three.js | [Live](https://www.projectmorpheus.in/) |
+| 🎯 **[Project-Morpheus](https://github.com/harsh-pandhe/Project-Morpheus)** | National 24-hour hackathon platform — 150+ teams, 1,300+ registrations, atomic allocation engine | Next.js · MongoDB · Three.js | [Live](https://www.projectmorpheus.in/) |
 | 🌱 **[AgriTrace](https://github.com/harsh-pandhe/AgriTrace)** | Agricultural waste traceability — AI classification + Razorpay ledger | Next.js · Google GenAI · Firebase | Active |
 | 🎮 **[3d-chess](https://github.com/harsh-pandhe/3d-chess)** | 3-D multiplayer chess — Stockfish AI, Supabase realtime, glassmorphic UI | Next.js · React Three Fiber · Supabase | Live |
 | 🚁 **[Drone](https://github.com/harsh-pandhe/Drone)** | Scrollytelling drone-workshop site — 40-frame scroll sequence, isometric LiDAR swarm sim on Canvas | Next.js 14 · TypeScript · Canvas API | [Live](https://drone-workshop-iic.vercel.app/) |
